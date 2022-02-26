@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在光坂高中空无一人的教室内，藤林椋（神田朱未）终于鼓起勇气向被人当作不良少年的冈崎朋也（中村悠一）表白。幸运的是，她的爱意没有落于虚空，得到了冈崎热情而肯定的回应。两人自此开始交往，望着沉浸在幸福中的妹妹，藤林杏（广桥凉）心中自是无法道出的复杂感受。某个明媚的假日，冈崎和杏在公园不期而遇。杏半开玩笑地教冈崎把自己当作椋练习接吻，谁知这一幕却被同学看见，第二天便在学校内传得风言风语。为了消除谣言，杏甚至假装和春原阳平（阪口大助）交往。  甜蜜又青涩的学生时代，说不清道不明的爱恋情怀……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>另一个世界 杏篇</title>
+  <originaltitle>もうひとつの世界 杏編</originaltitle>
+  <writer>Fumihiko Shimo</writer>
+  <credits>Fumihiko Shimo</credits>
+  <rating>5</rating>
+  <year>2009</year>
+  <imdbid>tt1468303</imdbid>
+  <tvdbid>829741</tvdbid>
+  <runtime>24</runtime>
+  <studio>Kyoto Animation</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/CLANNAD (2007)/Specials/CLANNAD - S00E05 - 另一个世界 杏篇-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Tomoya Okazaki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Nakahara</name>
+    <role>Nagisa Furukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mai Nakahara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Fuuko Ibuki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryo Hirohashi</name>
+    <role>Kyou Fujibayashi</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryo Hirohashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Sakaguchi</name>
+    <role>Youhei Sunohara</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Sakaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satomi Korogi</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satomi Korogi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomoko Kawakami</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomoko Kawakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryotaro Okiayu</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryotaro Okiayu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <episode>5</episode>
+  <season>0</season>
+  <aired>2009-07-01</aired>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_season>2</airsbefore_season>
+  <displayseason>2</displayseason>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3062499</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1506035</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>CLANNAD-S00E05-另一个世界杏篇</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>CLANNAD</showtitle>
+  <uniqueid default="false" type="tmdb">647147</uniqueid>
+  <uniqueid default="true" type="imdb">tt1468303</uniqueid>
+  <uniqueid default="false" type="tvdb">829741</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>5.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.6</value>
+      <votes>391</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/yI8zXMCSUlIzylw7FHCL3AnVzTS.jpg</thumb>
+  <epbookmark />
+  <code />
+  <bangumiid>96</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>CLANNAD - S00E05 - 另一个世界 杏篇.mkv</original_filename>
+  <user_note />
+</episodedetails>

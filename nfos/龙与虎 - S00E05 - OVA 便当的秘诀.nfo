@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>北村奶奶豪华的便当点燃了龙儿的料理之魂，让龙儿对她产生了“敌对心”。他想方设法制作了各式各样的料理——豪华的炸猪排套餐、简陋的盒装杯面、甚至带上了电饭锅想制作香喷喷的蘑菇烧饭。但是龙儿的野心却一次次被击得粉碎——炸猪排套餐败给了简易精致的饭团、盒装杯面败给了即溶式洋葱汤、而电饭锅更是从一开始就没搬上擂台。而在龙儿一蹶不振之时，大河制作的饭团像及时雨一样滋润了那颗郁闷的内心。虽然那饭团太咸以至于难以下咽，但它却充满了大河满满的心意和不懈的努力。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:44</dateadded>
+  <title>OVA 便当的秘诀</title>
+  <originaltitle>弁当の極意</originaltitle>
+  <writer>Yuyuko Takemiya</writer>
+  <writer>Yasu</writer>
+  <credits>Yuyuko Takemiya</credits>
+  <credits>Yasu</credits>
+  <rating>8</rating>
+  <year>2011</year>
+  <imdbid>tt6058054</imdbid>
+  <tvdbid>4225416</tvdbid>
+  <runtime>27</runtime>
+  <studio>J.C.Staff</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/龙与虎 (2008)/Specials/龙与虎 - S00E05 - OVA 便当的秘诀-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Taiga Aisaka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yui Horie</name>
+    <role>Kushieda Minori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yui Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Tanaka</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Haruta Kouji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eri Kitamura</name>
+    <role>Ami Kawashima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eri Kitamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Kitamura Yuusaku (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Kihara Maya (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuyuki Okitsu</name>
+    <role>Noto Hisamitsu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuyuki Okitsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junji Majima</name>
+    <role>Takasu Ryuuji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Junji Majima/folder.jpg</thumb>
+  </actor>
+  <episode>5</episode>
+  <season>0</season>
+  <aired>2011-12-21</aired>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_season>1</airsbefore_season>
+  <displayseason>1</displayseason>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3170638</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>26</duration>
+        <durationinseconds>1590</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>960000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>龙与虎-S00E05-OVA便当的秘诀</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>龙与虎</showtitle>
+  <uniqueid default="false" type="tmdb">883609</uniqueid>
+  <uniqueid default="true" type="imdb">tt6058054</uniqueid>
+  <uniqueid default="false" type="tvdb">4225416</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>2</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/lOMeCOZYMsrLdErpJw9glTQNw2y.jpg</thumb>
+  <epbookmark />
+  <code />
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>龙与虎 - S00E05 - OVA 便当的秘诀.mkv</original_filename>
+  <user_note />
+</episodedetails>

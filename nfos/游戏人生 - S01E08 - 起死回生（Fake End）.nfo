@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>得知了败给东部联合的游戏的秘密的空等人在艾尔奇亚东部联合大使馆进行访问。首次面对大使初濑伊纲和副大使初濑伊野，空白二人就提出了以大陆对东部联合的所有要求为赌注的宣战布告。面对对游戏胜负含糊其辞的东部联盟，空他们不可避免地一手揭晓了游戏的秘密。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-20 18:53:31</dateadded>
+  <title>起死回生（Fake End）</title>
+  <director>Atsuko Ishizuka</director>
+  <director>Akira Shimizu</director>
+  <writer>Jukki Hanada</writer>
+  <writer>Yuu Kamiya</writer>
+  <credits>Jukki Hanada</credits>
+  <credits>Yuu Kamiya</credits>
+  <rating>8.6</rating>
+  <year>2014</year>
+  <imdbid>tt3907610</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/游戏人生 (2014)/Season 1/metadata/游戏人生 - S01E08 - 起死回生（Fake End）.jpg</poster>
+  </art>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Sora (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshitsugu Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Shiro (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoko Hikasa</name>
+    <role>Stephanie Dola (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoko Hikasa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Clammy Zell (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuka Iguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Jibril (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Izuna Hatsuse (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Tet (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Fiel Nirvalen (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kouichi Souma</name>
+    <role>Masses (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>22</sortorder>
+  </actor>
+  <actor>
+    <name>Jun Yokoyama</name>
+    <role>Masses (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>23</sortorder>
+  </actor>
+  <actor>
+    <name>Atsushi Kosaka</name>
+    <role>Masses (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>24</sortorder>
+  </actor>
+  <actor>
+    <name>Ryokichi Takahashi</name>
+    <role>Masses (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>25</sortorder>
+  </actor>
+  <actor>
+    <name>Mugihito</name>
+    <role>Ino Hatsuse (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>32</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mugihito/folder.jpg</thumb>
+  </actor>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2014-05-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7584814</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1442</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1494787</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1314958</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

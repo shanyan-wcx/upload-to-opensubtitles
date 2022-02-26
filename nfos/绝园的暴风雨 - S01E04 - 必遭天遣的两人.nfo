@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>好不容易甩掉夏村的吉野和真广，为了回收叶风藏起的魔具，造访某座山村附近的神社。担心叶风归来的左门急着加快仪式进度，于是果实偶然在山村的附近觉醒。两人因魔具之力而幸免于黑铁病，并在无人的村里民宅里度过一晚雨夜，叶风并趁他们休息时问了关于两人的往事。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>必遭天遣的两人</title>
+  <originaltitle>罰あたり、ふたり</originaltitle>
+  <writer>Mari Okada</writer>
+  <credits>Mari Okada</credits>
+  <rating>8</rating>
+  <year>2012</year>
+  <imdbid>tt3552182</imdbid>
+  <tvdbid>4411176</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Fantasy</genre>
+  <studio>Aniplex</studio>
+  <tvrageid>1065233857</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/绝园的暴风雨 (2012)/Season 1/绝园的暴风雨 - S01E04 - 必遭天遣的两人-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Hanemura Megumu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Fuwa Aika (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Koki Uchiyama</name>
+    <role>Takigawa Yoshino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Koki Uchiyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rikiya Koyama</name>
+    <role>Kusaribe Samon (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rikiya Koyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshiyuki Toyonaga</name>
+    <role>Fuwa Mahiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toshiyuki Toyonaga/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Hoshimura Jun`ichirou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nana Mizuki</name>
+    <role>Evangeline Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nana Mizuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kusaribe Hakaze (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shintaro Asanuma</name>
+    <role>Hayakawa Takumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shintaro Asanuma/folder.jpg</thumb>
+  </actor>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2012-10-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7917342</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1476</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1376441</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>643129</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>绝园的暴风雨-S01E04-必遭天遣的两人</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>绝园的暴风雨</showtitle>
+  <uniqueid default="false" type="tmdb">908591</uniqueid>
+  <uniqueid default="false" type="tvrage">1065233857</uniqueid>
+  <uniqueid default="true" type="imdb">tt3552182</uniqueid>
+  <uniqueid default="false" type="tvdb">4411176</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.1</value>
+      <votes>16</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/h0GxVFQ71K9JfEBhzEQc9vPuG8A.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>455797</tvmazeid>
+  <bangumiid>199004</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>绝园的暴风雨 - S01E04 - 必遭天遣的两人.mkv</original_filename>
+  <user_note />
+</episodedetails>

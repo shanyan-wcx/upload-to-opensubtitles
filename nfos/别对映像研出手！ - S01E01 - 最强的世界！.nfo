@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>梦想是制作动画的高一学生浅草绿，和同学金森沙耶加一同参加动画研究社的放映会。就在此时，著名精英读者模特水崎燕向她们搭话。水崎不知为何，被一群黑衣男人追赶。浅草和金森救下水崎，赶走了黑衣人。两人意外得知水崎的志愿是成为动画家。于是，浅草和水崎的即兴合作开始，意气相投的三人，开始迈向“最强的世界”……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-18 16:07:30</dateadded>
+  <title>最强的世界！</title>
+  <originaltitle>最強の世界！</originaltitle>
+  <director>Masaaki Yuasa</director>
+  <director>Mari Motohashi</director>
+  <writer>Sumito Oowara</writer>
+  <writer>Masaaki Yuasa</writer>
+  <writer>Yuichiro Kido</writer>
+  <credits>Sumito Oowara</credits>
+  <credits>Masaaki Yuasa</credits>
+  <credits>Yuichiro Kido</credits>
+  <rating>7</rating>
+  <year>2020</year>
+  <imdbid>tt11192724</imdbid>
+  <tvdbid>7477009</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>NHK G</studio>
+  <studio>Science SARU</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/别对映像研出手！ (2020)/Season 1/metadata/别对映像研出手！ - S01E01 - 最强的世界！.jpg</poster>
+  </art>
+  <actor>
+    <name>Sairi Ito</name>
+    <role>Midori Asakusa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sairi Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mutsumi Tamura</name>
+    <role>Sayaka Kanamori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mutsumi Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misato Matsuoka</name>
+    <role>Tsubame Mizusaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misato Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Ono</name>
+    <role>Robot Club Ono (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Ono/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Ishizuka</name>
+    <role>Asakusa's mother (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Ishizuka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yasuyo Tomita</name>
+    <role>Conan's voice (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yasuyo Tomita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Risa Shimizu</name>
+    <role>Lana's voice (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Shimizu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shuuei Ikawa</name>
+    <role>Black suit (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shuki Sato</name>
+    <role>Anime Club member (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shuki Sato/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eriko Kadokura</name>
+    <role>Student (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eriko Kadokura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kosuke Echigoya</name>
+    <role>Student (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kosuke Echigoya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junko Oka</name>
+    <role>Student (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Junko Oka/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2020-01-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8091091</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1501</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1441000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>176089</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>别对映像研出手！</showtitle>
+  <uniqueid default="false" type="tmdb">1895606</uniqueid>
+  <uniqueid default="true" type="imdb">tt11192724</uniqueid>
+  <uniqueid default="false" type="tvdb">7477009</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.2</value>
+      <votes>107</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/oPG8dqazVRXdTHNByjhYBGma2uO.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>[Nekomoe kissaten&amp;VCB-Studio] Eizouken ni wa Te o Dasu na! [S01E01][Ma10p_1080p][x265_flac_aac].mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>玛莎的事件过了两天。艾拉失去意识，一直在沉睡着。她在梦中回想起了三年前和香月之间的事情。艾拉想着和司的搭档关系会不会也被解除而感到不安，但她醒过来时，看到了在维护过程中一直照料着艾拉的司。明明应该经历了很痛苦的事，但司却一直在笑着。艾拉对于这样的司感到在意……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>两个人 欢迎回来</title>
+  <originaltitle>2人で、おかえり</originaltitle>
+  <director>Yoshiyuki Fujiwara</director>
+  <writer>Naotaka Hayashi</writer>
+  <writer>Yoshiyuki Fujiwara</writer>
+  <credits>Naotaka Hayashi</credits>
+  <credits>Yoshiyuki Fujiwara</credits>
+  <rating>8</rating>
+  <year>2015</year>
+  <imdbid>tt4637416</imdbid>
+  <tvdbid>5191939</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Doga Kobo</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/可塑性记忆 (2015)/Season 1/可塑性记忆 - S01E06 - 两个人 欢迎回来-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yasuaki Takumi</name>
+    <role>Mizugaki Tsukasa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yasuaki Takumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sora Amamiya</name>
+    <role>Isla (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sora Amamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Michiru Kinushima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayuri Yahagi</name>
+    <role>Zack (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayuri Yahagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Toyoguchi</name>
+    <role>Kazuki Kuwanomi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Toyoguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satoshi Hino</name>
+    <role>Constance (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satoshi Hino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aimi</name>
+    <role>Sherry (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aimi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumire Uesaka</name>
+    <role>Eru Miru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sumire Uesaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuo Tobita</name>
+    <role>Takao Yamanobe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuo Tobita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenjiro Tsuda</name>
+    <role>Yasutaka Hanada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenjiro Tsuda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinnosuke Ogami</name>
+    <role>Ren Kawarake (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Ogami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mitsuaki Hoshino</name>
+    <role>Mikijirou Tetsuguro (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Taiten Kusunoki</name>
+    <role>Shin'ya Godou (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Misato Fukuen</name>
+    <role>Souta Wakanae (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2015-05-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4196044</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1442</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1337144</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>可塑性记忆-S01E06-两个人欢迎回来</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>可塑性记忆</showtitle>
+  <uniqueid default="false" type="tmdb">1058658</uniqueid>
+  <uniqueid default="true" type="imdb">tt4637416</uniqueid>
+  <uniqueid default="false" type="tvdb">5191939</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.8</value>
+      <votes>31</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/gsBAgDFcZffb3nDKkuTKIZXGjki.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>382447</tvmazeid>
+  <bangumiid>512765</bangumiid>
+  <doubanidid>26423440</doubanidid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>可塑性记忆 - S01E06 - 两个人 欢迎回来.mkv</original_filename>
+  <user_note />
+</episodedetails>

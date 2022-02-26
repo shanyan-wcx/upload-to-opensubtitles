@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>作为停职处分之炯的填补，公安局和签订搜查顾问契约的自由记者六合冢弥生也加入了进来。根据六合塚的调查，灼等人推理出杀害李丽的袭击犯是在假死状态下被搬运过来的。另一方面，从入江抓到的情报中探访了位于秋叶原废弃区划的土谷博士的隐藏实验室的一系，知道了博士创造出的新世代人工智能——大师控制·卡莉娜、‘玛卡莉娜’。作为新品种的心理诱导装置的‘玛卡莉娜’与小宫加莉娜的重大秘密紧密相连。犯人的目标是揭露卡莉娜的秘密，然后对之后的选举进行操作……察觉到事件计划目的的灼他们，急忙赶往都知事选举公开讨论会的会场——Gigarena。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>科罗西欧政治斗」</title>
+  <originaltitle>コロッセオの政争</originaltitle>
+  <rating>7.9</rating>
+  <year>2019</year>
+  <imdbid>tt11027028</imdbid>
+  <tvdbid>7376523</tvdbid>
+  <runtime>46</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 3/心理测量者 - S03E04 - 科罗西欧政治斗」-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Shindou Arata</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Kei Mikhail Ignatov</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <episode>4</episode>
+  <season>3</season>
+  <aired>2019-11-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8163304</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2746</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1368817</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S03E04-科罗西欧政治斗」</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1964639</uniqueid>
+  <uniqueid default="true" type="imdb">tt11027028</uniqueid>
+  <uniqueid default="false" type="tvdb">7376523</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>4.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.0</value>
+      <votes>80</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/zOCbyshLqM1y2lUHjg7BvoDaJFu.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1723027</tvmazeid>
+  <bangumiid>196927</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S03E04 - 科罗西欧政治斗」.mkv</original_filename>
+  <user_note />
+</episodedetails>

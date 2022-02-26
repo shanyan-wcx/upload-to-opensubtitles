@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>艾拉回收日的早晨。司和艾拉两人在房间的阳台上注视着朝阳升起。他们清扫了两人生活过的房间，比平常更早地来到办公室，香月在那里等着他们。艾拉想要一如往常地工作，但香月收回了她的职员证，对两人说“快点回去吧”。最后一天，得到两人独处时间的司和艾拉所前往的地方是，游乐园——</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>希望有一天能再次相遇</title>
+  <originaltitle>いつかまた巡り会えますように</originaltitle>
+  <director>Yoshiyuki Fujiwara</director>
+  <writer>Naotaka Hayashi</writer>
+  <writer>Yoshiyuki Fujiwara</writer>
+  <credits>Naotaka Hayashi</credits>
+  <credits>Yoshiyuki Fujiwara</credits>
+  <rating>8</rating>
+  <year>2015</year>
+  <imdbid>tt4816084</imdbid>
+  <tvdbid>5252655</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Doga Kobo</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/可塑性记忆 (2015)/Season 1/可塑性记忆 - S01E13 - 希望有一天能再次相遇-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yasuaki Takumi</name>
+    <role>Mizugaki Tsukasa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yasuaki Takumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sora Amamiya</name>
+    <role>Isla (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sora Amamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Michiru Kinushima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayuri Yahagi</name>
+    <role>Zack (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayuri Yahagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Toyoguchi</name>
+    <role>Kazuki Kuwanomi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Toyoguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satoshi Hino</name>
+    <role>Constance (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satoshi Hino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aimi</name>
+    <role>Sherry (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aimi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumire Uesaka</name>
+    <role>Eru Miru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sumire Uesaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuo Tobita</name>
+    <role>Takao Yamanobe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuo Tobita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenjiro Tsuda</name>
+    <role>Yasutaka Hanada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenjiro Tsuda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinnosuke Ogami</name>
+    <role>Ren Kawarake (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Ogami/folder.jpg</thumb>
+  </actor>
+  <episode>13</episode>
+  <season>1</season>
+  <aired>2015-06-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3887578</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1442</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1308756</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>可塑性记忆-S01E13-希望有一天能再次相遇</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>可塑性记忆</showtitle>
+  <uniqueid default="false" type="tmdb">1084380</uniqueid>
+  <uniqueid default="true" type="imdb">tt4816084</uniqueid>
+  <uniqueid default="false" type="tvdb">5252655</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>9.3</value>
+      <votes>72</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/wVc5tenHatx1pGy96Cw67ebCUgp.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>382454</tvmazeid>
+  <bangumiid>515775</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>可塑性记忆 - S01E13 - 希望有一天能再次相遇.mkv</original_filename>
+  <user_note />
+</episodedetails>

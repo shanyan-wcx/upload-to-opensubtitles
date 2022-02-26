@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>一直被认为是恶魔衰白的生物，竟然是图书馆。图书馆回答了早季关于“恶鬼”和“业魔”的问题，原来，恶鬼是指出现在先史文明末期的拉曼库洛斯基症候群，而业魔则是同样出现于先史文明毁灭前夕的桥本阿培巴姆症候群的中重度期患者的俗称。就在图书馆回答瞬提出的关于“现在社会是如何管理”这个问题的时候，被一把火烧成了灰烬。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>染血的历史</title>
+  <originaltitle>血塗られた歴史</originaltitle>
+  <director>Naomichi Yamato</director>
+  <writer>Masashi Sogo</writer>
+  <writer>Yuusuke Kishi</writer>
+  <writer>Rika Nakase</writer>
+  <writer>Nobutoshi Ogura</writer>
+  <credits>Masashi Sogo</credits>
+  <credits>Yuusuke Kishi</credits>
+  <credits>Rika Nakase</credits>
+  <credits>Nobutoshi Ogura</credits>
+  <rating>0</rating>
+  <year>2012</year>
+  <imdbid>tt2669216</imdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/来自新世界 (2012)/Season 1/来自新世界 - S01E04 - 染血的历史-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Saki Watanabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Satoru Asahina (age 14-26) (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Maria Akizuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Toudou</name>
+    <role>Shun Aonuma (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Haruka Kudou</name>
+    <role>Mamoru Itou (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Tamio Ohki</name>
+    <role>Mushin (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tamio Ohki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sakiko Tamagawa</name>
+    <role>False Minoshiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sakiko Tamagawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Sugita</name>
+    <role>Rijin (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Sugita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kanako Toujou</name>
+    <role>Satoru Asahina (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2012-10-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6945986</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1361</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1532999</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>来自新世界</showtitle>
+  <uniqueid default="true" type="tmdb">922818</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/ukjPzqVd8dwhY3L8iYhtly3kbL4.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388415</tvmazeid>
+  <bangumiid>198796</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>来自新世界 - S01E04 - 染血的历史.mkv</original_filename>
+  <user_note />
+</episodedetails>

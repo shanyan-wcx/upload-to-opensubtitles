@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>朋也与渚开始了两人的生活，他们彼此扶持、协助。渚为了想要帮忙家计，要求朋也让她出去找工作。虽然朋也很担心渚的身体，但渚仍坚持不想让自己一直都是这么软弱。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>新的家人</title>
+  <originaltitle>新しい家族</originaltitle>
+  <writer>Fumihiko Shimo</writer>
+  <credits>Fumihiko Shimo</credits>
+  <rating>0</rating>
+  <year>2009</year>
+  <imdbid>tt1352019</imdbid>
+  <tvdbid>427545</tvdbid>
+  <runtime>24</runtime>
+  <studio>Kyoto Animation</studio>
+  <tvrageid>765830</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/CLANNAD (2007)/Season 2/CLANNAD - S02E14 - 新的家人-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Tomoya Okazaki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Nakahara</name>
+    <role>Nagisa Furukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mai Nakahara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Fuuko Ibuki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryo Hirohashi</name>
+    <role>Kyou Fujibayashi</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryo Hirohashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Sakaguchi</name>
+    <role>Youhei Sunohara</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Sakaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satomi Korogi</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satomi Korogi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomoko Kawakami</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomoko Kawakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryotaro Okiayu</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryotaro Okiayu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroomi Sugino</name>
+    <role>Hikarizaka Electric Company President</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Keiichi Sonobe</name>
+    <type>Actor</type>
+  </actor>
+  <episode>14</episode>
+  <season>2</season>
+  <aired>2009-01-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3189246</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1451</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1570441</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>CLANNAD-S02E14-新的家人</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>CLANNAD</showtitle>
+  <uniqueid default="false" type="tmdb">647134</uniqueid>
+  <uniqueid default="false" type="tvrage">765830</uniqueid>
+  <uniqueid default="true" type="imdb">tt1352019</uniqueid>
+  <uniqueid default="false" type="tvdb">427545</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.6</value>
+      <votes>166</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/2xchoU4mBRjPyoHhbU21cZQOyBP.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388147</tvmazeid>
+  <bangumiid>534</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:40Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>CLANNAD - S02E14 - 新的家人.mkv</original_filename>
+  <user_note />
+</episodedetails>

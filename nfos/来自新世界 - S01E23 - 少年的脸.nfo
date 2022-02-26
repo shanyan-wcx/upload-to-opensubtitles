@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>不知何时泄露出的咒力，使东京的地下变成了地狱一般，为了躲避野狐丸等人的追捕，奇狼丸提议大家分头行动，奇狼丸和觉负责在地下洞穴里留下他们的气味，而早季和乾先生则去开潜艇。但是开潜艇的过程并不顺利，早季遭到了沙蚕的攻击，幸好乾先生出手相助，潜艇才能继续航行，在航行的过程中，早季再度陷入迷幻当中。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>少年的脸</title>
+  <originaltitle>少年の顔</originaltitle>
+  <director>Tomoya Takahashi</director>
+  <writer>Masashi Sogo</writer>
+  <writer>Yuusuke Kishi</writer>
+  <writer>Akira Wamura</writer>
+  <credits>Masashi Sogo</credits>
+  <credits>Yuusuke Kishi</credits>
+  <credits>Akira Wamura</credits>
+  <rating>0</rating>
+  <year>2013</year>
+  <runtime>23</runtime>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/来自新世界 (2012)/Season 1/来自新世界 - S01E23 - 少年的脸-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Saki Watanabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Satoru Asahina (age 14-26) (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroaki Hirata</name>
+    <role>Kiroumaru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroaki Hirata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kohsuke Toriumi</name>
+    <role>Inui (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Akiko Hiramatsu</name>
+    <role>False Minoshiro (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>23</episode>
+  <season>1</season>
+  <aired>2013-03-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7605200</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1361</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1449898</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>来自新世界</showtitle>
+  <uniqueid default="true" type="tmdb">922832</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/qkP0zsuTyXBrLotW2HBnEYqpgEE.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388434</tvmazeid>
+  <bangumiid>198815</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>来自新世界 - S01E23 - 少年的脸.mkv</original_filename>
+  <user_note />
+</episodedetails>

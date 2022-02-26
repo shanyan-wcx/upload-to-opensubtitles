@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>为了将因败给排名第 6 位天翼种而被夺走的国立艾尔奇亚大型图书馆夺回来，空等人前往图书馆。迎接空他们的，是名为吉普莉尔的天翼种少女。空以异世界的知识作为诱饵向吉普莉尔提出游戏条件。惊天动地的游戏战斗拉开序幕！</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-20 18:18:19</dateadded>
+  <title>独招（Interesting）</title>
+  <director>Atsuko Ishizuka</director>
+  <director>Hideki Hosokawa</director>
+  <writer>Jukki Hanada</writer>
+  <writer>Kento Shimoyama</writer>
+  <credits>Jukki Hanada</credits>
+  <credits>Kento Shimoyama</credits>
+  <rating>8.7</rating>
+  <year>2014</year>
+  <imdbid>tt3907602</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/游戏人生 (2014)/Season 1/metadata/游戏人生 - S01E06 - 独招（Interesting）.jpg</poster>
+  </art>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Sora (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshitsugu Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Shiro (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoko Hikasa</name>
+    <role>Stephanie Dola (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoko Hikasa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Clammy Zell (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuka Iguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Jibril (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Izuna Hatsuse (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Tet (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Fiel Nirvalen (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2014-05-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9306126</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1441</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>960000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>960000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

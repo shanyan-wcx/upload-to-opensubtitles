@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在会长的建议下岛田八段回到了家乡山形，空无一人的车站里回响着悲伤的旋律，而岛田还在思索怎么面对一直支持着他的乡亲们。来到会场后岛田之前的顾虑完全消失了，山形著名的“真人将棋”结束后又是“白面指”，桐山看得出来大家对岛田的深厚感情，听到人们对岛田的夸赞后桐山也感到非常开心。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>樱花开时／轻声细语</title>
+  <originaltitle>Chapter.43 桜の花の咲く頃 / Chapter.44 小さなつぶやき</originaltitle>
+  <director>Yukihiro Miyamoto</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Hiroshi Hamazaki</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Hiroshi Hamazaki</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt7726116</imdbid>
+  <tvdbid>5784154</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E21 - 樱花开时／轻声细语-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Binbin Takaoka</name>
+    <role>Izumida (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Tomisaburō Horikoshi</name>
+    <role>Shimada's grandfather (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shinya Takahashi</name>
+    <role>Old man (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chie Arikawa</name>
+    <role>Old woman (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chie Arikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Old man (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Takeshi Tsujii (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kumiko Nakane</name>
+    <role>Moderator (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Youji Ueda</name>
+    <role>Hanaoka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Youji Ueda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Sakaguchi</name>
+    <role>Okuyasu Yokomizo (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Sakaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuhiko Okamoto</name>
+    <role>Harunobu Nikaidou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuhiko Okamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tesshou Genda</name>
+    <role>Takanori Jinguuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shin-ichiro Miki</name>
+    <role>Kai Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shin-ichiro Miki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto / Kuro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shigeru Chiba</name>
+    <role>Someji Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shigeru Chiba/folder.jpg</thumb>
+  </actor>
+  <episode>21</episode>
+  <season>1</season>
+  <aired>2017-03-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6248734</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1465236</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>190982</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E21-樱花开时／轻声细语</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1280705</uniqueid>
+  <uniqueid default="true" type="imdb">tt7726116</uniqueid>
+  <uniqueid default="false" type="tvdb">5784154</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.0</value>
+      <votes>97</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/qSZ6L12t1mkGMXZxMHb4VOfJJWG.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1037457</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E21 - 樱花开时／轻声细语.mkv</original_filename>
+  <user_note />
+</episodedetails>

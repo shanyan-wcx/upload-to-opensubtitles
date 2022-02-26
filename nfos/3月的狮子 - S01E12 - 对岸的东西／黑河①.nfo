@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>三天后，桐山的身体康复回到自己家，吃着泡面一个人研究将棋的他突然感到一阵熟悉的恶寒，于是立马穿上衣服逃离家里。相比在明里家度过的热闹新年，桐山又被重新打回寒冷的世界，一旦停下脚步就再也无法移动，只有考虑接下来的对战才能让他冷静。“狮子王战”下周就要开始了，一旦胜利次数减少，桐山就会失去自己的归宿。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>对岸的东西／黑河①</title>
+  <originaltitle>Chapter.24 対岸にあるもの / Chapter.25 黒い河①</originaltitle>
+  <director>Yoshiko Mikami</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Mie Oishi</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Mie Oishi</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt7726088</imdbid>
+  <tvdbid>5784145</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E12 - 对岸的东西／黑河①-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Asumi</name>
+    <role>Dragon cat (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Asumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fukushi Ochiai</name>
+    <role>Shogi Association staff member (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fukushi Ochiai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Takeshi Tsujii (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Marina Inoue</name>
+    <role>Kyouko Kouda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Marina Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Subaru Kimura</name>
+    <role>Issa Matsumoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Subaru Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Sakaguchi</name>
+    <role>Okuyasu Yokomizo (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Sakaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Sugita</name>
+    <role>Tatsuyuki 'Smith' Misumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Sugita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroki Touchi</name>
+    <role>Masamune Gotou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroki Touchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tesshou Genda</name>
+    <role>Takanori Jinguuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto / Kuro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto / Shiro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto / Mike-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <episode>12</episode>
+  <season>1</season>
+  <aired>2017-01-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5392567</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1383129</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>193181</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E12-对岸的东西／黑河①</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1228383</uniqueid>
+  <uniqueid default="true" type="imdb">tt7726088</uniqueid>
+  <uniqueid default="false" type="tvdb">5784145</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.0</value>
+      <votes>104</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/f6PUie8acEXAUbmtn35rCjDqcQl.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>989875</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E12 - 对岸的东西／黑河①.mkv</original_filename>
+  <user_note />
+</episodedetails>

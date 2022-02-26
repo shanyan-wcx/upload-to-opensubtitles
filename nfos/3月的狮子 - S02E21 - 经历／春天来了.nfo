@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>为了高中入学考而拼命准备的日向，在得知自己心仪的高桥同学要去远方念书时，受到很大的冲击。以为永远都会在身边的人，渐渐离自己远去，让她觉得相当失落。失落的日向在考试前发烧，只能以这样的状态，和来接她的零一同前往考场。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>经历／春天来了</title>
+  <originaltitle>Chapter.87 経る時 / Chapter.88 春が来る</originaltitle>
+  <director>Yoshiko Mikami</director>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Shouji Saeki</writer>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Shouji Saeki</credits>
+  <rating>0</rating>
+  <year>2018</year>
+  <imdbid>tt8792876</imdbid>
+  <tvdbid>6362664</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 2/3月的狮子 - S02E21 - 经历／春天来了-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Takashi Hayashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto / Shiro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hitoshi Bifu</name>
+    <role>Doctor (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yoshimasa Hosoya</name>
+    <role>Yuusuke Takahashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshimasa Hosoya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Michiko Neya</name>
+    <role>Misaki Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Michiko Neya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shigeru Chiba</name>
+    <role>Someji Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shigeru Chiba/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jin Yamanoi</name>
+    <role>Masachika Kouda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jin Yamanoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto / Mike-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <episode>21</episode>
+  <season>2</season>
+  <aired>2018-03-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4883826</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1363712</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S02E21-经历／春天来了</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1380044</uniqueid>
+  <uniqueid default="true" type="imdb">tt8792876</uniqueid>
+  <uniqueid default="false" type="tvdb">6362664</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>9.1</value>
+      <votes>95</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/wzAGJfEBvUlc2NgvcwDv32I4bEl.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1423372</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S02E21 - 经历／春天来了.mkv</original_filename>
+  <user_note />
+</episodedetails>

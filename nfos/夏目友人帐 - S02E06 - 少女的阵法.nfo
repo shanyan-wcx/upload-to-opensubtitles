@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>西村拉着夏目一起去看5班的一个女生，西村上前搭讪时，多轨看到夏目后愣了楞神然后转身跑开了。夏目去找猫咪老师吃晚饭时听到了两个小妖说的话，顺着小妖所说的方向找去发现了一个像是阵的涂鸦，与猫咪老师研究时发现了正在画阵的多轨，而多轨脱口而出叫了夏目的名字。晚上睡觉是夏目做了一个可怕的梦，早晨刷牙意外发现自己身上有奇怪的字……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 13:05:34</dateadded>
+  <title>少女的阵法</title>
+  <originaltitle>少女の陣</originaltitle>
+  <director>Hideaki Nakano</director>
+  <rating>7.4</rating>
+  <year>2009</year>
+  <imdbid>tt1368838</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 2/metadata/夏目友人帐 - S02E06 - 少女的阵法.jpg</poster>
+  </art>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Sasada Jun (voice)</role>
+    <type>Actor</type>
+    <sortorder>16</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuma Horie</name>
+    <role>Tanuma Kaname (voice)</role>
+    <type>Actor</type>
+    <sortorder>20</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuma Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Shimozaki</name>
+    <role>Ushikao no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>22</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Shimozaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <role>Hiiragi (voice)</role>
+    <type>Actor</type>
+    <sortorder>32</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satsuki Yukino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akemi Okamura</name>
+    <role>Hinoe (voice)</role>
+    <type>Actor</type>
+    <sortorder>37</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akemi Okamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mika Doi</name>
+    <role>Nanase (voice)</role>
+    <type>Actor</type>
+    <sortorder>43</sortorder>
+  </actor>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2009-02-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3373423</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1432</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>669873</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S02E06-少女的阵法</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="false" type="tmdb">1254328</uniqueid>
+  <uniqueid default="true" type="imdb">tt1368838</uniqueid>
+  <uniqueid default="false" type="tvdb">436601</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>4.2</value>
+      <votes>57</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/ezCwf0xlkX2PO3uZ4W81L6bU1F7.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帳 第6話 「少女の陣」.mkv</original_filename>
+  <user_note />
+</episodedetails>

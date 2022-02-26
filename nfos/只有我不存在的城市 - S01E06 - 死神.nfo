@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>悟救出了被火焰包围的爱梨。悟得到了确认火灾是佐知子杀害犯造成的，佐知子遗留下来的便条，悟依靠此与某个人取得联系。这个男人是原电视台记者・石狩泽田。他从佐知子那里知道了 18 年前的真凶的事，并且犯人是在杀人后，一定要用无辜的人物成为嫌疑犯，悟听了这样的推测。而且在阅读泽的嫌疑者名单中，悟注意到犯人特定联系的重要事项。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>死神</title>
+  <originaltitle>死神</originaltitle>
+  <director>Tomohiko Ito</director>
+  <director>Hirotaka Mori</director>
+  <writer>Taku Kishimoto</writer>
+  <writer>Kei Sanbe</writer>
+  <writer>Hirotaka Mori</writer>
+  <credits>Taku Kishimoto</credits>
+  <credits>Kei Sanbe</credits>
+  <credits>Hirotaka Mori</credits>
+  <rating>7.2</rating>
+  <year>2016</year>
+  <imdbid>tt5360098</imdbid>
+  <tvdbid>5465993</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/只有我不存在的城市 (2016)/Season 1/只有我不存在的城市 - S01E06 - 死神-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Shinnosuke Mitsushima</name>
+    <role>29-year-old Satoru Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Mitsushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tao Tsuchiya</name>
+    <role>10-year-old Satoru Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tao Tsuchiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Minami Takayama</name>
+    <role>Sachiko Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Minami Takayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Airi Katagiri (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Kayo Hinazuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Kenya Kobayashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayaka Nanase</name>
+    <role>Osamu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayaka Nanase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukitoshi Kikuchi</name>
+    <role>Kazu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukitoshi Kikuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Mizushima</name>
+    <role>Jun "Yuuki" Shiratori</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Mizushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mitsuru Miyamoto</name>
+    <role>Gaku Yashiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mitsuru Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akari Kito</name>
+    <role>Hiromi Sugati (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akari Kito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Takeuchi</name>
+    <role>Manager Takahashi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Toru Okawa</name>
+    <role>Sawada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toru Okawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kumiko Nakane</name>
+    <role>Airi's mom (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2016-02-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4890865</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1426047</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>jpn(default)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>只有我不存在的城市</showtitle>
+  <uniqueid default="false" type="tmdb">1160297</uniqueid>
+  <uniqueid default="true" type="imdb">tt5360098</uniqueid>
+  <uniqueid default="false" type="tvdb">5465993</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.2</value>
+      <votes>5</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.3</value>
+      <votes>761</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/buPFRzvcacNWfXWiUxk95ahLaQ0.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>560441</tvmazeid>
+  <bangumiid>596609</bangumiid>
+  <doubanidid>1460932</doubanidid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>只有我不存在的城市 - S01E06 - 死神.mkv</original_filename>
+  <user_note />
+</episodedetails>

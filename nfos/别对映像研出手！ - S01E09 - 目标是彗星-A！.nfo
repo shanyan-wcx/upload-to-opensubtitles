@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在文化节的放映会大获成功，收到了不少DVD的预定。然而，机甲动画片的利益主要由客户机器人研究社获得，影像研获得的利益少得可怜。金森提出走出学校，参加独立作品展示贩卖会“彗星-A”。金森带着浅草和水崎不知道去了哪里。眼前出现了芝滨的街道，复杂的城市规划结构和水路，以及地下商店。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-18 16:07:30</dateadded>
+  <title>目标是彗星-A！</title>
+  <originaltitle>コメットAを目指せ！</originaltitle>
+  <director>Takuya Fujikura</director>
+  <director>Karin Noguchi</director>
+  <writer>Sumito Oowara</writer>
+  <writer>Masaaki Yuasa</writer>
+  <writer>Yuichiro Kido</writer>
+  <credits>Sumito Oowara</credits>
+  <credits>Masaaki Yuasa</credits>
+  <credits>Yuichiro Kido</credits>
+  <rating>6</rating>
+  <year>2020</year>
+  <imdbid>tt11789970</imdbid>
+  <tvdbid>7571089</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>NHK G</studio>
+  <studio>Science SARU</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/别对映像研出手！ (2020)/Season 1/metadata/别对映像研出手！ - S01E09 - 目标是彗星-A！.jpg</poster>
+  </art>
+  <actor>
+    <name>Sairi Ito</name>
+    <role>Midori Asakusa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sairi Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mutsumi Tamura</name>
+    <role>Sayaka Kanamori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mutsumi Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misato Matsuoka</name>
+    <role>Tsubame Mizusaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misato Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mikako Komatsu</name>
+    <role>Sowande Sakaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mikako Komatsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yumiri Hanamori</name>
+    <role>Doumeki (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2020-03-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6686175</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1501</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1453025</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>别对映像研出手！</showtitle>
+  <uniqueid default="false" type="tmdb">2040215</uniqueid>
+  <uniqueid default="true" type="imdb">tt11789970</uniqueid>
+  <uniqueid default="false" type="tvdb">7571089</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.2</value>
+      <votes>66</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/kLSxTmOFnskeJRtcgfcb0T2UMCf.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>[Nekomoe kissaten&amp;VCB-Studio] Eizouken ni wa Te o Dasu na! [S01E09][Ma10p_1080p][x265_flac].mkv</original_filename>
+  <user_note />
+</episodedetails>

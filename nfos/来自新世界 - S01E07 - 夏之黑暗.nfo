@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>面对三千只土蜘蛛成员的攻击，觉明显力不从心，过度疲惫的他已经无法频繁自己的咒力，幸好早季一直保持冷静的头脑，在早季的指挥下，觉利用自己仅存的一点咒力赶走了敌人，两人暂时逃脱。逃走的路上，觉因为体力不支倒下了，就在他们以为要完蛋的时候，大黄蜂部族及时出现，将土蜘蛛部族击溃，并且找到了龙穴。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>夏之黑暗</title>
+  <originaltitle>夏闇</originaltitle>
+  <director>Makoto Fuchigami</director>
+  <writer>Masashi Sogo</writer>
+  <writer>Yuusuke Kishi</writer>
+  <writer>Nobutoshi Ogura</writer>
+  <credits>Masashi Sogo</credits>
+  <credits>Yuusuke Kishi</credits>
+  <credits>Nobutoshi Ogura</credits>
+  <rating>0</rating>
+  <year>2012</year>
+  <runtime>23</runtime>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/来自新世界 (2012)/Season 1/来自新世界 - S01E07 - 夏之黑暗-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Saki Watanabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Satoru Asahina (age 14-26) (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Maria Akizuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Toudou</name>
+    <role>Shun Aonuma (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Haruka Kudou</name>
+    <role>Mamoru Itou (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Squealer / Yakomaru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Namikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroaki Hirata</name>
+    <role>Kiroumaru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroaki Hirata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kanako Toujou</name>
+    <role>Satoru Asahina (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2012-11-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5549080</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1361</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1443591</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>来自新世界</showtitle>
+  <uniqueid default="true" type="tmdb">922821</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/bzml05WpdDB5YuVXGlxFUuf1OaI.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388418</tvmazeid>
+  <bangumiid>198799</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>来自新世界 - S01E07 - 夏之黑暗.mkv</original_filename>
+  <user_note />
+</episodedetails>

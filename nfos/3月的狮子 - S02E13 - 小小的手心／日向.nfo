@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>班上的问题由于国分的介入，霸凌事件即将落幕。高城虽然在全班面前道歉了，只是形式上的。国分也因此不断的用强硬的方式，持续和高城对谈。然后，总算能够再度和朋友有说有笑的日向，某一天收到了来自因霸凌而被迫转学的千穗，回给她的信。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>小小的手心／日向</title>
+  <originaltitle>Chapter.70 小さな手のひら / Chapter.71 日向</originaltitle>
+  <director>Takakazu Nagatomo</director>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Shouji Saeki</writer>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Shouji Saeki</credits>
+  <rating>0</rating>
+  <year>2018</year>
+  <imdbid>tt8792824</imdbid>
+  <tvdbid>6362653</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 2/3月的狮子 - S02E13 - 小小的手心／日向-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyono Yasuno</name>
+    <role>Takashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kiyono Yasuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chitose Morinaga</name>
+    <role>Kimura (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Juri Nagatsuma</name>
+    <role>Kawashima (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Asuka Nishi</name>
+    <role>Chiho Sakura (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Megumi Takagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Kokubu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto / Kuro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto / Mike-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <episode>13</episode>
+  <season>2</season>
+  <aired>2018-01-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4733701</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1296628</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S02E13-小小的手心／日向</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1380036</uniqueid>
+  <uniqueid default="true" type="imdb">tt8792824</uniqueid>
+  <uniqueid default="false" type="tvdb">6362653</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>9.2</value>
+      <votes>100</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/qnu3O89Vv8eomX7joRuMoWs0xir.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1391567</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S02E13 - 小小的手心／日向.mkv</original_filename>
+  <user_note />
+</episodedetails>

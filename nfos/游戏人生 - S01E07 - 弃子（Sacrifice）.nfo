@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>世界第 3 位的巨大海洋国家东部联合盯上了空他们。但是吉普莉尔却告诉空白二人他们不可能战胜东部联盟。因为即使是吉普莉尔，世界最大的国家中的精灵护卫，在过去 50 年的 4 次挑战也都以失败告终。并且前国王对东部联合反复进行着无谋的挑战，导致了国土的大部分已被夺去这一残酷的事实。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-20 18:52:25</dateadded>
+  <title>弃子（Sacrifice）</title>
+  <director>Atsuko Ishizuka</director>
+  <director>Yuki Inaba</director>
+  <writer>Jukki Hanada</writer>
+  <writer>Takashi Aoshima</writer>
+  <credits>Jukki Hanada</credits>
+  <credits>Takashi Aoshima</credits>
+  <rating>8.4</rating>
+  <year>2014</year>
+  <imdbid>tt3907600</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/游戏人生 (2014)/Season 1/metadata/游戏人生 - S01E07 - 弃子（Sacrifice）.jpg</poster>
+  </art>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Sora (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshitsugu Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Shiro (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoko Hikasa</name>
+    <role>Stephanie Dola (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoko Hikasa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Clammy Zell (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuka Iguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Jibril (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Fiel Nirvalen (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Tet (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Izuna Hatsuse (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jun Fukushima</name>
+    <role>Former King (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>22</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jun Fukushima/folder.jpg</thumb>
+  </actor>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2014-05-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6818224</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1442</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1487215</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

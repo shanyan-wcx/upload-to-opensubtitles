@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>从小学就跟日向很要好的佐仓千穗，在三年级的班上成为被霸凌的对象。同学们都装作视而不见，只有日向会去跟千穗搭话，一起吃饭，并建议她去跟老师商量。但是在霸凌越演越烈的状况下，千穗连学校都不来了，最后甚至演变成转学的状况……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>瓢虫所在之树②／瓢虫所在之树③／思念</title>
+  <originaltitle>Chapter.52 てんとう虫の木② / Chapter.53 てんとう虫の木③ / Chapter.54 想い</originaltitle>
+  <director>Kenjirou Okada</director>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Mamoru Kurosawa</writer>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Mamoru Kurosawa</credits>
+  <rating>9.5</rating>
+  <year>2017</year>
+  <imdbid>tt8792422</imdbid>
+  <tvdbid>6362640</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 2/3月的狮子 - S02E04 - 瓢虫所在之树②／瓢虫所在之树③／思念-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>PE teacher (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayaka Ohara</name>
+    <role>Hinata's homeroom teacher (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayaka Ohara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyono Yasuno</name>
+    <role>Takashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kiyono Yasuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chitose Morinaga</name>
+    <role>Kimura (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Asuka Nishi</name>
+    <role>Chiho Sakura (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Megumi Takagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto / Kuro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto / Shiro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shigeru Chiba</name>
+    <role>Someji Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shigeru Chiba/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto / Mike-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2017-11-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5716998</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1368485</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>190715</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S02E04-瓢虫所在之树②／瓢虫所在之树③／思念</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1380027</uniqueid>
+  <uniqueid default="true" type="imdb">tt8792422</uniqueid>
+  <uniqueid default="false" type="tvdb">6362640</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>9.6</value>
+      <votes>153</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/j52pbuzVk0CJNVe5kuWnDIEW3JP.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1331407</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S02E04 - 瓢虫所在之树②／瓢虫所在之树③／思念.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>冈绘里使用照片的能力封住惠的行动，逼近春埼美空想夺走她的重启能力。另一方面，“魔女”身为“没有名字的系统”，正在进行一个计划，佐佐野也隐瞒了能力的秘密展开行动。而想要更强大力量的冈绘里，以魔女预见未来的能力为目标，袭击“管理局”。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>魔女、照片和赤瞳少女 3/3</title>
+  <originaltitle>WITCH, PICTURE and RED EYE GIRL 3/3</originaltitle>
+  <director>Shinya Kawatsura</director>
+  <writer>Yutaka Kono</writer>
+  <credits>Yutaka Kono</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt12564566</imdbid>
+  <tvdbid>6023491</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>David Production</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/重启咲良田 (2017)/Season 1/重启咲良田 - S01E08 - 魔女、照片和赤瞳少女 3 3-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kaito Ishikawa</name>
+    <role>Kei Asai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kaito Ishikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Misora Haruki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Sumire Sōma</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ami Koshimizu</name>
+    <role>Sasane Ukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ami Koshimizu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sachika Misawa</name>
+    <role>Nonoo Seika</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sachika Misawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yui Makino</name>
+    <role>Murase Youka</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yui Makino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuya Eguchi</name>
+    <role>Nakano Tomoki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuya Eguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <role>Hiroyuki Sasano</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuka Aisaka</name>
+    <role>Oka Eri</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuuka Aisaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Uetake</name>
+    <role>Sakuin-san</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Uetake/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Youji Ueda</name>
+    <role>Tsushima Shintarou</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Youji Ueda/folder.jpg</thumb>
+  </actor>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2017-05-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5853939</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1511</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>617917</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>重启咲良田-S01E08-魔女、照片和赤瞳少女33</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>重启咲良田</showtitle>
+  <uniqueid default="false" type="tmdb">1320401</uniqueid>
+  <uniqueid default="true" type="imdb">tt12564566</uniqueid>
+  <uniqueid default="false" type="tvdb">6023491</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/1GEECyTRaeo6dvESdoUECRRJnQt.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1114047</tvmazeid>
+  <bangumiid>705166</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>重启咲良田 - S01E08 - 魔女、照片和赤瞳少女 3 3.mkv</original_filename>
+  <user_note />
+</episodedetails>

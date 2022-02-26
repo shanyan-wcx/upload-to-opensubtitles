@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>杀人碎尸事件已经多到让人麻木，新一是唯一知道真相的人类。新一发现学校里潜伏着寄生兽，而这个名叫田宫良子的寄生兽竟然以老师的身份公然出现，田宫同样发现了新一的寄生兽体质。新一与田宫交谈后，发现田宫并无战意，但她的伴侣A先生视新一为眼中钉。A先生独闯学校，四处寻找新一的踪迹，想要杀死他。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>「飨宴」</title>
+  <originaltitle>饗宴</originaltitle>
+  <director>Kenichi Shimizu</director>
+  <director>Kouji Sawai</director>
+  <writer>Shoji Yonemura</writer>
+  <writer>Hitoshi Iwaaki</writer>
+  <writer>Shinzo Fujita</writer>
+  <credits>Shoji Yonemura</credits>
+  <credits>Hitoshi Iwaaki</credits>
+  <credits>Shinzo Fujita</credits>
+  <rating>8</rating>
+  <year>2014</year>
+  <imdbid>tt4138074</imdbid>
+  <tvdbid>5018532</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>Madhouse</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/寄生兽：生命的准则 (2014)/Season 1/寄生兽：生命的准则 - S01E03 - 「飨宴」-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Nobunaga Shimazaki</name>
+    <role>Shinichi Izumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobunaga Shimazaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Hirano</name>
+    <role>Migi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Hirano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Satomi Murano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kana Kimishima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Tamiya Ryoko (voice) / Tamura Reiko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Atsuko Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takaya Aoyagi</name>
+    <role>Kusano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takaya Aoyagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Miki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Namikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Hideo Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayumu Murase</name>
+    <role>Jaw (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayumu Murase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Uragami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Issei Futamata</name>
+    <role>Shirou Kuramori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Issei Futamata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Gotou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyono Yasuno</name>
+    <role>Yuko Tachikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kiyono Yasuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rena Maeda</name>
+    <role>Akiho Suzuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rena Maeda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuma Suzuki</name>
+    <role>Mamoru Uda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuma Suzuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuu Mizushima</name>
+    <role>Takeshi Hirokawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2014-10-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5385544</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1441259</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>寄生兽：生命的准则-S01E03-「飨宴」</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>寄生兽：生命的准则</showtitle>
+  <uniqueid default="false" type="tmdb">1024098</uniqueid>
+  <uniqueid default="true" type="imdb">tt4138074</uniqueid>
+  <uniqueid default="false" type="tvdb">5018532</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>3</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.2</value>
+      <votes>508</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/6iBbBJiZfv1RD5dvg6Y8I5BgkDu.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>160558</tvmazeid>
+  <bangumiid>427778</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>寄生兽：生命的准则 - S01E03 - 「飨宴」.mkv</original_filename>
+  <user_note />
+</episodedetails>

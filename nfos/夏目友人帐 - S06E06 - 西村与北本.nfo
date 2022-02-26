@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>夏目刚转学过来时还是个沉默寡言的少年，在一次偶然的情况下西村与夏目搭上了话，夏目谎称自己贫血，其实是见到了妖怪。西村好心带夏目去自己家里休息，夏目却在西村家里发现了妖怪的踪影。不善言辞的夏目为了引出妖怪直接跑出了西村家，西村的哥哥却误以为夏目是个没礼貌的孩子。夏目不想让西村受妖怪牵连，但妖怪还是缠上了西村。西村被妖怪缠身变得焦躁易怒，在妖怪即将吞噬西村的时候，夏目和猫咪老师及时出现解救了西村，两人也因此变得要好起来。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 13:14:59</dateadded>
+  <title>西村与北本</title>
+  <originaltitle>西村と北本</originaltitle>
+  <writer>Taizo Yoshida</writer>
+  <credits>Taizo Yoshida</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt8193438</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 6/metadata/夏目友人帐 - S06E06 - 西村与北本.jpg</poster>
+  </art>
+  <actor>
+    <name>Higuchi Akari</name>
+    <role>Urihime (voice)</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Higuchi Akari/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Sasada Jun (voice)</role>
+    <type>Actor</type>
+    <sortorder>16</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kyoko Chikiri</name>
+    <role>Kappa (voice)</role>
+    <type>Actor</type>
+    <sortorder>17</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kyoko Chikiri/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuma Horie</name>
+    <role>Tanuma Kaname (voice)</role>
+    <type>Actor</type>
+    <sortorder>20</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuma Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Shimozaki</name>
+    <role>Ushikao no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>22</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Shimozaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <role>Hiiragi (voice)</role>
+    <type>Actor</type>
+    <sortorder>32</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satsuki Yukino/folder.jpg</thumb>
+  </actor>
+  <episode>6</episode>
+  <season>6</season>
+  <aired>2017-05-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3460467</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1432</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>646716</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S06E06-西村与北本</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="false" type="tmdb">1417114</uniqueid>
+  <uniqueid default="true" type="imdb">tt8193438</uniqueid>
+  <uniqueid default="false" type="tvdb">6023387</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>3.6</value>
+      <votes>47</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/agRri1UFDoo2mmkc8iPpg2n10Ya.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帳 第6話 「西村と北本」.mkv</original_filename>
+  <user_note />
+</episodedetails>

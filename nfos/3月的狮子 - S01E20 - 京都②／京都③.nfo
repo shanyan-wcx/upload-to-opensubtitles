@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>岛田做了一个梦，梦里自己回家种地并与分手的女友结婚，这个不再当旗手的梦和即将面临四连败的狮子王战，到底哪个才是恶梦？狮子王战第四局第二天，每个人都认为岛田会输给宗谷无缘家乡战，唯独桐山坚信岛田还有机会，比赛进行到最后众人都觉得胜负已分，但桐山却看出了起死回生的一步，可惜岛田自己并没意识到便弃子投降了。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>京都②／京都③</title>
+  <originaltitle>Chapter.41 京都② / Chapter.42 京都③</originaltitle>
+  <director>Midori Yoshizawa</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Shinsaku Sasaki</writer>
+  <writer>Yukito Kizawa</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Shinsaku Sasaki</credits>
+  <credits>Yukito Kizawa</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt7726114</imdbid>
+  <tvdbid>5784153</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E20 - 京都②／京都③-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinya Takahashi</name>
+    <role>Shimada's father (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Akio Otsuka</name>
+    <role>Raidou Fujimoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akio Otsuka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shota Yamamoto</name>
+    <role>Reporter (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Cafeteria employee (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomisaburō Horikoshi</name>
+    <role>Shimada's grandfather (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Takeshi Tsujii (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Sugita</name>
+    <role>Tatsuyuki 'Smith' Misumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Sugita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Touji Souya (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuhiko Okamoto</name>
+    <role>Harunobu Nikaidou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuhiko Okamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tesshou Genda</name>
+    <role>Takanori Jinguuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shin-ichiro Miki</name>
+    <role>Kai Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shin-ichiro Miki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Moderator (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <episode>20</episode>
+  <season>1</season>
+  <aired>2017-03-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6294880</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1442083</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E20-京都②／京都③</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1277362</uniqueid>
+  <uniqueid default="true" type="imdb">tt7726114</uniqueid>
+  <uniqueid default="false" type="tvdb">5784153</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.5</value>
+      <votes>100</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/4ldvaCbJEu3GioTvPXiMZqjWUDl.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1037456</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E20 - 京都②／京都③.mkv</original_filename>
+  <user_note />
+</episodedetails>

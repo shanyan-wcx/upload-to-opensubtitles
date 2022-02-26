@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在东京老街·六月町一个人独居的桐山零，是一位就读高中的职业棋士。在新成立的“将科社”中，零教其他的社员将棋，其他社员则教零做柠檬酸片，社团活动进行得相当顺利。总算能在学校里找到栖身之地的零，咀嚼着这份喜悦，带着柠檬酸片，走向另一个会温暖迎接他的地方，川本家。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>夕阳／柠檬酸片</title>
+  <originaltitle>Chapter.46 西陽 / Chapter.47 ラムネ</originaltitle>
+  <director>Hajime Ohtani</director>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Hajime Ohtani</writer>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Hajime Ohtani</credits>
+  <rating>8.3</rating>
+  <year>2017</year>
+  <imdbid>tt7282032</imdbid>
+  <tvdbid>6009149</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 2/3月的狮子 - S02E01 - 夕阳／柠檬酸片-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Promoted pawn cat / Gold general cat (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryota Takeuchi</name>
+    <role>Kengo Kumakura (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryota Takeuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tesshou Genda</name>
+    <role>Takanori Jinguuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hochu Otsuka</name>
+    <role>Sakutarou Yanagihara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto / Kuro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuji Ueda</name>
+    <role>Eisaku Noguchi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Oota (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Takashi Hayashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryoko Shiraishi</name>
+    <role>King cat / Silver general cat (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto / Mike-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2017-10-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5564167</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1389109</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>193990</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S02E01-夕阳／柠檬酸片</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1370808</uniqueid>
+  <uniqueid default="true" type="imdb">tt7282032</uniqueid>
+  <uniqueid default="false" type="tvdb">6009149</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.4</value>
+      <votes>106</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/5X8QoXVhrtnHD0wcCAUcwP9Ie92.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1280536</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S02E01 - 夕阳／柠檬酸片.mkv</original_filename>
+  <user_note />
+</episodedetails>

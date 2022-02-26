@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>抓住了伪装事故手法的一系，追赶作为标记的超级·运输公司的干事的与根原访问废弃区划。在贫民窟出身的入江的tsute里(上)找到逃亡处,不过，到达的时候，已经与根原死亡着。为了追查作为主犯的该公司顾问·一点点河，无视霜月的命令跑去了有明机场的灼和炯,不过，被不认识的男人们阻止去路。他们是外务省海外调整局行动课特别搜查官·狡齿慎也和宜野座伸元。并非稍稍错过了河流——当灼察觉到他们的目的时，机舱内多少有些河流被行动科确保了。事件解决后，某日。在宾馆发现了坠落尸体。赶往现场的一系人员，从故障的连锁这个点上，发现与运输机事故相似。是自杀还是事故？为了搜查，去见作为受害者的有关人员的偶像政治家·小宫卡莉娜——。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>透墨索斯的祭品</title>
+  <originaltitle>テウメソスの生贄</originaltitle>
+  <rating>4</rating>
+  <year>2019</year>
+  <imdbid>tt11027016</imdbid>
+  <tvdbid>7376518</tvdbid>
+  <runtime>46</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 3/心理测量者 - S03E02 - 透墨索斯的祭品-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Shindou Arata</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Kei Mikhail Ignatov</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <episode>2</episode>
+  <season>3</season>
+  <aired>2019-11-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7891124</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2746</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1339049</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S03E02-透墨索斯的祭品</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1964637</uniqueid>
+  <uniqueid default="true" type="imdb">tt11027016</uniqueid>
+  <uniqueid default="false" type="tvdb">7376518</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>4.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.3</value>
+      <votes>93</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/eeD96OKJrBIL6lY6mD2zuBuPDlI.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1723025</tvmazeid>
+  <bangumiid>196925</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S03E02 - 透墨索斯的祭品.mkv</original_filename>
+  <user_note />
+</episodedetails>

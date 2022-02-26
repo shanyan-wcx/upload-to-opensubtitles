@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>Yun, Goro, and the robot Jet Jaguar clash with the hostile pterosaur-like monster Rodan. Mei travels to Tokyo to meet with a world renowned researcher.</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>盛夏鬼节</title>
+  <originaltitle>まなつおにまつり</originaltitle>
+  <director>Takuma Suzuki</director>
+  <director>Daisuke Tsukushi</director>
+  <writer>Toh EnJoe</writer>
+  <writer>Goro Matsui</writer>
+  <writer>Keigo Koyanagi</writer>
+  <credits>Toh EnJoe</credits>
+  <credits>Goro Matsui</credits>
+  <credits>Keigo Koyanagi</credits>
+  <rating>6</rating>
+  <year>2021</year>
+  <imdbid>tt13640104</imdbid>
+  <tvdbid>8230815</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <studio>BONES</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/哥斯拉：奇异点 (2021)/Season 1/哥斯拉：奇异点 - S01E02 - 盛夏鬼节-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yume Miyamoto</name>
+    <role>Mei Kamino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yume Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shoya Ishige</name>
+    <role>Yun Arikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shoya Ishige/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Wataru Takagi</name>
+    <role>Goro Otaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/W/Wataru Takagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Taro Kiuchi</name>
+    <role>Haberu 'Barbell' Kato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Taro Kiuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Pelops II (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yohei Azakami</name>
+    <role>Shunya Sato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yohei Azakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jin Urayama</name>
+    <role>Tsunetomo Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jin Urayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiromichi Tezuka</name>
+    <role>Commentator A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shunichi Maki</name>
+    <role>Commentator B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Genki Yoshimoto</name>
+    <role>Newscaster A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenta Sasa</name>
+    <role>Researcher (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Teruyuki Tanzawa</name>
+    <role>Scholar (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Naho Oketani</name>
+    <role>Supermarket clerk (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Arisa Sakuraba</name>
+    <role>Child (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryosuke Hara</name>
+    <role>Police officer (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kazuyoshi Hayashi</name>
+    <role>Moderator (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Eriko Matsui</name>
+    <role>Announcer (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ayako Takeuchi</name>
+    <role>Satomi Kanahara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takuya Nakashima</name>
+    <role>Newscaster B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kotori Koiwai</name>
+    <role>Yukie Kanoko (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rika Abe</name>
+    <role>Reporter (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2021-04-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6872966</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1420</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1469750</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>612097</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>哥斯拉：奇异点</showtitle>
+  <uniqueid default="false" type="tmdb">2820887</uniqueid>
+  <uniqueid default="true" type="imdb">tt13640104</uniqueid>
+  <uniqueid default="false" type="tvdb">8230815</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>5.5</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.2</value>
+      <votes>99</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/dzIKRAOIftOZZv5BeX9QFuuQsz6.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>2055543</tvmazeid>
+  <bangumiid>1017497</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>哥斯拉：奇异点 - S01E02 - 盛夏鬼节.mkv</original_filename>
+  <user_note />
+</episodedetails>

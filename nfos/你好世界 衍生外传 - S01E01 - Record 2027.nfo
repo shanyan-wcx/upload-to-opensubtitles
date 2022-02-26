@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>Record 2027</title>
+  <director>Tomohiko Ito</director>
+  <writer>Mado Nozaki</writer>
+  <credits>Mado Nozaki</credits>
+  <rating>7</rating>
+  <year>2019</year>
+  <runtime>10</runtime>
+  <studio>Graphinica</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/你好世界 衍生外传 (2019)/Season 1/你好世界 衍生外传 - S01E01 - Record 2027-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Minami Hamabe</name>
+    <role>Ruri Ichigyō (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Minami Hamabe/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takumi Kitamura</name>
+    <role>Naomi Katagaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takumi Kitamura/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2019-09-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3903472</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>10</duration>
+        <durationinseconds>602</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1114013</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>你好世界衍生外传-S01E01-Record2027</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>你好世界 衍生外传</showtitle>
+  <uniqueid default="true" type="tmdb">1897991</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/1f9D6YmZ3i8NhkvNUKF9Er3wZVY.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1796961</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>你好世界 衍生外传 - S01E01 - Record 2027.mkv</original_filename>
+  <user_note />
+</episodedetails>

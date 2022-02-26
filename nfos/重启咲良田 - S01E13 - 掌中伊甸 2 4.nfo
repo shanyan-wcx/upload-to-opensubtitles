@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>惠在梦世界询问关于“野猫屋的老爷爷”的事。据说他拥有书写“剧本的抄本”的能力。惠此时回想起从野之尾盛夏转告他的话，有关“剧本No.407”的事。惠透过从奇尔奇尔那边问到的情报，前往老爷爷的身边。而另一方面相麻堇也在梦世界里跟米琪儿见面了。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>掌中伊甸 2/4</title>
+  <originaltitle>ONE HAND EDEN 2/4</originaltitle>
+  <director>Shinya Kawatsura</director>
+  <writer>Yutaka Kono</writer>
+  <credits>Yutaka Kono</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt12564590</imdbid>
+  <tvdbid>6023496</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>David Production</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/重启咲良田 (2017)/Season 1/重启咲良田 - S01E13 - 掌中伊甸 2 4-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kaito Ishikawa</name>
+    <role>Kei Asai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kaito Ishikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Misora Haruki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Sumire Sōma</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ami Koshimizu</name>
+    <role>Sasane Ukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ami Koshimizu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sachika Misawa</name>
+    <role>Nonoo Seika</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sachika Misawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yui Makino</name>
+    <role>Murase Youka</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yui Makino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuya Eguchi</name>
+    <role>Nakano Tomoki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuya Eguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <role>Hiroyuki Sasano</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuka Aisaka</name>
+    <role>Oka Eri</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuuka Aisaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Uetake</name>
+    <role>Sakuin-san</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Uetake/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Youji Ueda</name>
+    <role>Tsushima Shintarou</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Youji Ueda/folder.jpg</thumb>
+  </actor>
+  <episode>13</episode>
+  <season>1</season>
+  <aired>2017-06-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6674992</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1422</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>570218</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>重启咲良田-S01E13-掌中伊甸24</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>重启咲良田</showtitle>
+  <uniqueid default="false" type="tmdb">1320406</uniqueid>
+  <uniqueid default="true" type="imdb">tt12564590</uniqueid>
+  <uniqueid default="false" type="tvdb">6023496</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/xZ1PmPUsxtrJR6z37mJVECSYePH.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1114052</tvmazeid>
+  <bangumiid>705171</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>重启咲良田 - S01E13 - 掌中伊甸 2 4.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>夏目与田沼等人约好要去寻找柠檬汽水的涌泉.正当一群男生嬉闹时,夏目接到以前曾受过照顾的亲戚来电.原来是夏目小时候曾跟父亲一起生活过的房子,已经找到买主,要转手卖掉.有这麼多心地善良的人在身边,夏目自觉应该不会再为往事心痛,於是他找出一张年代悠久的相片,相片中的身影,是夏目的父母…</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 13:11:41</dateadded>
+  <title>一张照片</title>
+  <originaltitle>一枚の写真</originaltitle>
+  <rating>5</rating>
+  <year>2012</year>
+  <imdbid>tt2722554</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 4/metadata/夏目友人帐 - S04E11 - 一张照片.jpg</poster>
+  </art>
+  <actor>
+    <name>Higuchi Akari</name>
+    <role>Urihime (voice)</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Higuchi Akari/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Sasada Jun (voice)</role>
+    <type>Actor</type>
+    <sortorder>16</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kyoko Chikiri</name>
+    <role>Kappa (voice)</role>
+    <type>Actor</type>
+    <sortorder>17</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kyoko Chikiri/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuma Horie</name>
+    <role>Tanuma Kaname (voice)</role>
+    <type>Actor</type>
+    <sortorder>20</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuma Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Shimozaki</name>
+    <role>Ushikao no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>22</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Shimozaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chieko Honda</name>
+    <role>Sasago (voice)</role>
+    <type>Actor</type>
+    <sortorder>31</sortorder>
+  </actor>
+  <episode>11</episode>
+  <season>4</season>
+  <aired>2012-03-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3246259</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1464</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>607784</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S04E11-一张照片</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="false" type="tmdb">1316382</uniqueid>
+  <uniqueid default="true" type="imdb">tt2722554</uniqueid>
+  <uniqueid default="false" type="tvdb">4253397</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>5.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>4.0</value>
+      <votes>50</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/eS8SytsyakgqhL8QAq75e861w1Z.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帳 第11話 「一枚の写真」.mkv</original_filename>
+  <user_note />
+</episodedetails>

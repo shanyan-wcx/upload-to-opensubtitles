@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>军事多隆毫不留情地追杀着刑警们。持有 Dominator 的人物现身，向犯罪系数恶化的刑警们射击。常守朱注意到鹿矛围的目的，命令执行官们退后，而改由监视官站到前线。之后朱亲自追逐鹿矛围的行踪。与此同时，街市上多隆的暴走逐渐扩大，产生了大混乱。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>投石之众人</title>
+  <originaltitle>石を擲つ人々</originaltitle>
+  <director>Naoyoshi Shiotani</director>
+  <writer>Tow Ubukata</writer>
+  <writer>Jun Kumagai</writer>
+  <credits>Tow Ubukata</credits>
+  <credits>Jun Kumagai</credits>
+  <rating>0</rating>
+  <year>2014</year>
+  <imdbid>tt4295674</imdbid>
+  <tvdbid>4917247</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 2/心理测量者 - S02E06 - 投石之众人-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Kirito Kamui (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Keiji Fujiwara</name>
+    <role>Sakuya Tougane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Keiji Fujiwara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masumi Asano</name>
+    <role>Risa Aoyanagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Masumi Asano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Marina Inoue</name>
+    <role>Mizue Shisui (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Marina Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Noriko Hidaka</name>
+    <role>Dominator/Sibyl System (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Noriko Hidaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenji Nojima</name>
+    <role>Nobuchika Ginoza (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenji Nojima/folder.jpg</thumb>
+  </actor>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2014-11-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8444706</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1341</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>827528</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S02E06-投石之众人</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1018189</uniqueid>
+  <uniqueid default="true" type="tvdb">4917247</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/xCk8Vp8wVIND42SIy19Wh2Bmuko.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159880</tvmazeid>
+  <bangumiid>196929</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S02E06 - 投石之众人.mkv</original_filename>
+  <user_note />
+</episodedetails>

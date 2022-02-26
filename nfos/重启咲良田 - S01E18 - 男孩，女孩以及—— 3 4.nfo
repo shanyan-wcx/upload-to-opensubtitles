@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>管理局开始管制危险的能力，他们使用冈绘里的能力封住能力。此时宇川沙沙音接到要她使用能力的请托，希望她故意让能力失控，说是以那起事故为原因，会更进一步管制能力。惠预测到那件事，于是拜托村濑阳香和野之尾盛夏协助寻找宇川的行踪。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>男孩，女孩以及—— 3/4</title>
+  <originaltitle>BOY, GIRL and ―― 3/4</originaltitle>
+  <director>Shinya Kawatsura</director>
+  <writer>Yutaka Kono</writer>
+  <credits>Yutaka Kono</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt12564670</imdbid>
+  <tvdbid>6023501</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>David Production</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/重启咲良田 (2017)/Season 1/重启咲良田 - S01E18 - 男孩，女孩以及—— 3 4-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kaito Ishikawa</name>
+    <role>Kei Asai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kaito Ishikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Misora Haruki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Sumire Sōma</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ami Koshimizu</name>
+    <role>Sasane Ukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ami Koshimizu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sachika Misawa</name>
+    <role>Nonoo Seika</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sachika Misawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yui Makino</name>
+    <role>Murase Youka</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yui Makino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuya Eguchi</name>
+    <role>Nakano Tomoki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuya Eguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <role>Hiroyuki Sasano</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuka Aisaka</name>
+    <role>Oka Eri</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuuka Aisaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Uetake</name>
+    <role>Sakuin-san</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Uetake/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Youji Ueda</name>
+    <role>Tsushima Shintarou</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Youji Ueda/folder.jpg</thumb>
+  </actor>
+  <episode>18</episode>
+  <season>1</season>
+  <aired>2017-08-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6910513</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>645346</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>重启咲良田-S01E18-男孩，女孩以及——34</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>重启咲良田</showtitle>
+  <uniqueid default="false" type="tmdb">1320411</uniqueid>
+  <uniqueid default="true" type="imdb">tt12564670</uniqueid>
+  <uniqueid default="false" type="tvdb">6023501</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/a1ZD57UpuOWcdPAMletP12NtuLf.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1114057</tvmazeid>
+  <bangumiid>705176</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>重启咲良田 - S01E18 - 男孩，女孩以及—— 3 4.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在京都的废屋里与一个奇怪的女性交谈后，加持良治依旧执行他对 NERV 的侦探工作。第二日，真嗣与源堂一起来到唯的墓前，明日香则去应付约会。晚上，美里、律子与加持一同参加了友人的结婚宴会，在回来的途中，美里向加持吐露了自己的心声。翌日，在进行间谍工作的加持被美里发觉。于是，加持将她带到了被 NERV 隐藏的莉莉斯面前。
+
+（到了这个剧本时，美里与加持的关系已经很明了了。依旧思慕加持的美里，在她面前，友人们结婚的事实使她动摇。加持与谜之女性的密会以及在类似于脑与脊髓装置中的丽，为这一话增添了神秘色彩。本话中分别有美里与加持、真嗣与明日香的接吻场面，当然性质是不同的。“那些女人强烈地渴望得到他人的亲吻”，这个副标题在全系列中是最长的。另外此话的副标题亦是片中所用 BGM 之一。）</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>谎言与沉默（hose women longed for the touch of others' lips, and thus invited their kisses.）</title>
+  <originaltitle>第拾伍話 嘘と沈黙</originaltitle>
+  <director>Masahiko Otsuka</director>
+  <director>Naoyasu Hanyu</director>
+  <writer>Hideaki Anno</writer>
+  <writer>Akio Satsukawa</writer>
+  <credits>Hideaki Anno</credits>
+  <credits>Akio Satsukawa</credits>
+  <rating>7.5</rating>
+  <year>1996</year>
+  <imdbid>tt0781956</imdbid>
+  <tvdbid>3899</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>GAINAX</studio>
+  <tvrageid>125427</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/新世纪福音战士 (1995)/Season 1/新世纪福音战士 - S01E15 - 谎言与沉默（hose women longed for the touch of others' lips, and thus invited their kisses.）-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Megumi Ogata</name>
+    <role>Shinji Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Ogata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotono Mitsuishi</name>
+    <role>Misato Katsuragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kotono Mitsuishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Rei Ayanami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Hayashibara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Miyamura</name>
+    <role>Asuka Langley Soryu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Miyamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuriko Yamaguchi</name>
+    <role>Dr. Ritsuko Akagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuriko Yamaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Gendo Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Motomu Kiyokawa</name>
+    <role>Kozo Fuyutsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Motomu Kiyokawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Nagasawa</name>
+    <role>Maya Ibuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Nagasawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junko Iwao</name>
+    <role>Hikari Horaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Junko Iwao/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Touji Suzuhara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Koichi Yamadera</name>
+    <role>Ryouji Kaji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Koichi Yamadera/folder.jpg</thumb>
+  </actor>
+  <episode>15</episode>
+  <season>1</season>
+  <aired>1996-01-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1273508</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1402</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>303634</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>101400</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>新世纪福音战士</showtitle>
+  <uniqueid default="false" type="tmdb">949395</uniqueid>
+  <uniqueid default="false" type="tvrage">125427</uniqueid>
+  <uniqueid default="true" type="imdb">tt0781956</uniqueid>
+  <uniqueid default="false" type="tvdb">3899</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.4</value>
+      <votes>5</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.2</value>
+      <votes>1225</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/a0Cm0jExAglukJeKScPRqlfonYi.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159390</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>新世纪福音战士 - S01E15 - 谎言与沉默（hose women longed for the touch of others' lips, and thus invited their kisses.）.mkv</original_filename>
+  <user_note />
+</episodedetails>

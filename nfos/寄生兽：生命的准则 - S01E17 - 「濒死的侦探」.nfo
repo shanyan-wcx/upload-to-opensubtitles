@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>田宫被组织里的寄生兽视为眼中钉而遭到围攻，田宫设陷阱斩杀攻击她的三只寄生兽，回到家后却发现孩子被侦探仓森劫为人质。随后田宫私闯新一家，并通知新一在公园会面，然而却意外遇到了里美。仓森与田宫对峙，田宫母性觉醒杀死了作势伤害婴儿的仓森，但她即将面临警察的搜捕。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>「濒死的侦探」</title>
+  <originaltitle>瀕死の探偵</originaltitle>
+  <director>Kenichi Shimizu</director>
+  <director>Hiromichi Matano</director>
+  <writer>Shoji Yonemura</writer>
+  <writer>Hitoshi Iwaaki</writer>
+  <writer>Shinzo Fujita</writer>
+  <credits>Shoji Yonemura</credits>
+  <credits>Hitoshi Iwaaki</credits>
+  <credits>Shinzo Fujita</credits>
+  <rating>7.5</rating>
+  <year>2015</year>
+  <imdbid>tt4384868</imdbid>
+  <tvdbid>5037903</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>Madhouse</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/寄生兽：生命的准则 (2014)/Season 1/寄生兽：生命的准则 - S01E17 - 「濒死的侦探」-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Nobunaga Shimazaki</name>
+    <role>Shinichi Izumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobunaga Shimazaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Hirano</name>
+    <role>Migi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Hirano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Satomi Murano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kana Kimishima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Tamiya Ryoko (voice) / Tamura Reiko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Atsuko Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takaya Aoyagi</name>
+    <role>Kusano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takaya Aoyagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Miki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Namikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Hideo Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayumu Murase</name>
+    <role>Jaw (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayumu Murase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Uragami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Issei Futamata</name>
+    <role>Shirou Kuramori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Issei Futamata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Gotou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyono Yasuno</name>
+    <role>Yuko Tachikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kiyono Yasuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rena Maeda</name>
+    <role>Akiho Suzuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rena Maeda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuma Suzuki</name>
+    <role>Mamoru Uda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuma Suzuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuu Mizushima</name>
+    <role>Takeshi Hirokawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>17</episode>
+  <season>1</season>
+  <aired>2015-02-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6332842</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1432430</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>寄生兽：生命的准则-S01E17-「濒死的侦探」</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>寄生兽：生命的准则</showtitle>
+  <uniqueid default="false" type="tmdb">1029894</uniqueid>
+  <uniqueid default="true" type="imdb">tt4384868</uniqueid>
+  <uniqueid default="false" type="tvdb">5037903</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.4</value>
+      <votes>449</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/bafEV5CCI4cT4Y52p9iIN3LZgsJ.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>160572</tvmazeid>
+  <bangumiid>427792</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>寄生兽：生命的准则 - S01E17 - 「濒死的侦探」.mkv</original_filename>
+  <user_note />
+</episodedetails>

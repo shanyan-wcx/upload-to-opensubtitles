@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>真广独自於沉眠之中，回忆起至今以来所遭遇的事。包括爱花不合理地被杀、为了揪出杀害爱花的犯人而和叶风交易、在一片混乱中与吉野再会，踏上复仇之旅──至今的记忆于梦境中一一重现。自从富士山麓的决战结束後已过了一个多月，世界正确实受到起始之树的“支配”。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>梦之理</title>
+  <originaltitle>夢の理</originaltitle>
+  <writer>Mari Okada</writer>
+  <credits>Mari Okada</credits>
+  <rating>0</rating>
+  <year>2013</year>
+  <imdbid>tt3555556</imdbid>
+  <tvdbid>4458926</tvdbid>
+  <runtime>24</runtime>
+  <studio>Aniplex</studio>
+  <tvrageid>1065258636</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/绝园的暴风雨 (2012)/Season 1/绝园的暴风雨 - S01E13 - 梦之理-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Hanemura Megumu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Fuwa Aika (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Koki Uchiyama</name>
+    <role>Takigawa Yoshino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Koki Uchiyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rikiya Koyama</name>
+    <role>Kusaribe Samon (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rikiya Koyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshiyuki Toyonaga</name>
+    <role>Fuwa Mahiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toshiyuki Toyonaga/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Hoshimura Jun`ichirou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nana Mizuki</name>
+    <role>Evangeline Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nana Mizuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kusaribe Hakaze (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shintaro Asanuma</name>
+    <role>Hayakawa Takumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shintaro Asanuma/folder.jpg</thumb>
+  </actor>
+  <episode>13</episode>
+  <season>1</season>
+  <aired>2013-01-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9017217</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1469</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1421087</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>680755</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>绝园的暴风雨-S01E13-梦之理</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>绝园的暴风雨</showtitle>
+  <uniqueid default="false" type="tmdb">908576</uniqueid>
+  <uniqueid default="false" type="tvrage">1065258636</uniqueid>
+  <uniqueid default="true" type="imdb">tt3555556</uniqueid>
+  <uniqueid default="false" type="tvdb">4458926</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>7.6</value>
+      <votes>15</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/iXl6r22Oz5WiQ9JWzM8wBRdoZdE.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>455806</tvmazeid>
+  <bangumiid>216390</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>绝园的暴风雨 - S01E13 - 梦之理.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>塔奥现身告诉安吉拉真相。卡罗尔和特丝黛的第一张专辑完成之际，超级乐团也排定在跨年夜演出。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-21 15:31:06</dateadded>
+  <title>A Change is Gonna Come</title>
+  <director>Satoshi Takafuji</director>
+  <writer>Shinichiro Watanabe</writer>
+  <credits>Shinichiro Watanabe</credits>
+  <rating>9.2</rating>
+  <year>2019</year>
+  <imdbid>tt10551070</imdbid>
+  <tvdbid>7254268</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Music</genre>
+  <genre>Sci-Fi</genre>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/卡罗尔与星期二 (2019)/Season 1/metadata/卡罗尔与星期二 - S01E24 - A Change is Gonna Come.jpg</poster>
+  </art>
+  <actor>
+    <name>Miyuri Shimabukuro</name>
+    <role>Carole (speaking voice)</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuri Shimabukuro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nai Br.XX</name>
+    <role>Carole (singing voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nai Br.XX/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Ichinose</name>
+    <role>Tuesday (speaking voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Ichinose/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Celeina Ann</name>
+    <role>Tuesday (singing voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Celeina Ann/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akio Otsuka</name>
+    <role>Gus (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akio Otsuka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumire Uesaka</name>
+    <role>Angela (speaking voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sumire Uesaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Alisa</name>
+    <role>Angela (singing voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Alisa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Tao (voice)</role>
+    <type>Actor</type>
+    <sortorder>7</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyu Irino</name>
+    <role>Roddy (voice)</role>
+    <type>Actor</type>
+    <sortorder>8</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyu Irino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Ertegun (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenyu Horiuchi</name>
+    <role>Dahlia (voice)</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenyu Horiuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyadera Tomoko</name>
+    <role>Valerie (voice)</role>
+    <type>Actor</type>
+    <sortorder>11</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyadera Tomoko/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Spencer (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Maaya Sakamoto</name>
+    <role>Crystal (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Maaya Sakamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroki Yasumoto</name>
+    <role>Skip (voice)</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroki Yasumoto/folder.jpg</thumb>
+  </actor>
+  <episode>24</episode>
+  <season>1</season>
+  <aired>2019-10-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6403826</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1446237</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd(jp)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

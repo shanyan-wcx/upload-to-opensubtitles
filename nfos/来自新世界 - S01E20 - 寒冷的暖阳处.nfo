@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>为了躲避恶鬼的追杀，觉利用镜像使两人成功逃脱。就在两人返回村子的时候，一只变异化鼠出现了，它利用喷出的黑色烟尘引发爆炸。在这次爆炸中，觉和早季被分开了，在回镇子的路上，早季听说，怪物利用水路攻击了镇上的人，为了保护大家，镇里所有的河水都被抽干了，只有完人学校还保持完整，而富子女士也在那里。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>寒冷的暖阳处</title>
+  <originaltitle>冷たい日だまり</originaltitle>
+  <director>Kenjirou Okada</director>
+  <writer>Masashi Sogo</writer>
+  <writer>Yuusuke Kishi</writer>
+  <writer>Jun Matsumoto</writer>
+  <writer>Kouhei Urasawa</writer>
+  <credits>Masashi Sogo</credits>
+  <credits>Yuusuke Kishi</credits>
+  <credits>Jun Matsumoto</credits>
+  <credits>Kouhei Urasawa</credits>
+  <rating>0</rating>
+  <year>2013</year>
+  <runtime>23</runtime>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/来自新世界 (2012)/Season 1/来自新世界 - S01E20 - 寒冷的暖阳处-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Saki Watanabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Satoru Asahina (age 14-26) (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshiko Sakakibara</name>
+    <role>Tomiko Asahina (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chisa Yūki</name>
+    <role>Susumu Sakai (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryo Kamon</name>
+    <role>Niimi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>20</episode>
+  <season>1</season>
+  <aired>2013-02-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6708050</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1361</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1486610</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>来自新世界</showtitle>
+  <uniqueid default="true" type="tmdb">922812</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/fGrH0DNpGJVJU5JkWiUMP5UH74G.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388431</tvmazeid>
+  <bangumiid>198812</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>来自新世界 - S01E20 - 寒冷的暖阳处.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>报濑有了去南极的计划，要到弗里曼特尔乘搭往南极的白濑号，而今年民间南极观测队也可搭乘，因此报濑等人也有机会乘船。为了准备旅费，玉木在便利店打工，因而认识了三宅日向。日向原来早已听到了玉木和报濑去南极的事，也打算加入。于是，三人决定要去歌舞伎町找民间南极观测队。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>歌舞伎町弗里曼特尔</title>
+  <originaltitle>歌舞伎町フリーマントル</originaltitle>
+  <director>Tomoya Kitagawa</director>
+  <writer>Jukki Hanada</writer>
+  <credits>Jukki Hanada</credits>
+  <rating>8</rating>
+  <year>2018</year>
+  <imdbid>tt8324102</imdbid>
+  <tvdbid>6482995</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <studio>Madhouse</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/比宇宙更遥远的地方 (2018)/Season 1/比宇宙更遥远的地方 - S01E02 - 歌舞伎町弗里曼特尔-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Inori Minase</name>
+    <role>Mari 'Kimari' Tamaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Inori Minase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Shirase Kobuchizawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Yuzuki Shiraishi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Saori Hayami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Hinata Miyake (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuka Iguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mikako Komatsu</name>
+    <role>Hanami Yasumoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mikako Komatsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takako Honda</name>
+    <role>Kimari's mother (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takako Honda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Takako Kobuchizawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Yume Sasaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisako Kanemoto</name>
+    <role>Megumi Takahashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisako Kanemoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kaede Hondo</name>
+    <role>Rin Tamaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kaede Hondo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Asumi</name>
+    <role>Nobue Todoroki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Asumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Gin Toudou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Lynn</name>
+    <role>Yumiko Samejima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/L/Lynn/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masaki Terasoma</name>
+    <role>Chiaki Mukai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Masaki Terasoma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayaka Ohara</name>
+    <role>Tamiko Shiraishi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayaka Ohara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Toshio Zaizen (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshitsugu Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoko Hikasa</name>
+    <role>Kanae Maekawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoko Hikasa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jun Fukushima</name>
+    <role>Dai Himi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jun Fukushima/folder.jpg</thumb>
+  </actor>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2018-01-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6352931</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1426</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1410951</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>比宇宙更遥远的地方-S01E02-歌舞伎町弗里曼特尔</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>比宇宙更遥远的地方</showtitle>
+  <uniqueid default="false" type="tmdb">1417359</uniqueid>
+  <uniqueid default="true" type="imdb">tt8324102</uniqueid>
+  <uniqueid default="false" type="tvdb">6482995</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.2</value>
+      <votes>81</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/7PKATNQ2qsygEhoEZpBjqvRK0ls.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1373247</tvmazeid>
+  <bangumiid>766526</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>比宇宙更遥远的地方 - S01E02 - 歌舞伎町弗里曼特尔.mkv</original_filename>
+  <user_note />
+</episodedetails>

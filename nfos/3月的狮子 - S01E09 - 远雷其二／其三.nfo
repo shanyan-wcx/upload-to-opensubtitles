@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>桐山这次的对战选手是松永正一，有着40年实战经验的65岁将棋老将，据说松永若是从C1降级就要引退。赛前，桐山在寺庙偶遇松永，并担心着他的精神状态。终于轮到两人对局，面对毫无章法乱下一气的松永，桐山也弄不请他的套路。最后傲娇老爷子索性认输耍起了脾气，桐山哭笑不得。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>远雷其二／其三</title>
+  <originaltitle>Chapter.18 遠雷② / Chapter.19 遠雷③</originaltitle>
+  <director>Sayaka Iwai</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <rating>8</rating>
+  <year>2016</year>
+  <imdbid>tt7674738</imdbid>
+  <tvdbid>5784142</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E09 - 远雷其二／其三-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuo Oka</name>
+    <role>Shouichi Matsunaga (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chie Arikawa</name>
+    <role>Miyanogawa clerk (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chie Arikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Recorder (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Marina Inoue</name>
+    <role>Kyouko Kouda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Marina Inoue/folder.jpg</thumb>
+  </actor>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2016-12-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6776457</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1442170</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E09-远雷其二／其三</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1228380</uniqueid>
+  <uniqueid default="true" type="imdb">tt7674738</uniqueid>
+  <uniqueid default="false" type="tvdb">5784142</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.1</value>
+      <votes>109</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/oJbT5e9vMr8UZGVKcOj1s6QpN9z.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>947440</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E09 - 远雷其二／其三.mkv</original_filename>
+  <user_note />
+</episodedetails>

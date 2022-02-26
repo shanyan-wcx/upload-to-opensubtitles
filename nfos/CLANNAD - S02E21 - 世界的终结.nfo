@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>汐突然发高烧昏倒，症状跟渚一模一样。医生表示完全找不出原因，让大家感到束手无策。朋也在秋生与早苗的协助下，虽然很努力地照顾着汐，但过了一个月之后汐的高烧仍旧没退…。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>世界的终结</title>
+  <originaltitle>世界の終わり</originaltitle>
+  <writer>Fumihiko Shimo</writer>
+  <credits>Fumihiko Shimo</credits>
+  <rating>0</rating>
+  <year>2009</year>
+  <imdbid>tt1385071</imdbid>
+  <tvdbid>442625</tvdbid>
+  <runtime>24</runtime>
+  <studio>Kyoto Animation</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/CLANNAD (2007)/Season 2/CLANNAD - S02E21 - 世界的终结-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Tomoya Okazaki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Nakahara</name>
+    <role>Nagisa Furukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mai Nakahara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Fuuko Ibuki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryo Hirohashi</name>
+    <role>Kyou Fujibayashi</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryo Hirohashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Sakaguchi</name>
+    <role>Youhei Sunohara</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Sakaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satomi Korogi</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satomi Korogi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomoko Kawakami</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomoko Kawakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryotaro Okiayu</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryotaro Okiayu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroomi Sugino</name>
+    <role>Hikarizaka Electric Company President</role>
+    <type>Actor</type>
+  </actor>
+  <episode>21</episode>
+  <season>2</season>
+  <aired>2009-03-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3397701</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1451</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1451956</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>CLANNAD-S02E21-世界的终结</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>CLANNAD</showtitle>
+  <uniqueid default="false" type="tmdb">647141</uniqueid>
+  <uniqueid default="true" type="imdb">tt1385071</uniqueid>
+  <uniqueid default="false" type="tvdb">442625</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>9.4</value>
+      <votes>280</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/mzgcb41lgzdzz2HRTuCSn9U7Fuj.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388154</tvmazeid>
+  <bangumiid>541</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>CLANNAD - S02E21 - 世界的终结.mkv</original_filename>
+  <user_note />
+</episodedetails>

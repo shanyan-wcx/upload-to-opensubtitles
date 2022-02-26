@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>夏目在藤原家发现一个茶碗似的妖怪。据猫咪老师说，这个妖怪叫做影茶杯。因为喜欢人类会寄居在陈旧民宅的地下，如果将有灾难降临到那家里，它会四处跑动来通知人类，有时候会作为人类的替身，代替人类承受灾难......</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 13:09:30</dateadded>
+  <title>妖怪之名</title>
+  <originaltitle>妖しきものの名</originaltitle>
+  <writer>Toshiya Shinohara</writer>
+  <credits>Toshiya Shinohara</credits>
+  <rating>3.9</rating>
+  <year>2011</year>
+  <imdbid>tt2722534</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 3/metadata/夏目友人帐 - S03E01 - 妖怪之名.jpg</poster>
+  </art>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akiko Yajima</name>
+    <role>Kogitsune (voice)</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akiko Yajima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Sasada Jun (voice)</role>
+    <type>Actor</type>
+    <sortorder>16</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kyoko Chikiri</name>
+    <role>Kappa (voice)</role>
+    <type>Actor</type>
+    <sortorder>17</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kyoko Chikiri/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuma Horie</name>
+    <role>Tanuma Kaname (voice)</role>
+    <type>Actor</type>
+    <sortorder>20</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuma Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yasunori Matsumoto</name>
+    <role>Tanuma Father (voice)</role>
+    <type>Actor</type>
+    <sortorder>21</sortorder>
+  </actor>
+  <actor>
+    <name>Hiroshi Shimozaki</name>
+    <role>Ushikao no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>22</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Shimozaki/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2011-07-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3493077</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1457</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>637339</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S03E01-妖怪之名</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="false" type="tmdb">1316286</uniqueid>
+  <uniqueid default="true" type="imdb">tt2722534</uniqueid>
+  <uniqueid default="false" type="tvdb">4118712</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>4.5</value>
+      <votes>64</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/1oOZfObGQN7QuwlKChvvGkNq9w5.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帳 第1話 「妖しきものの名」.mkv</original_filename>
+  <user_note />
+</episodedetails>

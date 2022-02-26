@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>铃羽就是冈部一直联系的提托，而她来自被 SERN 统治的 2036 年。绝望的未来让冈部等人非常吃惊，而想要解救真由理就要从根本上解决问题，那就是消除冈部发出的第一封 D-mail，为此铃羽必须乘坐时光机器前往 1975 年找到 IBN5100。再次使用时间跳跃回溯到最大限度后冈部让桥田展开了维修时光机器的工作，而其他人则帮助铃羽寻找父亲。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>亡环上的坏死</title>
+  <originaltitle>亡環上のネクローシス</originaltitle>
+  <director>Takuya Sato</director>
+  <director>Tomoki Kobayashi</director>
+  <writer>Masahiro Yokotani</writer>
+  <credits>Masahiro Yokotani</credits>
+  <rating>8.5</rating>
+  <year>2011</year>
+  <imdbid>tt2156201</imdbid>
+  <tvdbid>3989421</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 (2011)/Season 1/命运石之门 - S01E15 - 亡环上的坏死-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Ruka Urushibara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Itaru Hashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Faris Nyannyan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruko Momoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Imai</name>
+    <role>Kurisu Makise (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Asami Imai/folder.jpg</thumb>
+  </actor>
+  <episode>15</episode>
+  <season>1</season>
+  <aired>2011-07-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2776012</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1436</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>319221</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门-S01E15-亡环上的坏死</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门</showtitle>
+  <uniqueid default="false" type="tmdb">880899</uniqueid>
+  <uniqueid default="true" type="imdb">tt2156201</uniqueid>
+  <uniqueid default="false" type="tvdb">3989421</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.667</value>
+      <votes>6</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.5</value>
+      <votes>892</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/suTIlaYwdYs86bArm1uIbydqDXP.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>163374</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 - S01E15 - 亡环上的坏死.mkv</original_filename>
+  <user_note />
+</episodedetails>

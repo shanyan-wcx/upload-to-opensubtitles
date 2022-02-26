@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>受到加粒子炮攻击的初号机，所幸未伤至要害，但真嗣却对战斗开始胆怯。另一方，使徒正在使用能量钻向 NERV 本部的位置展开攻击。面对持有自动防御系统的使徒，美里提出了超长距离射击的提案，并取名为“屋岛作战”。数小时后，日本列岛的能源，集束于阳电子炮内，狙击手为真嗣，丽驾驶零号机执行防御任务。使徒加粒子炮与阳电子炮的两束热能交错飞过，使徒被击坠，而丽挡在了真嗣的面前。
+
+（这一话基本围绕对第五使徒的攻防战展开。最后的场面中真嗣将丽从融坏的零号机里救出后，丽说：“对不起，这种时刻，我不知道该用怎样的表情面对你。”而真嗣的台词是“我认为微笑就可以了”这段，在片中起到了相当好的平衡作用，给人留下较深印象。）</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>决战、第三新东京市（Rei II）</title>
+  <originaltitle>第六話 決戦、第3新東京市</originaltitle>
+  <director>Hiroyuki Ishido</director>
+  <writer>Hideaki Anno</writer>
+  <credits>Hideaki Anno</credits>
+  <rating>8.4</rating>
+  <year>1995</year>
+  <imdbid>tt0781962</imdbid>
+  <tvdbid>3890</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>GAINAX</studio>
+  <tvrageid>125418</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/新世纪福音战士 (1995)/Season 1/新世纪福音战士 - S01E06 - 决战、第三新东京市（Rei II）-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Megumi Ogata</name>
+    <role>Shinji Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Ogata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotono Mitsuishi</name>
+    <role>Misato Katsuragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kotono Mitsuishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Rei Ayanami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Hayashibara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Miyamura</name>
+    <role>Asuka Langley Soryu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Miyamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuriko Yamaguchi</name>
+    <role>Dr. Ritsuko Akagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuriko Yamaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Gendo Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Motomu Kiyokawa</name>
+    <role>Kozo Fuyutsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Motomu Kiyokawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Nagasawa</name>
+    <role>Maya Ibuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Nagasawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Touji Suzuhara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tetsuya Iwanaga</name>
+    <role>Kensuke Aida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tetsuya Iwanaga/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takehito Koyasu</name>
+    <role>Shigeru Aoba (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takehito Koyasu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiro Yuuki</name>
+    <role>Makoto Hyuuga (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiro Yuuki/folder.jpg</thumb>
+  </actor>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>1995-11-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1403223</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1401</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>308098</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>105198</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>新世纪福音战士</showtitle>
+  <uniqueid default="false" type="tmdb">949386</uniqueid>
+  <uniqueid default="false" type="tvrage">125418</uniqueid>
+  <uniqueid default="true" type="imdb">tt0781962</uniqueid>
+  <uniqueid default="false" type="tvdb">3890</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>6</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.4</value>
+      <votes>1371</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/6hRmT95tHdLOHvnunEEVYACH06q.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159381</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>新世纪福音战士 - S01E06 - 决战、第三新东京市（Rei II）.mkv</original_filename>
+  <user_note />
+</episodedetails>

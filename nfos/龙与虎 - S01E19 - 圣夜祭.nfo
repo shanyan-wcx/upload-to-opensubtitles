@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>这天晚上，圣诞夜的派对就要展开了，大河特地拿了父亲的旧西装给龙儿穿，还跑去跟实乃梨说“龙儿说不管多晚，都会在会场等着你来”，而她自己则是早早就回家等着现实中不可能出现的圣诞老人……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:44</dateadded>
+  <title>圣夜祭</title>
+  <originaltitle>聖夜祭</originaltitle>
+  <director>Tatsuyuki Nagai</director>
+  <writer>Yuyuko Takemiya</writer>
+  <writer>Yasu</writer>
+  <credits>Yuyuko Takemiya</credits>
+  <credits>Yasu</credits>
+  <rating>8</rating>
+  <year>2009</year>
+  <imdbid>tt1369400</imdbid>
+  <tvdbid>435432</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>J.C.Staff</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/龙与虎 (2008)/Season 1/龙与虎 - S01E19 - 圣夜祭-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Taiga Aisaka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yui Horie</name>
+    <role>Kushieda Minori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yui Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Haruta Kouji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eri Kitamura</name>
+    <role>Ami Kawashima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eri Kitamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Kitamura Yuusaku (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Kihara Maya (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuyuki Okitsu</name>
+    <role>Noto Hisamitsu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuyuki Okitsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junji Majima</name>
+    <role>Takasu Ryuuji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Junji Majima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Asumi</name>
+    <role>Kanou Sakura (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Asumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Kaida</name>
+    <role>Kanou Sumire (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Kaida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Tanaka</name>
+    <role>Yuri Koigakubo (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayaka Ohara</name>
+    <role>Yasuko Takasu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayaka Ohara/folder.jpg</thumb>
+  </actor>
+  <episode>19</episode>
+  <season>1</season>
+  <aired>2009-02-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3731768</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1416</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>960000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>龙与虎-S01E19-圣夜祭</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>龙与虎</showtitle>
+  <uniqueid default="false" type="tmdb">883632</uniqueid>
+  <uniqueid default="true" type="imdb">tt1369400</uniqueid>
+  <uniqueid default="false" type="tvdb">435432</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>9.0</value>
+      <votes>210</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/enR1sqlQdK8MbbbtRD8exoWAlBX.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>426824</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>龙与虎 - S01E19 - 圣夜祭.mkv</original_filename>
+  <user_note />
+</episodedetails>

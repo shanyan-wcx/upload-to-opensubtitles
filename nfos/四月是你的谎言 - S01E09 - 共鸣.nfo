@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>井川演奏的曲子饱含深情，音色犹如向日葵般明快，公生感到了心中的悸动。薰的身体状况越来越差，但她仍坚持为公生加油。轮到公生上场了，他努力摆脱恐惧，演奏的精准无比。但幼时的回忆突然涌上心头，母亲的死是公生无法抹去的痛，他自认为受到了母亲的惩罚，因此才无法听到琴声。一时间公生陷入慌乱，钢琴的节奏全乱了……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>共鸣</title>
+  <originaltitle>共鳴</originaltitle>
+  <writer>Naoshi Arakawa</writer>
+  <writer>Takao Yoshioka</writer>
+  <credits>Naoshi Arakawa</credits>
+  <credits>Takao Yoshioka</credits>
+  <rating>7.5</rating>
+  <year>2014</year>
+  <imdbid>tt4233402</imdbid>
+  <tvdbid>5013333</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Music</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/四月是你的谎言 (2014)/Season 1/四月是你的谎言 - S01E09 - 共鸣-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Igawa Emi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Saori Hayami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Aiza Nagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Kaori Miyazono (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Tsubaki Sawabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Natsuki Hanae</name>
+    <role>Kousei Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Natsuki Hanae/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryota Osaka</name>
+    <role>Ryouta Watari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryota Osaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Aiza Takeshi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Saki Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Yuriko Ochiai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Atsuko Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yumi Kakazu</name>
+    <role>Emi's Mother (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shunzo Miyasaka</name>
+    <role>Emi's Father (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takanori Ooyama</name>
+    <role>Akira Takayanagi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2014-12-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7189989</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1398550</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1340645</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>四月是你的谎言-S01E09-共鸣</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>四月是你的谎言</showtitle>
+  <uniqueid default="false" type="tmdb">1021750</uniqueid>
+  <uniqueid default="true" type="imdb">tt4233402</uniqueid>
+  <uniqueid default="false" type="tvdb">5013333</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.9</value>
+      <votes>516</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/neLbFtPxgCeIxaCnqDmzuxbkCIV.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>390094</tvmazeid>
+  <bangumiid>386544</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>四月是你的谎言 - S01E09 - 共鸣.mkv</original_filename>
+  <user_note />
+</episodedetails>

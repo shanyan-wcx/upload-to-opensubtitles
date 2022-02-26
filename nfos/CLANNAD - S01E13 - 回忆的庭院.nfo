@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>来到琴美家探访琴美的朋也，突然察觉到自己对这栋房子有印象。当朋也悄悄进入琴美家并见到琴美时，他才想起原来自己小时候跟琴美曾经见过面，他的儿时回忆也在此时完全恢复。为了回答朋也的问题，琴美开始说起她父母亲所发生过的事。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>回忆的庭院</title>
+  <originaltitle>思い出の庭を</originaltitle>
+  <director>Tatsuya Ishihara</director>
+  <writer>Fumihiko Shimo</writer>
+  <credits>Fumihiko Shimo</credits>
+  <rating>8</rating>
+  <year>2008</year>
+  <imdbid>tt1168827</imdbid>
+  <tvdbid>348916</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>Kyoto Animation</studio>
+  <tvrageid>634447</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/CLANNAD (2007)/Season 1/CLANNAD - S01E13 - 回忆的庭院-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Tomoya Okazaki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Nakahara</name>
+    <role>Nagisa Furukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mai Nakahara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Fuuko Ibuki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryo Hirohashi</name>
+    <role>Kyou Fujibayashi</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryo Hirohashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Sakaguchi</name>
+    <role>Youhei Sunohara</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Sakaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satomi Korogi</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satomi Korogi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomoko Kawakami</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomoko Kawakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryotaro Okiayu</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryotaro Okiayu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fuyuka Ono</name>
+    <type>Actor</type>
+  </actor>
+  <episode>13</episode>
+  <season>1</season>
+  <aired>2008-01-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4321039</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1451</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1455291</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>CLANNAD-S01E13-回忆的庭院</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>CLANNAD</showtitle>
+  <uniqueid default="false" type="tmdb">647110</uniqueid>
+  <uniqueid default="false" type="tvrage">634447</uniqueid>
+  <uniqueid default="true" type="imdb">tt1168827</uniqueid>
+  <uniqueid default="false" type="tvdb">348916</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.8</value>
+      <votes>133</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/f0Pc2tA8tILJ94WLTZj19w2yZpQ.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388123</tvmazeid>
+  <bangumiid>533</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:40Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>CLANNAD - S01E13 - 回忆的庭院.mkv</original_filename>
+  <user_note />
+</episodedetails>

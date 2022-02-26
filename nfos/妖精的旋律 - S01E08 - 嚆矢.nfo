@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>耕太把娜娜带到枫庄后，娜娜随即看到认为是露西的妮悠，并开始攻击，耕太看到这场景打了娜娜一巴掌，委屈的娜娜跑出了枫庄。昏迷醒来的妮悠想到了小时候的事…与此同时，角泽教授的头也被带到研究所。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>嚆矢</title>
+  <originaltitle>嚆矢</originaltitle>
+  <director>Mamoru Kanbe</director>
+  <writer>Takao Yoshioka</writer>
+  <credits>Takao Yoshioka</credits>
+  <rating>9.5</rating>
+  <year>2004</year>
+  <imdbid>tt0909544</imdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>ARMS</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/妖精的旋律 (2004)/Season 1/妖精的旋律 - S01E08 - 嚆矢-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Chihiro Suzuki</name>
+    <role>Kouta (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chihiro Suzuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Lucy / Nyuu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Emiko Hagiwara</name>
+    <role>Mayu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Emiko Hagiwara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroaki Hirata</name>
+    <role>Professor Kakuzawa Yu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroaki Hirata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hitomi Nabatame</name>
+    <role>Kouta (child) / Shirakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hitomi Nabatame/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jouji Nakata</name>
+    <role>Bandou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jouji Nakata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kinryuu Arimoto</name>
+    <role>Chief Kakuzawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kinryuu Arimoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Maria Yamamoto</name>
+    <role>Kanae (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Maria Yamamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Osamu Hosoi</name>
+    <role>Kurama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/O/Osamu Hosoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomoko Kawakami</name>
+    <role>Mariko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomoko Kawakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Matsuoka</name>
+    <role>Nana (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eriko Ishihara</name>
+    <role>Arakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eriko Ishihara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Yuka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2004-09-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3565528</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1512</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1391185</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>妖精的旋律-S01E08-嚆矢</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>妖精的旋律</showtitle>
+  <uniqueid default="false" type="tmdb">882101</uniqueid>
+  <uniqueid default="true" type="imdb">tt0909544</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>9.5</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.3</value>
+      <votes>365</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/gaKiqPMntdQuQyuJlgeYgsaeBSZ.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>163618</tvmazeid>
+  <bangumiid>550</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:18:37Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>妖精的旋律 - S01E08 - 嚆矢.mkv</original_filename>
+  <user_note />
+</episodedetails>

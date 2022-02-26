@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>不断进行时间跳跃的冈部明白，如果没有把所有的 D-mail 消除真由理的死亡结果便不会改变，而下一封要消除的便是萌郁所发的 D-mail。红莉栖陪着真由理确认死亡的时间，而前去寻找萌郁的冈部却发现对方已经自杀，在确定了真由理死亡时间后冈部再次进行时间跳跃，回到了萌郁自杀前的他抢到了对方的手机，但发出“不要换手机”的信息后世界线却没有改变。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>无限连锁的凋亡</title>
+  <originaltitle>無限連鎖のアポトーシス</originaltitle>
+  <director>Takuya Sato</director>
+  <director>Hiroyuki Tsuchiya</director>
+  <writer>Toshizō Nemoto</writer>
+  <credits>Toshizō Nemoto</credits>
+  <rating>8.7</rating>
+  <year>2011</year>
+  <imdbid>tt2161047</imdbid>
+  <tvdbid>3989461</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 (2011)/Season 1/命运石之门 - S01E19 - 无限连锁的凋亡-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Ruka Urushibara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Itaru Hashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Faris Nyannyan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruko Momoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Imai</name>
+    <role>Kurisu Makise (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Asami Imai/folder.jpg</thumb>
+  </actor>
+  <episode>19</episode>
+  <season>1</season>
+  <aired>2011-08-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2331449</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1445</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>312807</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门-S01E19-无限连锁的凋亡</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门</showtitle>
+  <uniqueid default="false" type="tmdb">880902</uniqueid>
+  <uniqueid default="true" type="imdb">tt2161047</uniqueid>
+  <uniqueid default="false" type="tvdb">3989461</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.833</value>
+      <votes>6</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.7</value>
+      <votes>921</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/6ueX65TiBKLcfHHEb0BnYz0NXLc.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>163378</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 - S01E19 - 无限连锁的凋亡.mkv</original_filename>
+  <user_note />
+</episodedetails>

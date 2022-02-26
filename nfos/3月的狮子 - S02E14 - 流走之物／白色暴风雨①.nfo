@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>岛田与柳原之间的棋匠战之争，第一局由柳原获胜。可是，由他们两个出场，却一点看头也没有。神宫寺会长只把希望放在宗谷与零对局的纪念对局。在对局的前一天抵达盛冈，零怀抱着与首次与宗谷对局的紧张感，出席了纪念对局的会前晚会…</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>流走之物／白色暴风雨①</title>
+  <originaltitle>Chapter.72 流れていくもの / Chapter.73 白い嵐①</originaltitle>
+  <director>Tetsuya Miyanishi</director>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Mie Oishi</writer>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Mie Oishi</credits>
+  <rating>0</rating>
+  <year>2018</year>
+  <imdbid>tt8792832</imdbid>
+  <tvdbid>6362654</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 2/3月的狮子 - S02E14 - 流走之物／白色暴风雨①-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Sakaguchi</name>
+    <role>Okuyasu Yokomizo (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Sakaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Announcer (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinya Takahashi</name>
+    <role>Visitor (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Daisuke Ono</name>
+    <role>Gakuto Sakurai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Ono/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kosuke Kobayashi</name>
+    <role>Concierge (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Nozomi Nishida</name>
+    <role>Reception attendant (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kumiko Nakane</name>
+    <role>Nakai (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenjiro Tsuda</name>
+    <role>Morio Shigeta (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenjiro Tsuda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Touji Souya (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuhiko Okamoto</name>
+    <role>Harunobu Nikaidou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuhiko Okamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tesshou Genda</name>
+    <role>Takanori Jinguuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shin-ichiro Miki</name>
+    <role>Kai Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shin-ichiro Miki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hochu Otsuka</name>
+    <role>Sakutarou Yanagihara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Takashi Hayashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <episode>14</episode>
+  <season>2</season>
+  <aired>2018-01-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5319084</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1379758</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S02E14-流走之物／白色暴风雨①</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1380037</uniqueid>
+  <uniqueid default="true" type="imdb">tt8792832</uniqueid>
+  <uniqueid default="false" type="tvdb">6362654</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.9</value>
+      <votes>96</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/8JgaVYpTXZrnA3p2CZb1RobmPFO.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1393692</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S02E14 - 流走之物／白色暴风雨①.mkv</original_filename>
+  <user_note />
+</episodedetails>

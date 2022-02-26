@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在文明崩溃，一切都毁灭的世界中，千户和尤莉孤零零的两人，乘着爱车半履带摩托走在连绵不断的废墟中旅行着。但是，由于尤莉的突发奇想，两人进入了建筑物里面，就这样迷路，无法走出外面。在暗无天日的黑暗之中，自己身在何处也无从知晓，连时间的感觉也开始失去，此时从睡梦中醒来的千户总算注意到了流动的风向。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:39:23</dateadded>
+  <title>星空 / 战争</title>
+  <originaltitle>「星空」「戦争」</originaltitle>
+  <director>Takaharu Ozaki</director>
+  <writer>Kazuyuki Fudeyasu</writer>
+  <writer>Tsukumizu</writer>
+  <credits>Kazuyuki Fudeyasu</credits>
+  <credits>Tsukumizu</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt7484008</imdbid>
+  <tvdbid>6244527</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/少女终末旅行 (2017)/Season 1/少女终末旅行 - S01E01 - 星空 战争-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yurika Kubo</name>
+    <role>Yuuri (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yurika Kubo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Inori Minase</name>
+    <role>Chito (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Inori Minase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Nuko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumi Shimamoto</name>
+    <role>Eryngii (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sumi Shimamoto/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2017-10-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6552875</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1422</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1298929</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>173613</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>少女终末旅行-S01E01-星空战争</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>少女终末旅行</showtitle>
+  <uniqueid default="false" type="tmdb">1372565</uniqueid>
+  <uniqueid default="true" type="imdb">tt7484008</uniqueid>
+  <uniqueid default="false" type="tvdb">6244527</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>7.3</value>
+      <votes>56</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/lzXw9LMTwdZ5rMf1qP73g4RZJQm.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1304413</tvmazeid>
+  <bangumiid>751810</bangumiid>
+  <source>UNKNOWN</source>
+  <original_filename>少女终末旅行 - S01E01 - 星空 战争.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>夏目在回家的车站遇到了一个等车的男子，男子拜托夏目带他去学校，他想寻找一个女孩。路上男子告诉夏目自己叫熏，直到学校夏目才发觉这个男子不是人类。熏要寻找的女孩园川香也可以看见妖怪，他们从小就在树林里聊天打闹，但长大后熏担心园川香总跟妖怪走太近会被社会排挤，所以故意疏远了她。熏这次特地来寻找园川香，是因为他受到了香的婚礼请帖，夏目听后也想见一见这位园川香，所以决定帮助熏寻找香。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 13:14:59</dateadded>
+  <title>终将到来之日</title>
+  <originaltitle>いつかくる日</originaltitle>
+  <director>Tarou Iwasaki</director>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt8193448</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 6/metadata/夏目友人帐 - S06E08 - 终将到来之日.jpg</poster>
+  </art>
+  <actor>
+    <name>Higuchi Akari</name>
+    <role>Urihime (voice)</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Higuchi Akari/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Sasada Jun (voice)</role>
+    <type>Actor</type>
+    <sortorder>16</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kyoko Chikiri</name>
+    <role>Kappa (voice)</role>
+    <type>Actor</type>
+    <sortorder>17</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kyoko Chikiri/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuma Horie</name>
+    <role>Tanuma Kaname (voice)</role>
+    <type>Actor</type>
+    <sortorder>20</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuma Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Shimozaki</name>
+    <role>Ushikao no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>22</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Shimozaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <role>Hiiragi (voice)</role>
+    <type>Actor</type>
+    <sortorder>32</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satsuki Yukino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mikako Komatsu</name>
+    <role>Kaoru Sonokawa (voice)</role>
+    <type>Actor</type>
+    <sortorder>40</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mikako Komatsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Ono</name>
+    <role>Aoi (voice)</role>
+    <type>Actor</type>
+    <sortorder>41</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Ono/folder.jpg</thumb>
+  </actor>
+  <episode>8</episode>
+  <season>6</season>
+  <aired>2017-05-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3824875</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1438</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>628810</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S06E08-终将到来之日</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="false" type="tmdb">1417116</uniqueid>
+  <uniqueid default="true" type="imdb">tt8193448</uniqueid>
+  <uniqueid default="false" type="tvdb">6023389</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>3.7</value>
+      <votes>46</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/wABqi63n2ETONOurWlF3t7HqeRe.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帳 第8話 「いつかくる日」.mkv</original_filename>
+  <user_note />
+</episodedetails>

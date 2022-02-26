@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>志麻今天也在学校门口等着美佐枝，但美佐枝因为之前发生的事而请假没来上学。当由纪和沙纪从志麻的表情得知美佐枝失恋的事之后，要求志麻代替他们两人去安慰美佐枝。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>永远在你的身边</title>
+  <originaltitle>ずっとあなたのそばに</originaltitle>
+  <writer>Fumihiko Shimo</writer>
+  <credits>Fumihiko Shimo</credits>
+  <rating>0</rating>
+  <year>2008</year>
+  <imdbid>tt1303304</imdbid>
+  <tvdbid>403689</tvdbid>
+  <runtime>24</runtime>
+  <studio>Kyoto Animation</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/CLANNAD (2007)/Season 2/CLANNAD - S02E06 - 永远在你的身边-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Tomoya Okazaki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Nakahara</name>
+    <role>Nagisa Furukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mai Nakahara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Fuuko Ibuki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryo Hirohashi</name>
+    <role>Kyou Fujibayashi</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryo Hirohashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Sakaguchi</name>
+    <role>Youhei Sunohara</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Sakaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satomi Korogi</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satomi Korogi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomoko Kawakami</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomoko Kawakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryotaro Okiayu</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryotaro Okiayu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroomi Sugino</name>
+    <role>Hikarizaka Electric Company President</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Romi Park</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yui Kano</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Masataka Azuma</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <type>Actor</type>
+  </actor>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2008-11-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3272426</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1451</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1513113</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>CLANNAD-S02E06-永远在你的身边</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>CLANNAD</showtitle>
+  <uniqueid default="false" type="tmdb">647126</uniqueid>
+  <uniqueid default="true" type="imdb">tt1303304</uniqueid>
+  <uniqueid default="false" type="tvdb">403689</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.7</value>
+      <votes>189</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/1rQRzYSaFZ7RtbQ2bOgcaeYuz7S.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388139</tvmazeid>
+  <bangumiid>97</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:40Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>CLANNAD - S02E06 - 永远在你的身边.mkv</original_filename>
+  <user_note />
+</episodedetails>

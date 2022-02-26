@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>进入二年级便开始重新分班，桐山并没有分在林田老师的班里，别的同学刚换好班就组成了各自的小圈子，面对早已建立的各种交际圈，桐山既没有一头扎进去的勇气，也不懂得结交新朋友的方法。远远看到桐山的林田老师飞奔过来，他非常了解桐山无法融入集体的苦恼，为此他建议桐山组建一个将棋部。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>新学期／斗士</title>
+  <originaltitle>Chapter.45 新学期 / スピンオフ ファイター</originaltitle>
+  <director>Kenjirou Okada</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Tomohiko Ito</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Tomohiko Ito</credits>
+  <rating>8.4</rating>
+  <year>2017</year>
+  <imdbid>tt7726118</imdbid>
+  <tvdbid>5784155</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E22 - 新学期／斗士-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Elementary school teacher (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Kaneda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mutsuki Iwanaka</name>
+    <role>Student (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Maria Naganawa</name>
+    <role>Student (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryoko Maekawa</name>
+    <role>Student (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yusuke Takashima</name>
+    <role>Student (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Subaru Kimura</name>
+    <role>Issa Matsumoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Subaru Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Sugita</name>
+    <role>Tatsuyuki 'Smith' Misumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Sugita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuhiko Okamoto</name>
+    <role>Harunobu Nikaidou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuhiko Okamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuji Ueda</name>
+    <role>Eisaku Noguchi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Takashi Hayashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toru Okawa</name>
+    <role>Masachika Kouda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toru Okawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yumi Uchiyama</name>
+    <role>Rei Kiriyama (young) (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>22</episode>
+  <season>1</season>
+  <aired>2017-03-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5592597</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1482</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1452157</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E22-新学期／斗士</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1289066</uniqueid>
+  <uniqueid default="true" type="imdb">tt7726118</uniqueid>
+  <uniqueid default="false" type="tvdb">5784155</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.6</value>
+      <votes>94</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/rnQWnu1CzM1mZNslCC7rcO4gmdp.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1037458</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E22 - 新学期／斗士.mkv</original_filename>
+  <user_note />
+</episodedetails>

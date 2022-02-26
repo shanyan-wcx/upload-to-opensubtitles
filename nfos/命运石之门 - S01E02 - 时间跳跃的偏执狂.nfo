@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>出现在自己面前的红莉栖让冈部非常吃惊，而桥田却觉得冈部的妄想症犯了，在讲座上天才少女红莉栖彻底击败了冈部的时间机器理论。彻夜调查提托事件的冈部却没有找到结果，这件发生在 2000 年轰动一时的话题仿佛从来都没有发生过，当他用电话微波炉（暂定）做香蕉实验时奇怪的事情发生了。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>时间跳跃的偏执狂</title>
+  <originaltitle>時間跳躍のパラノイア</originaltitle>
+  <director>Takuya Sato</director>
+  <director>Shigetaka Ikeda</director>
+  <writer>Jukki Hanada</writer>
+  <credits>Jukki Hanada</credits>
+  <rating>7.7</rating>
+  <year>2011</year>
+  <imdbid>tt2055380</imdbid>
+  <tvdbid>3989281</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 (2011)/Season 1/命运石之门 - S01E02 - 时间跳跃的偏执狂-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Ruka Urushibara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Itaru Hashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Faris Nyannyan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruko Momoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Imai</name>
+    <role>Kurisu Makise (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Asami Imai/folder.jpg</thumb>
+  </actor>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2011-04-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2295519</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1437</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>320732</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门-S01E02-时间跳跃的偏执狂</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门</showtitle>
+  <uniqueid default="false" type="tmdb">880885</uniqueid>
+  <uniqueid default="true" type="imdb">tt2055380</uniqueid>
+  <uniqueid default="false" type="tvdb">3989281</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.167</value>
+      <votes>6</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.7</value>
+      <votes>1025</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/mIRuPZNEoGt0oyE9bL4BqEcmquq.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>163361</tvmazeid>
+  <bangumiid>438789</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 - S01E02 - 时间跳跃的偏执狂.mkv</original_filename>
+  <user_note />
+</episodedetails>

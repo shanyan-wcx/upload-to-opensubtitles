@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>时间跳跃的机器已经成功完成，但之前发生的事情让冈部不想再以身试险，冈部决定将时间机器发表交由相关部门测试。Lab 准备的时间跳跃机器庆祝会上大家都玩得很开心，当听到 Lab 与 SERN 的光缆连接在一起后神情慌张的铃羽跑了出去，随后萌郁带着 SERN 的武装分子闯入 Lab 想要接收时间机器，并且向真由理开枪。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>静止限界的信条</title>
+  <originaltitle>静止限界のドグマ</originaltitle>
+  <director>Takuya Sato</director>
+  <director>Yuzuru Tachikawa</director>
+  <writer>Jukki Hanada</writer>
+  <credits>Jukki Hanada</credits>
+  <rating>9.3</rating>
+  <year>2011</year>
+  <imdbid>tt2157963</imdbid>
+  <tvdbid>3989391</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 (2011)/Season 1/命运石之门 - S01E12 - 静止限界的信条-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Ruka Urushibara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Itaru Hashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Faris Nyannyan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruko Momoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Imai</name>
+    <role>Kurisu Makise (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Asami Imai/folder.jpg</thumb>
+  </actor>
+  <episode>12</episode>
+  <season>1</season>
+  <aired>2011-06-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2033283</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1435</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>318821</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门-S01E12-静止限界的信条</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门</showtitle>
+  <uniqueid default="false" type="tmdb">880894</uniqueid>
+  <uniqueid default="true" type="imdb">tt2157963</uniqueid>
+  <uniqueid default="false" type="tvdb">3989391</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.833</value>
+      <votes>6</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>9.3</value>
+      <votes>1195</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/6fZmIsYfKPOEthp8Yvb9n0eqcs5.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>163371</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 - S01E12 - 静止限界的信条.mkv</original_filename>
+  <user_note />
+</episodedetails>

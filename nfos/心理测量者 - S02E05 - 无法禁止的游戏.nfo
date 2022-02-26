@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>第三分队奉了局长的命令展开作战，其结果是和犯人在一起的人质们的心理指数也恶化，心理保健设施成为了屠杀的现场。事件后，朱为了确认鹿矛围的存在，前往被国防省用作军事多隆研究开发部门的旧港仓库地带。在搜查过程中，军事多隆突然启动并开始了杀戮。操作这些多隆的人的真面目是？</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>无法禁止的游戏</title>
+  <originaltitle>禁じられない遊び</originaltitle>
+  <director>Naoyoshi Shiotani</director>
+  <writer>Tow Ubukata</writer>
+  <writer>Jun Kumagai</writer>
+  <credits>Tow Ubukata</credits>
+  <credits>Jun Kumagai</credits>
+  <rating>0</rating>
+  <year>2014</year>
+  <imdbid>tt4295672</imdbid>
+  <tvdbid>4917246</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 2/心理测量者 - S02E05 - 无法禁止的游戏-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Kirito Kamui (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Keiji Fujiwara</name>
+    <role>Sakuya Tougane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Keiji Fujiwara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masumi Asano</name>
+    <role>Risa Aoyanagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Masumi Asano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Marina Inoue</name>
+    <role>Mizue Shisui (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Marina Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Noriko Hidaka</name>
+    <role>Dominator/Sibyl System (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Noriko Hidaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenji Nojima</name>
+    <role>Nobuchika Ginoza (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenji Nojima/folder.jpg</thumb>
+  </actor>
+  <episode>5</episode>
+  <season>2</season>
+  <aired>2014-11-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6930887</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1342</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>690895</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S02E05-无法禁止的游戏</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1016958</uniqueid>
+  <uniqueid default="true" type="tvdb">4917246</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/rCPJ2LZzkH53vPZj4WSPbCVM9wa.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159879</tvmazeid>
+  <bangumiid>196928</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S02E05 - 无法禁止的游戏.mkv</original_filename>
+  <user_note />
+</episodedetails>

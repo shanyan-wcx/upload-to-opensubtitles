@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>新一顺着感知到的方向，一路飞奔到堤坝，然而新一找到的并非杀母凶手，而是另一个被寄生但仍然保留着人类大脑的宇田守。作为同伴的两人倾诉着彼此的遭遇，宇田决定帮助新一。宇田找到了寄生在新一妈妈身上的寄生兽，但被其刺中胸口掉进海里。此时新一闻讯赶到，小右却突然陷入沉睡，新一决定自己手刃杀母仇人。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>「暗夜旅程」</title>
+  <originaltitle>暗夜行路</originaltitle>
+  <director>Kenichi Shimizu</director>
+  <director>Yuki Inaba</director>
+  <writer>Shoji Yonemura</writer>
+  <writer>Hitoshi Iwaaki</writer>
+  <writer>Shinzo Fujita</writer>
+  <credits>Shoji Yonemura</credits>
+  <credits>Hitoshi Iwaaki</credits>
+  <credits>Shinzo Fujita</credits>
+  <rating>8</rating>
+  <year>2014</year>
+  <imdbid>tt4194512</imdbid>
+  <tvdbid>5031446</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>Madhouse</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/寄生兽：生命的准则 (2014)/Season 1/寄生兽：生命的准则 - S01E07 - 「暗夜旅程」-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Nobunaga Shimazaki</name>
+    <role>Shinichi Izumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobunaga Shimazaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Hirano</name>
+    <role>Migi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Hirano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Satomi Murano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kana Kimishima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Tamiya Ryoko (voice) / Tamura Reiko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Atsuko Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takaya Aoyagi</name>
+    <role>Kusano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takaya Aoyagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Miki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Namikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Hideo Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayumu Murase</name>
+    <role>Jaw (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayumu Murase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Uragami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Issei Futamata</name>
+    <role>Shirou Kuramori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Issei Futamata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Gotou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyono Yasuno</name>
+    <role>Yuko Tachikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kiyono Yasuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rena Maeda</name>
+    <role>Akiho Suzuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rena Maeda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuma Suzuki</name>
+    <role>Mamoru Uda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuma Suzuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuu Mizushima</name>
+    <role>Takeshi Hirokawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2014-11-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7526239</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1472855</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>寄生兽：生命的准则-S01E07-「暗夜旅程」</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>寄生兽：生命的准则</showtitle>
+  <uniqueid default="false" type="tmdb">1024102</uniqueid>
+  <uniqueid default="true" type="imdb">tt4194512</uniqueid>
+  <uniqueid default="false" type="tvdb">5031446</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>3</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.6</value>
+      <votes>498</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/4aYMLNDLjx0Y2Lnl7L5Mgg1iIYE.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>160562</tvmazeid>
+  <bangumiid>427782</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>寄生兽：生命的准则 - S01E07 - 「暗夜旅程」.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>无数次目睹真由理死亡的冈部已经麻木，但他依旧不能接受牺牲红莉栖的结果，想要再次进行时间跳跃的冈部被红莉栖阻止，这样下去只会让悲痛加深。相互示爱的两人在彼此心中都留有深刻的记忆，在红莉栖的说服下冈部终于下定决心回到β世界线，在桥田入侵 SERN 系统消除第一封 D-mail 后回归到了 β 世界线，而这真是冈部所期待的世界？</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>存在了解的溶解</title>
+  <originaltitle>存在了解のメルト</originaltitle>
+  <director>Takuya Sato</director>
+  <director>Tomoki Kobayashi</director>
+  <writer>Jukki Hanada</writer>
+  <credits>Jukki Hanada</credits>
+  <rating>9.6</rating>
+  <year>2011</year>
+  <imdbid>tt2157961</imdbid>
+  <tvdbid>3989491</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 (2011)/Season 1/命运石之门 - S01E22 - 存在了解的溶解-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Ruka Urushibara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Itaru Hashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Faris Nyannyan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruko Momoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Imai</name>
+    <role>Kurisu Makise (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Asami Imai/folder.jpg</thumb>
+  </actor>
+  <episode>22</episode>
+  <season>1</season>
+  <aired>2011-08-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2623323</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1445</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>318005</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门-S01E22-存在了解的溶解</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门</showtitle>
+  <uniqueid default="false" type="tmdb">880905</uniqueid>
+  <uniqueid default="true" type="imdb">tt2157961</uniqueid>
+  <uniqueid default="false" type="tvdb">3989491</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>9.25</value>
+      <votes>4</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>9.6</value>
+      <votes>1524</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/p447zo2INlfczdI3Va1HSW4sUDI.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>163381</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 - S01E22 - 存在了解的溶解.mkv</original_filename>
+  <user_note />
+</episodedetails>

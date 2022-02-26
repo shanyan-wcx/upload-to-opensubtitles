@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>经过 3 天的下落不明时间，雏月回到家中。母亲明美，看见了背后操纵她的悟和佐知子的身影，非常愤怒挥动铁锹。千钧一发之际，佐知子避开了那一击。然后像是说好了一样，儿童咨询所的职员和八代出现了。明美反对职员传达的把雏月暂时保护起来，还扬言要去警察局。3 天的诱拐告知了警察的话对悟等人很不利，在这种状况下，八代带来了谁都没有预料到的人物。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>终幕</title>
+  <originaltitle>終幕</originaltitle>
+  <director>Tomohiko Ito</director>
+  <writer>Taku Kishimoto</writer>
+  <writer>Kei Sanbe</writer>
+  <credits>Taku Kishimoto</credits>
+  <credits>Kei Sanbe</credits>
+  <rating>7.2</rating>
+  <year>2016</year>
+  <imdbid>tt5360110</imdbid>
+  <tvdbid>5468808</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/只有我不存在的城市 (2016)/Season 1/只有我不存在的城市 - S01E09 - 终幕-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Shinnosuke Mitsushima</name>
+    <role>29-year-old Satoru Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Mitsushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tao Tsuchiya</name>
+    <role>10-year-old Satoru Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tao Tsuchiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Minami Takayama</name>
+    <role>Sachiko Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Minami Takayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Airi Katagiri (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Kayo Hinazuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Kenya Kobayashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayaka Nanase</name>
+    <role>Osamu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayaka Nanase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukitoshi Kikuchi</name>
+    <role>Kazu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukitoshi Kikuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Mizushima</name>
+    <role>Jun "Yuuki" Shiratori</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Mizushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mitsuru Miyamoto</name>
+    <role>Gaku Yashiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mitsuru Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akari Kito</name>
+    <role>Hiromi Sugati (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akari Kito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akemi Okamura</name>
+    <role>Ms. Akemi Hinazuki (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hina Kino</name>
+    <role>Misato Yanagihara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hina Kino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Yoshida</name>
+    <role>Hamada (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hiroko Takahashi</name>
+    <role>Kayo's grandmother (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2016-03-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4025217</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1337886</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>jpn(default)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>只有我不存在的城市</showtitle>
+  <uniqueid default="false" type="tmdb">1160302</uniqueid>
+  <uniqueid default="true" type="imdb">tt5360110</uniqueid>
+  <uniqueid default="false" type="tvdb">5468808</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.2</value>
+      <votes>5</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.3</value>
+      <votes>757</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/o46SNs16XqWfN7CMGhE2hN7Eiyx.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>569180</tvmazeid>
+  <bangumiid>596612</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>只有我不存在的城市 - S01E09 - 终幕.mkv</original_filename>
+  <user_note />
+</episodedetails>

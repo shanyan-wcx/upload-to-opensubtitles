@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>坠落死亡的土谷博士，是参加都知事选举的偶像政治家·小宫加莉娜的心理关怀·工作人员。与卡莉娜会面的灼，从她那里感觉到了无底深渊的什么，但却无法找到案件的线索。随着搜查的进行，酒店的防盗数据中，还有一个都知事候补药师寺、海格力斯、康介的第一秘书——李亚纪。为了调查访问了李的原来的一系,不过，在那里突然遭遇袭击，李被杀害了。这是支持小宫加利娜移民肯定派药师寺的罪行吗？根据确保的袭击犯的背景，入江将犯人的据点集中到茗荷谷。那里曾经是入江作为地盘的废弃区划。灼等人去见掌管背后社会的经纪人榎宫春木，推测嫌疑人浓厚，但却无法找到关键的犯罪动机和手段的确证。袭击者和被袭击的一方，两手分开进行搜查。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>赫拉克勒斯与塞壬</title>
+  <originaltitle>ヘラクレスとセイレーン</originaltitle>
+  <rating>7.6</rating>
+  <year>2019</year>
+  <imdbid>tt11027022</imdbid>
+  <tvdbid>7376521</tvdbid>
+  <runtime>46</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 3/心理测量者 - S03E03 - 赫拉克勒斯与塞壬-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Shindou Arata</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Kei Mikhail Ignatov</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <episode>3</episode>
+  <season>3</season>
+  <aired>2019-11-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7377145</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2746</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1314467</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S03E03-赫拉克勒斯与塞壬</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1964638</uniqueid>
+  <uniqueid default="true" type="imdb">tt11027022</uniqueid>
+  <uniqueid default="false" type="tvdb">7376521</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>4.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.8</value>
+      <votes>81</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/t9RYoEZsuSL5QphbE7pQciJP23S.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1723026</tvmazeid>
+  <bangumiid>196926</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S03E03 - 赫拉克勒斯与塞壬.mkv</original_filename>
+  <user_note />
+</episodedetails>

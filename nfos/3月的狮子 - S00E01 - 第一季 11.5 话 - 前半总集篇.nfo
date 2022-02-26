@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 20:16:02</dateadded>
+  <title>第一季 11.5 话 - 前半总集篇</title>
+  <originaltitle>3月はライオンがバンプ・オブ・チキンと出会うようにやって来る</originaltitle>
+  <rating>0</rating>
+  <year>2016</year>
+  <imdbid>tt7726082</imdbid>
+  <tvdbid>5902025</tvdbid>
+  <runtime>25</runtime>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>SHAFT</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Specials/metadata/3月的狮子 - S00E01 - 第一季 11.5 话 - 前半总集篇.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>0</season>
+  <aired>2016-12-29</aired>
+  <airsbefore_episode>12</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <displayepisode>12</displayepisode>
+  <displayseason>1</displayseason>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5871246</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1481</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1399654</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>5话-前半总集篇</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">2258267</uniqueid>
+  <uniqueid default="true" type="imdb">tt7726082</uniqueid>
+  <uniqueid default="false" type="tvdb">5902025</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.1</value>
+      <votes>62</votes>
+    </rating>
+  </ratings>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S00E01 - 第一季 11.5 话 - 前半总集篇.mkv</original_filename>
+  <user_note />
+</episodedetails>

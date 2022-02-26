@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>打破了“两年”这个时间牢笼，吉野确信叶风有办法能回到现代。真广询问叶风，得知透过魔具人偶交谈所必备的条件，于是便想到要利用叶风的全身骨骼，让她的血肉突破矛盾超越时空来到现代。为了实现这个方法，叶风在岛上寻找能发动魔法的供品。但就在同时，左门也收到了哲马有关杀害爱花犯人的报告。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>时之少女</title>
+  <originaltitle>時の娘</originaltitle>
+  <writer>Mari Okada</writer>
+  <credits>Mari Okada</credits>
+  <rating>8</rating>
+  <year>2012</year>
+  <imdbid>tt3553550</imdbid>
+  <tvdbid>4411183</tvdbid>
+  <runtime>24</runtime>
+  <studio>Aniplex</studio>
+  <tvrageid>1065253385</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/绝园的暴风雨 (2012)/Season 1/绝园的暴风雨 - S01E11 - 时之少女-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Hanemura Megumu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Fuwa Aika (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Koki Uchiyama</name>
+    <role>Takigawa Yoshino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Koki Uchiyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rikiya Koyama</name>
+    <role>Kusaribe Samon (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rikiya Koyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshiyuki Toyonaga</name>
+    <role>Fuwa Mahiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toshiyuki Toyonaga/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Hoshimura Jun`ichirou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nana Mizuki</name>
+    <role>Evangeline Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nana Mizuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kusaribe Hakaze (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shintaro Asanuma</name>
+    <role>Hayakawa Takumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shintaro Asanuma/folder.jpg</thumb>
+  </actor>
+  <episode>11</episode>
+  <season>1</season>
+  <aired>2012-12-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8553067</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1469</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1480183</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>729544</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>绝园的暴风雨-S01E11-时之少女</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>绝园的暴风雨</showtitle>
+  <uniqueid default="false" type="tmdb">908594</uniqueid>
+  <uniqueid default="false" type="tvrage">1065253385</uniqueid>
+  <uniqueid default="true" type="imdb">tt3553550</uniqueid>
+  <uniqueid default="false" type="tvdb">4411183</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.2</value>
+      <votes>14</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/7XN1cRXAS6938mqRodGN64veAje.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>455804</tvmazeid>
+  <bangumiid>199011</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>绝园的暴风雨 - S01E11 - 时之少女.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>克拉米在国际象棋中设下了陷阱，但白断定自己能够在游戏中战胜克拉米。空和白并没有认为自己的战术失败。对游戏本质了解清楚的空，决定采取进一步的战况行动。艾尔奇亚，以及为了整个人类种的未来而进行的下一任国王选定的最后的战斗，终于来到了最终阶段。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-20 18:42:41</dateadded>
+  <title>国王（Grand Master）</title>
+  <director>Atsuko Ishizuka</director>
+  <director>Chikayo Nakamura</director>
+  <writer>Jukki Hanada</writer>
+  <credits>Jukki Hanada</credits>
+  <rating>8.6</rating>
+  <year>2014</year>
+  <imdbid>tt3907592</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/游戏人生 (2014)/Season 1/metadata/游戏人生 - S01E04 - 国王（Grand Master）.jpg</poster>
+  </art>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Sora (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshitsugu Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Shiro (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoko Hikasa</name>
+    <role>Stephanie Dola (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoko Hikasa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Clammy Zell (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuka Iguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Jibril (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Fiel Nirvalen (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Tet (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Izuna Hatsuse (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Taketora</name>
+    <role>High Official (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>16</sortorder>
+  </actor>
+  <actor>
+    <name>Nishimura Taisuke</name>
+    <role>Minister of Economy (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>16</sortorder>
+  </actor>
+  <actor>
+    <name>Haruki Ishiya</name>
+    <role>Minister of Agriculture and Forestry (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>17</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruki Ishiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jun Fukushima</name>
+    <role>Former King (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>22</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jun Fukushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mugihito</name>
+    <role>Ino Hatsuse (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>32</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mugihito/folder.jpg</thumb>
+  </actor>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2014-04-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7699409</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1441</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1533203</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1349080</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

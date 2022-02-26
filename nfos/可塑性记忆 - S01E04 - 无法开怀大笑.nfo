@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>司在家里也可以和艾拉平常地交谈了。看到司和艾拉拉近距离的样子，满不知为何显得有些不高兴。此时，司他们分配到了新的回收业务。这次的任务是到被称为“智能机器人儿童”的、被Giftia这类智能机器人抚养长大的孩子那里，将养育他们的Giftia回收。司他们所拜访的Giftia拥有者少年·草太，说自己的Giftia玛莎“已经不需要了”……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>无法开怀大笑</title>
+  <originaltitle>うまく笑えなくて</originaltitle>
+  <director>Shinya Iino</director>
+  <director>Yoshiyuki Fujiwara</director>
+  <writer>Naotaka Hayashi</writer>
+  <writer>Michio Fukuda</writer>
+  <credits>Naotaka Hayashi</credits>
+  <credits>Michio Fukuda</credits>
+  <rating>8</rating>
+  <year>2015</year>
+  <imdbid>tt4617174</imdbid>
+  <tvdbid>5181915</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Doga Kobo</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/可塑性记忆 (2015)/Season 1/可塑性记忆 - S01E04 - 无法开怀大笑-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yasuaki Takumi</name>
+    <role>Mizugaki Tsukasa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yasuaki Takumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sora Amamiya</name>
+    <role>Isla (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sora Amamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Michiru Kinushima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayuri Yahagi</name>
+    <role>Zack (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayuri Yahagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Toyoguchi</name>
+    <role>Kazuki Kuwanomi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Toyoguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satoshi Hino</name>
+    <role>Constance (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satoshi Hino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aimi</name>
+    <role>Sherry (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aimi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumire Uesaka</name>
+    <role>Eru Miru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sumire Uesaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuo Tobita</name>
+    <role>Takao Yamanobe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuo Tobita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenjiro Tsuda</name>
+    <role>Yasutaka Hanada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenjiro Tsuda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinnosuke Ogami</name>
+    <role>Ren Kawarake (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Ogami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Taiten Kusunoki</name>
+    <role>Shin'ya Godou (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Marcia (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misato Fukuen</name>
+    <role>Souta Wakanae (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2015-04-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4618916</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1442</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1368724</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>可塑性记忆-S01E04-无法开怀大笑</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>可塑性记忆</showtitle>
+  <uniqueid default="false" type="tmdb">1058657</uniqueid>
+  <uniqueid default="true" type="imdb">tt4617174</uniqueid>
+  <uniqueid default="false" type="tvdb">5181915</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.5</value>
+      <votes>33</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/38ENsgfjM1Zvs0HW2MKaAXTRTi4.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>382445</tvmazeid>
+  <bangumiid>512763</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>可塑性记忆 - S01E04 - 无法开怀大笑.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在西比拉系统的监视下突然发生了一起光天化日的杀人事件。赶到现场的朱等人却发现犯人的色相是清澈的。在这个新的犯罪事件背后，槙岛正在策划着一个可怕的计谋。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>甜蜜剧毒</title>
+  <originaltitle>甘い毒</originaltitle>
+  <director>Katsuyuki Motohiro</director>
+  <director>Naoyoshi Shiotani</director>
+  <writer>Gen Urobuchi</writer>
+  <credits>Gen Urobuchi</credits>
+  <rating>0</rating>
+  <year>2013</year>
+  <imdbid>tt2633296</imdbid>
+  <tvdbid>4413096</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 1/心理测量者 - S01E14 - 甜蜜剧毒-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Shinya Kogami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Shuusei Kagari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Shougo Makishima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kinryuu Arimoto</name>
+    <role>Tomomi Masaoka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kinryuu Arimoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Noriko Hidaka</name>
+    <role>Dominator/Sibyl System (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Noriko Hidaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shizuka Itoh</name>
+    <role>Yayoi Kunizuka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shizuka Itoh/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenji Nojima</name>
+    <role>Nobuchika Ginoza (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenji Nojima/folder.jpg</thumb>
+  </actor>
+  <episode>14</episode>
+  <season>1</season>
+  <aired>2013-01-25</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6593268</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1373</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>960000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S01E14-甜蜜剧毒</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">890509</uniqueid>
+  <uniqueid default="true" type="tvdb">4413096</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/i28Cak8J257nd1lq26QvnyO1Qrk.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159866</tvmazeid>
+  <bangumiid>196937</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S01E14 - 甜蜜剧毒.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在没有受过特殊训练的情况下，真嗣就和 EVA 达成同步和使徒作战。发射后与第三使徒对峙的初号机，因为真嗣不熟悉操作，也无实战经验，在头部遭到使徒的攻击后活动停止。真嗣昏迷后初号机奇迹般地再启动，在失控的状态下，用压倒性的战力将使徒击溃。面对冷漠的父子态度，美里提出要真嗣与她同住的要求。美里对真嗣作战的成绩表示赞赏，但真嗣希望这话是出自另一人之口。
+
+（这一话以倒叙的方式紧接前一话的内容，EVA 初号机与使徒之间展开了战斗。比较引人注目的是可在瞬间见到的绝对领域（A.T.Field，即心之壁），在初号机暴走后，瞬间扭转的战况予人为之一震的感觉，这为以后的剧情打下了良好的铺垫。第一、二话合成一部作为了全篇的序章。副标题中的 BEAST 是“兽”的意思，大家看到暴走的 EVA 初号机就可明白这个副题的含义。相同的感觉在以后的剧情中亦有出现。而在新剧场版破中，二号机也开启了“THE BEAST”模式。）</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>陌生的天花板（THE BEAST）</title>
+  <originaltitle>第弐話 見知らぬ、天井</originaltitle>
+  <director>Kazuya Tsurumaki</director>
+  <writer>Yoji Enoto</writer>
+  <writer>Hideaki Anno</writer>
+  <writer>Yoji Enokido</writer>
+  <credits>Yoji Enoto</credits>
+  <credits>Hideaki Anno</credits>
+  <credits>Yoji Enokido</credits>
+  <rating>7.375</rating>
+  <year>1995</year>
+  <imdbid>tt0781967</imdbid>
+  <tvdbid>3886</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>GAINAX</studio>
+  <tvrageid>125414</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/新世纪福音战士 (1995)/Season 1/新世纪福音战士 - S01E02 - 陌生的天花板（THE BEAST）-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Megumi Ogata</name>
+    <role>Shinji Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Ogata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotono Mitsuishi</name>
+    <role>Misato Katsuragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kotono Mitsuishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Rei Ayanami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Hayashibara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Miyamura</name>
+    <role>Asuka Langley Soryu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Miyamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuriko Yamaguchi</name>
+    <role>Dr. Ritsuko Akagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuriko Yamaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Gendo Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Motomu Kiyokawa</name>
+    <role>Kozo Fuyutsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Motomu Kiyokawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Nagasawa</name>
+    <role>Maya Ibuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Nagasawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mugihito</name>
+    <role>Keel Lorenz (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mugihito/folder.jpg</thumb>
+  </actor>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>1995-10-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1415739</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1401</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>311604</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>106760</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>新世纪福音战士</showtitle>
+  <uniqueid default="false" type="tmdb">949384</uniqueid>
+  <uniqueid default="false" type="tvrage">125414</uniqueid>
+  <uniqueid default="true" type="imdb">tt0781967</uniqueid>
+  <uniqueid default="false" type="tvdb">3886</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.3</value>
+      <votes>7</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.1</value>
+      <votes>1542</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/bqq9z9ixreuiGUmCuolDDkBLBHa.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159377</tvmazeid>
+  <bangumiid>741758</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>新世纪福音战士 - S01E02 - 陌生的天花板（THE BEAST）.mkv</original_filename>
+  <user_note />
+</episodedetails>

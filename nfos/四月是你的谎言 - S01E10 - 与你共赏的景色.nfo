@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>公生强迫自己集中精神，但还是无法摆脱心魔，曲调越弹越快。公生中断演奏，心灰意冷的他想起了薰给与的祝福，公生决定为了薰再次演奏。他以对薰的感情为想象图变换音色，弹奏了一曲充满四月气息的曲子，震撼了全场观众，薰更是落下感动的泪水，公生自己也终于摆脱了母亲的噩梦。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>与你共赏的景色</title>
+  <originaltitle>君といた景色</originaltitle>
+  <director>Takahiro Harada</director>
+  <writer>Naoshi Arakawa</writer>
+  <writer>Takao Yoshioka</writer>
+  <credits>Naoshi Arakawa</credits>
+  <credits>Takao Yoshioka</credits>
+  <rating>7</rating>
+  <year>2014</year>
+  <imdbid>tt4233404</imdbid>
+  <tvdbid>5013334</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Music</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/四月是你的谎言 (2014)/Season 1/四月是你的谎言 - S01E10 - 与你共赏的景色-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Igawa Emi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Saori Hayami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Aiza Nagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Kaori Miyazono (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Tsubaki Sawabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Natsuki Hanae</name>
+    <role>Kousei Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Natsuki Hanae/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryota Osaka</name>
+    <role>Ryouta Watari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryota Osaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Aiza Takeshi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Saki Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Yuriko Ochiai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Atsuko Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mie Sonozaki</name>
+    <role>Hiroko Seto (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ben Hiura</name>
+    <role>Junzou Ibata (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takanori Ooyama</name>
+    <role>Akira Takayanagi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2014-12-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7343260</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1373</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1408831</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1321813</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>四月是你的谎言-S01E10-与你共赏的景色</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>四月是你的谎言</showtitle>
+  <uniqueid default="false" type="tmdb">1021751</uniqueid>
+  <uniqueid default="true" type="imdb">tt4233404</uniqueid>
+  <uniqueid default="false" type="tvdb">5013334</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>9.1</value>
+      <votes>580</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/5EurhoJc0DP18qAAWMBFDUH7SxC.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>390095</tvmazeid>
+  <bangumiid>386545</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>四月是你的谎言 - S01E10 - 与你共赏的景色.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>由第二次冲击引发的世界经济的混乱，至 2015 年亦无法完全恢复。此时的日本经济。由于水位上涨，工业生产遭到了致命的打击。国土复兴的工程所消耗的物资，简直就是天文数字，所以日本政府与民间企业，一直将吞食了大量资产的对抗使徒军事的企业视为大敌，故始终都在寻找可替代 NERV 的廉价企业。除了政府外，也有许多其他组织看不惯 NERV （如第 11 话原因不明的大停电）。由于 EVA 对付使徒的效率不彰，而且常常造成重大的”灾害”，为此民间团体也推出了迎击使徒专用无人驾驶机器人 JA。美里与律子也受到了邀请，律子对 JA 的设计及性能提出质疑，但是反被嘲笑 EVA 的功能不佳。美里猛踢衣柜出气，律子则静静的用打火机把说明书烧掉。在宴会后的试运转中，JA 突然陷入了不能操作的状态，美里单身冒着 JA 炉心熔解的危险，进入 JA 内部关闭系统，但操作系统的密码，已被人修改。幸而在初号机的配合下，终于推出了 JA 的控制棒才幸免于难。这场看似意外的事件，美里心里也很明白，JA 的暴走及被删改的程序，都是 NERV 所为。赤木之所以会放心的让葛城去阻止 JA，是因为她确信 JA 会在爆炸前恢复正常，因为结尾她说：“除了葛城一尉的行动外，一切都照剧本进行。”也就是说，没有葛城去阻止的话，JA 一样会停止。葛城自己也说：“奇迹是被某人准备好的。”
+
+（副标题的意思也是“人类制造的东西”。人类制造的 JA，以及美里用命作赌注去关闭它，是本集副标题 A HUMAN WORK 的两种含义。）</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>人类制造的东西（A HUMAN WORK）</title>
+  <originaltitle>第七話 人の造りしもの</originaltitle>
+  <director>Keiichi Sugiyama</director>
+  <writer>Hideaki Anno</writer>
+  <writer>Yoji Enokido</writer>
+  <credits>Hideaki Anno</credits>
+  <credits>Yoji Enokido</credits>
+  <rating>7.714</rating>
+  <year>1995</year>
+  <imdbid>tt0781965</imdbid>
+  <tvdbid>3891</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>GAINAX</studio>
+  <tvrageid>125419</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/新世纪福音战士 (1995)/Season 1/新世纪福音战士 - S01E07 - 人类制造的东西（A HUMAN WORK）-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Megumi Ogata</name>
+    <role>Shinji Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Ogata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotono Mitsuishi</name>
+    <role>Misato Katsuragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kotono Mitsuishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Rei Ayanami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Hayashibara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Miyamura</name>
+    <role>Asuka Langley Soryu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Miyamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuriko Yamaguchi</name>
+    <role>Dr. Ritsuko Akagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuriko Yamaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Gendo Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Motomu Kiyokawa</name>
+    <role>Kozo Fuyutsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Motomu Kiyokawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Nagasawa</name>
+    <role>Maya Ibuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Nagasawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiro Yuuki</name>
+    <role>Makoto Hyuuga (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiro Yuuki/folder.jpg</thumb>
+  </actor>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>1995-11-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1394822</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1402</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>301866</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>105815</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>新世纪福音战士</showtitle>
+  <uniqueid default="false" type="tmdb">949389</uniqueid>
+  <uniqueid default="false" type="tvrage">125419</uniqueid>
+  <uniqueid default="true" type="imdb">tt0781965</uniqueid>
+  <uniqueid default="false" type="tvdb">3891</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.7</value>
+      <votes>6</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.6</value>
+      <votes>1297</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/sfkJiZ7jrmI7cpCGVhxnEg3Y3He.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159382</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>新世纪福音战士 - S01E07 - 人类制造的东西（A HUMAN WORK）.mkv</original_filename>
+  <user_note />
+</episodedetails>

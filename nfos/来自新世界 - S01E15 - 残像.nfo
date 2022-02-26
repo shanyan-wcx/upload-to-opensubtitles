@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>觉和早季沿原路返回，去寻找避难的守和真理亚，却发现雪屋已经没有了。焦急的早季在寻找的过程中不慎踏空掉落悬崖，幸好觉用自己的咒力将早季悬浮起来才幸免于难。从昏迷中苏醒的早季发现自己在一座小木屋中，问了觉才知道这里是食虫虻族招待贵宾的地方。就在这时，他们的老友，斯奎拉出现了，于是觉请求斯奎拉帮助他们寻找守和真理亚。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>残像</title>
+  <originaltitle>残像</originaltitle>
+  <director>Hideki Hiroshima</director>
+  <writer>Masashi Sogo</writer>
+  <writer>Yuusuke Kishi</writer>
+  <writer>Rika Nakase</writer>
+  <writer>Nobutoshi Ogura</writer>
+  <credits>Masashi Sogo</credits>
+  <credits>Yuusuke Kishi</credits>
+  <credits>Rika Nakase</credits>
+  <credits>Nobutoshi Ogura</credits>
+  <rating>0</rating>
+  <year>2013</year>
+  <imdbid>tt2672914</imdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/来自新世界 (2012)/Season 1/来自新世界 - S01E15 - 残像-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Saki Watanabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Satoru Asahina (age 14-26) (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Squealer / Yakomaru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Namikawa/folder.jpg</thumb>
+  </actor>
+  <episode>15</episode>
+  <season>1</season>
+  <aired>2013-01-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5374383</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1361</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1420931</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>来自新世界</showtitle>
+  <uniqueid default="true" type="tmdb">922828</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/nYskHIMmWcOvvD1Eov32nhGQGAa.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388426</tvmazeid>
+  <bangumiid>198807</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>来自新世界 - S01E15 - 残像.mkv</original_filename>
+  <user_note />
+</episodedetails>

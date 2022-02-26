@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>结月在出发到南极前参加了试镜，被选中参演一套电视剧，她意识到之后就没空跟另外三人一起玩。此时，真理向结月说大家是好朋友所以没关系。结月听到“好朋友”这词后大受感动，因为在她的人生中，从来不存在友谊这回事……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>部分友情</title>
+  <originaltitle>パーシャル友情</originaltitle>
+  <director>Kouji Sawai</director>
+  <writer>Jukki Hanada</writer>
+  <credits>Jukki Hanada</credits>
+  <rating>8</rating>
+  <year>2018</year>
+  <imdbid>tt8324144</imdbid>
+  <tvdbid>6493489</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <studio>Madhouse</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/比宇宙更遥远的地方 (2018)/Season 1/比宇宙更遥远的地方 - S01E10 - 部分友情-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Inori Minase</name>
+    <role>Mari 'Kimari' Tamaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Inori Minase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Shirase Kobuchizawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Yuzuki Shiraishi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Saori Hayami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Hinata Miyake (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuka Iguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mikako Komatsu</name>
+    <role>Hanami Yasumoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mikako Komatsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takako Honda</name>
+    <role>Kimari's mother (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takako Honda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Takako Kobuchizawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Yume Sasaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisako Kanemoto</name>
+    <role>Megumi Takahashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisako Kanemoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kaede Hondo</name>
+    <role>Rin Tamaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kaede Hondo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Asumi</name>
+    <role>Nobue Todoroki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Asumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Gin Toudou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Lynn</name>
+    <role>Yumiko Samejima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/L/Lynn/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masaki Terasoma</name>
+    <role>Chiaki Mukai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Masaki Terasoma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayaka Ohara</name>
+    <role>Tamiko Shiraishi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayaka Ohara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Toshio Zaizen (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshitsugu Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoko Hikasa</name>
+    <role>Kanae Maekawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoko Hikasa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jun Fukushima</name>
+    <role>Dai Himi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jun Fukushima/folder.jpg</thumb>
+  </actor>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2018-03-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5884257</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1426</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1415004</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>比宇宙更遥远的地方-S01E10-部分友情</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>比宇宙更遥远的地方</showtitle>
+  <uniqueid default="false" type="tmdb">1444081</uniqueid>
+  <uniqueid default="true" type="imdb">tt8324144</uniqueid>
+  <uniqueid default="false" type="tvdb">6493489</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.5</value>
+      <votes>73</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/dIKW36dTh2mwZr70foXphMPrczF.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1418198</tvmazeid>
+  <bangumiid>766534</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>比宇宙更遥远的地方 - S01E10 - 部分友情.mkv</original_filename>
+  <user_note />
+</episodedetails>

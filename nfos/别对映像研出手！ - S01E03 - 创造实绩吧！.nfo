@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>影像研三人被分配的活动室，是个老旧的仓库，天花板和墙壁上都是洞。首先需要进行修缮。开始修缮的浅草，幻想著自己在进行宇宙船的修复训练。三人决定，在“预算审议委员会”上公布动画片，宣布自己的社团活动。三人从浅草的素描本上选择舞台设定，不断进行构想。浅草提出战车的主意。水崎则主张作画的“演技”。而作为制作人的金森，则为浅草与水崎的创作增加动力。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-18 16:07:30</dateadded>
+  <title>创造实绩吧！</title>
+  <originaltitle>実績を打ち立てろ！</originaltitle>
+  <director>Yuki Igarashi</director>
+  <writer>Sumito Oowara</writer>
+  <writer>Masaaki Yuasa</writer>
+  <writer>Yuichiro Kido</writer>
+  <credits>Sumito Oowara</credits>
+  <credits>Masaaki Yuasa</credits>
+  <credits>Yuichiro Kido</credits>
+  <rating>6</rating>
+  <year>2020</year>
+  <imdbid>tt11559036</imdbid>
+  <tvdbid>7526225</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>NHK G</studio>
+  <studio>Science SARU</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/别对映像研出手！ (2020)/Season 1/metadata/别对映像研出手！ - S01E03 - 创造实绩吧！.jpg</poster>
+  </art>
+  <actor>
+    <name>Sairi Ito</name>
+    <role>Midori Asakusa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sairi Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mutsumi Tamura</name>
+    <role>Sayaka Kanamori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mutsumi Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misato Matsuoka</name>
+    <role>Tsubame Mizusaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misato Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Mr. Fujimoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2020-01-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7730262</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1501</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1422802</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>别对映像研出手！</showtitle>
+  <uniqueid default="false" type="tmdb">2040209</uniqueid>
+  <uniqueid default="true" type="imdb">tt11559036</uniqueid>
+  <uniqueid default="false" type="tvdb">7526225</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.9</value>
+      <votes>81</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/geBmnb1Z8BWzOf4bQKp6H1nfrqn.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>[Nekomoe kissaten&amp;VCB-Studio] Eizouken ni wa Te o Dasu na! [S01E03][Ma10p_1080p][x265_flac].mkv</original_filename>
+  <user_note />
+</episodedetails>

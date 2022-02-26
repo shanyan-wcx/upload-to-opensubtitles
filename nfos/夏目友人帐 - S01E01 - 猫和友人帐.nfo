@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>能看见妖怪的夏目贵志有一位同样能看见妖怪的奶奶夏目玲子。玲子生前凭借自己强大的力量把自己打败的妖怪的名字记录在友人帐上。只要有了友人帐并且呼喊上面的名字便能命令妖怪们。在被妖怪追赶中的夏目，误破坏了神社的结界放出了一个酷似招财猫的妖怪斑。从斑那里夏目知道友人帐的作用，并且决定归还友人帐上面的名字。斑也决定留在夏目身边保护他，并让夏目称它为老师……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 13:02:03</dateadded>
+  <title>猫和友人帐</title>
+  <originaltitle>猫と友人帳</originaltitle>
+  <rating>8</rating>
+  <year>2008</year>
+  <imdbid>tt1480262</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 1/metadata/夏目友人帐 - S01E01 - 猫和友人帐.jpg</poster>
+  </art>
+  <actor>
+    <name>Higuchi Akari</name>
+    <role>Urihime (voice)</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Higuchi Akari/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satoshi Tsuruoka</name>
+    <role>Enkou (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satoshi Tsuruoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kyoko Chikiri</name>
+    <role>Kappa</role>
+    <type>Actor</type>
+    <sortorder>7</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kyoko Chikiri/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kunihiro Kawamoto</name>
+    <role>Karikage (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kunihiro Kawamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <sortorder>19</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akiko Yajima</name>
+    <role>Kogitsune (voice)</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akiko Yajima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tadashi Miyazawa</name>
+    <role>Mark-Ironer Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>11</sortorder>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <sortorder>20</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kimiko Saito</name>
+    <role>Hishigaki (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kimiko Saito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayumi Fujimura</name>
+    <role>Takashi Natsume (child, voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayumi Fujimura/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2008-07-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4216383</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1432</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>695590</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S01E01-猫和友人帐</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="false" type="tmdb">1254306</uniqueid>
+  <uniqueid default="true" type="imdb">tt1480262</uniqueid>
+  <uniqueid default="false" type="tvdb">382778</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>5.4</value>
+      <votes>85</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/3wtaYKJ960iebjP5lTGJHWABmWL.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帳 S01E01話 「猫と友人帳」.mkv</original_filename>
+  <user_note />
+</episodedetails>

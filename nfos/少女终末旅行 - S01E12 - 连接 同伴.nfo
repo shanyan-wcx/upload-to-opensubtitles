@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>千户与尤莉两人在巨大的潜舰里探索，千户说想要知道以前的人过着什么样的生活，尤莉问她为什么想知道这种事，千户却说不出个所以然来。尤莉吃着在潜舰里找到的巧克力，千户拿着相机对着她，看着观景窗的时候，发现那里有浮现文字。还没时间确认发生了什么事，千户与尤莉的眼前就浮现了以往其他人拍摄的众多照片。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:39:23</dateadded>
+  <title>连接 / 同伴</title>
+  <originaltitle>「接続」「仲間」</originaltitle>
+  <director>Takaharu Ozaki</director>
+  <writer>Kazuyuki Fudeyasu</writer>
+  <writer>Tsukumizu</writer>
+  <credits>Kazuyuki Fudeyasu</credits>
+  <credits>Tsukumizu</credits>
+  <rating>8.4</rating>
+  <year>2017</year>
+  <imdbid>tt7778564</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/少女终末旅行 (2017)/Season 1/少女终末旅行 - S01E12 - 连接 同伴-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yurika Kubo</name>
+    <role>Yuuri (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yurika Kubo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Inori Minase</name>
+    <role>Chito (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Inori Minase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Nuko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumi Shimamoto</name>
+    <role>Eryngii (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sumi Shimamoto/folder.jpg</thumb>
+  </actor>
+  <episode>12</episode>
+  <season>1</season>
+  <aired>2017-12-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8316423</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1442</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1325801</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>181345</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>少女终末旅行-S01E12-连接同伴</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>少女终末旅行</showtitle>
+  <uniqueid default="true" type="tmdb">1409032</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/b2Vq0J5yN9ci1oj61yFQaCYdJvq.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1331167</tvmazeid>
+  <bangumiid>751821</bangumiid>
+  <source>UNKNOWN</source>
+  <original_filename>少女终末旅行 - S01E12 - 连接 同伴.mkv</original_filename>
+  <user_note />
+</episodedetails>

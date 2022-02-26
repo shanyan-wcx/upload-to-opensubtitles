@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>公元 2015 年，一个巨大的人型生物在日本登陆。出动的联合国军，将那生物称作“使徒”，并予以猛烈地攻击，但全部失败。就连威力最大的 N2 炸弹，亦只是在短时间内减缓了使徒的步伐。与此同时，一个名为碇真嗣的少年接到阔别十年的父亲的信，被其父源度呼唤至第三新东京市地下的 NERV 本部。面对许久不见的儿子，碇司令所说的只是：“坐上EVA。”真嗣拒绝接受命令，但当他见到一位身负重伤的少女即将乘坐初号机出击时，他改变了自己的决定。
+
+（来袭使徒压倒性的强大，第三新东京市的地下空洞以及 EVA 初号机这些 SF 方面的描写，使第一话显得多姿多彩。剧中采用了不少有电影效果的构图，相当有特色，但对于消极的 14 岁少年的性格，却十分难把握。副标题是和标题意思相同。圣书中的使徒写作“MESSENGER”，在这个场合的 ANGEL 直译为守护神，也包含天使的意思。）</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>使徒、来袭（ANGEL ATTACK）</title>
+  <originaltitle>第壱話 使徒、襲来</originaltitle>
+  <director>Kazuya Tsurumaki</director>
+  <writer>Hideaki Anno</writer>
+  <credits>Hideaki Anno</credits>
+  <rating>7.8</rating>
+  <year>1995</year>
+  <imdbid>tt0781951</imdbid>
+  <tvdbid>3885</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>GAINAX</studio>
+  <tvrageid>125413</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/新世纪福音战士 (1995)/Season 1/新世纪福音战士 - S01E01 - 使徒、来袭（ANGEL ATTACK）-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Megumi Ogata</name>
+    <role>Shinji Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Ogata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotono Mitsuishi</name>
+    <role>Misato Katsuragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kotono Mitsuishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Rei Ayanami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Hayashibara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Miyamura</name>
+    <role>Asuka Langley Soryu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Miyamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuriko Yamaguchi</name>
+    <role>Dr. Ritsuko Akagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuriko Yamaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Gendo Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Motomu Kiyokawa</name>
+    <role>Kozo Fuyutsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Motomu Kiyokawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Nagasawa</name>
+    <role>Maya Ibuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Nagasawa/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>1995-10-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1881720</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1401</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>309598</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>104402</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>新世纪福音战士</showtitle>
+  <uniqueid default="false" type="tmdb">949381</uniqueid>
+  <uniqueid default="false" type="tvrage">125413</uniqueid>
+  <uniqueid default="true" type="imdb">tt0781951</uniqueid>
+  <uniqueid default="false" type="tvdb">3885</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.3</value>
+      <votes>7</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.8</value>
+      <votes>1634</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/71RH9vhaIOwQVFxv09DftCgmwLh.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159376</tvmazeid>
+  <bangumiid>172006</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>新世纪福音战士 - S01E01 - 使徒、来袭（ANGEL ATTACK）.mkv</original_filename>
+  <user_note />
+</episodedetails>

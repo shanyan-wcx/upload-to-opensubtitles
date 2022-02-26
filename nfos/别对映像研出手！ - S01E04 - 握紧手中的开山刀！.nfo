@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>三个人为了在预算审议委员会上映的动画片，可谓是费尽心机，金森连哄带骗的提出妥协方案，使作品能赶上委员会的日子。而对方是难对付的学生会，被称为“别对学生会出手”的存在。影像研究会能获得预算吗？</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-18 16:07:30</dateadded>
+  <title>握紧手中的开山刀！</title>
+  <originaltitle>そのマチェットを強く握れ！</originaltitle>
+  <director>Fuga Yamashiro</director>
+  <writer>Sumito Oowara</writer>
+  <writer>Masaaki Yuasa</writer>
+  <writer>Yuichiro Kido</writer>
+  <credits>Sumito Oowara</credits>
+  <credits>Masaaki Yuasa</credits>
+  <credits>Yuichiro Kido</credits>
+  <rating>7</rating>
+  <year>2020</year>
+  <imdbid>tt11559038</imdbid>
+  <tvdbid>7526226</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>NHK G</studio>
+  <studio>Science SARU</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/别对映像研出手！ (2020)/Season 1/metadata/别对映像研出手！ - S01E04 - 握紧手中的开山刀！.jpg</poster>
+  </art>
+  <actor>
+    <name>Sairi Ito</name>
+    <role>Midori Asakusa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sairi Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mutsumi Tamura</name>
+    <role>Sayaka Kanamori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mutsumi Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misato Matsuoka</name>
+    <role>Tsubame Mizusaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misato Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mikako Komatsu</name>
+    <role>Sowande Sakaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mikako Komatsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Mr. Fujimoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Kawasho</name>
+    <role>Toru Dotonbori (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2020-01-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6745325</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1501</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1423560</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>别对映像研出手！</showtitle>
+  <uniqueid default="false" type="tmdb">2040210</uniqueid>
+  <uniqueid default="true" type="imdb">tt11559038</uniqueid>
+  <uniqueid default="false" type="tvdb">7526226</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.8</value>
+      <votes>87</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/wOI8CZRN2ExTuQfG65t8l5Qkc8A.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>[Nekomoe kissaten&amp;VCB-Studio] Eizouken ni wa Te o Dasu na! [S01E04][Ma10p_1080p][x265_flac].mkv</original_filename>
+  <user_note />
+</episodedetails>

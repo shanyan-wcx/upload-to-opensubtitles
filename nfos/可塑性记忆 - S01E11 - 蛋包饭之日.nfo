@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>司与艾拉终于成为了恋人。看着两人连手都牵不起来的纯洁模样，终端服务的同伴们一边开着玩笑一边守护着他们。想要做好一对恋人，“惊喜”是必要的，被如此告知的司为如何让艾拉开心而感到烦恼。与此同时，艾拉也为了给司准备“惊喜”而去找满商量。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>蛋包饭之日</title>
+  <originaltitle>オムライスの日</originaltitle>
+  <director>Mitsue Yamazaki</director>
+  <director>Yoshiyuki Fujiwara</director>
+  <writer>Naotaka Hayashi</writer>
+  <writer>Mitsue Yamazaki</writer>
+  <credits>Naotaka Hayashi</credits>
+  <credits>Mitsue Yamazaki</credits>
+  <rating>8</rating>
+  <year>2015</year>
+  <imdbid>tt4816094</imdbid>
+  <tvdbid>5215893</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Doga Kobo</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/可塑性记忆 (2015)/Season 1/可塑性记忆 - S01E11 - 蛋包饭之日-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yasuaki Takumi</name>
+    <role>Mizugaki Tsukasa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yasuaki Takumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sora Amamiya</name>
+    <role>Isla (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sora Amamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Michiru Kinushima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayuri Yahagi</name>
+    <role>Zack (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayuri Yahagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Toyoguchi</name>
+    <role>Kazuki Kuwanomi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Toyoguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satoshi Hino</name>
+    <role>Constance (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satoshi Hino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aimi</name>
+    <role>Sherry (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aimi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumire Uesaka</name>
+    <role>Eru Miru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sumire Uesaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuo Tobita</name>
+    <role>Takao Yamanobe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuo Tobita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenjiro Tsuda</name>
+    <role>Yasutaka Hanada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenjiro Tsuda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinnosuke Ogami</name>
+    <role>Ren Kawarake (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Ogami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <role>Antonio Horizon (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayahi Takagaki</name>
+    <role>Sarah (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>11</episode>
+  <season>1</season>
+  <aired>2015-06-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3851343</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1441</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1407640</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>可塑性记忆-S01E11-蛋包饭之日</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>可塑性记忆</showtitle>
+  <uniqueid default="false" type="tmdb">1058663</uniqueid>
+  <uniqueid default="true" type="imdb">tt4816094</uniqueid>
+  <uniqueid default="false" type="tvdb">5215893</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.5</value>
+      <votes>30</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/iiAA5ivc6nW9ihge7xZqj2MiMf5.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>382452</tvmazeid>
+  <bangumiid>512770</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>可塑性记忆 - S01E11 - 蛋包饭之日.mkv</original_filename>
+  <user_note />
+</episodedetails>

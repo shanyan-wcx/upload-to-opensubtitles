@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>史蒂芬面对着国政压力，空和白整天却只是读书和玩游戏。曾经产生两人能够成为艾尔奇亚乃至全人类种的救世主想法的史蒂芬对此感到崩溃。面对空和白根本没有改善的一向游手好闲的生活，史蒂芬终于忍无可忍，以“正经人”作为赌注与二人进行了游戏挑战。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-20 19:15:58</dateadded>
+  <title>布局（Weak Square）</title>
+  <director>Atsuko Ishizuka</director>
+  <director>Kotono Watanabe</director>
+  <director>Sumito Sasaki</director>
+  <writer>Jukki Hanada</writer>
+  <writer>Takashi Aoshima</writer>
+  <credits>Jukki Hanada</credits>
+  <credits>Takashi Aoshima</credits>
+  <rating>8.4</rating>
+  <year>2014</year>
+  <imdbid>tt3907596</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/游戏人生 (2014)/Season 1/metadata/游戏人生 - S01E05 - 布局（Weak Square）.jpg</poster>
+  </art>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Sora (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshitsugu Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Shiro (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoko Hikasa</name>
+    <role>Stephanie Dola (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoko Hikasa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuka Iguchi</name>
+    <role>Clammy Zell (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuka Iguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Jibril (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Izuna Hatsuse (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Fiel Nirvalen (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Tet (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yasuhiro Mamiya</name>
+    <role>Old Deus (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>20</sortorder>
+  </actor>
+  <actor>
+    <name>Chieko Miyazaki</name>
+    <role>Tradesman (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>21</sortorder>
+  </actor>
+  <actor>
+    <name>Jun Fukushima</name>
+    <role>Former King (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>22</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jun Fukushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Seiji Kato</name>
+    <role>Aristocrat (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>26</sortorder>
+  </actor>
+  <actor>
+    <name>Rei Yamahata</name>
+    <role>Aristocrat (voice)</role>
+    <type>GuestStar</type>
+    <sortorder>26</sortorder>
+  </actor>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2014-05-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6623882</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1442</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>960000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

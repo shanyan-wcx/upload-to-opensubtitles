@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>奇狼丸以诱敌为由离开了队伍，觉和早季在逃亡的过程中碰到了被称为恶鬼的守和真理亚的孩子，早季觉得只要让恶鬼意识到自己是人类的真相，就能阻止她继续攻击人类，可是这个计划失败了。为了击败恶鬼，觉对恶鬼使用了精神风暴，只可惜，恶鬼并没有因此消失，只是单纯的受伤了。就在早季和觉好不容易逃走的时候，野狐丸竟然提出和他们谈判的要求。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>暗中燃烧的篝火</title>
+  <originaltitle>闇に燃えし篝火は</originaltitle>
+  <director>Hiroaki Tomita</director>
+  <writer>Masashi Sogo</writer>
+  <writer>Yuusuke Kishi</writer>
+  <writer>Mamoru Sasaki</writer>
+  <credits>Masashi Sogo</credits>
+  <credits>Yuusuke Kishi</credits>
+  <credits>Mamoru Sasaki</credits>
+  <rating>0</rating>
+  <year>2013</year>
+  <imdbid>tt2793858</imdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/来自新世界 (2012)/Season 1/来自新世界 - S01E24 - 暗中燃烧的篝火-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Saki Watanabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Satoru Asahina (age 14-26) (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroaki Hirata</name>
+    <role>Kiroumaru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroaki Hirata/folder.jpg</thumb>
+  </actor>
+  <episode>24</episode>
+  <season>1</season>
+  <aired>2013-03-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6492143</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1360</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1442112</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>来自新世界</showtitle>
+  <uniqueid default="true" type="tmdb">922820</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/b4Tb7MoezZgMBN5pkiSXRYnF9Ws.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388435</tvmazeid>
+  <bangumiid>198816</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>来自新世界 - S01E24 - 暗中燃烧的篝火.mkv</original_filename>
+  <user_note />
+</episodedetails>

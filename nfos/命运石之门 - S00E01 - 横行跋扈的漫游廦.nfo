@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>成功进入了命运石之门的世界线后一切皆大欢喜，菲利斯被邀请参加在美国举行的雷 NET 大赛，冈部等人决定一同前往。因为中二病的缘故冈部在入关的时候遇到了很多麻烦，前来接他们的是忙完工作的红莉栖，大家又回到了在 Lab 时的氛围。根据冈部的描述红莉栖很在意其他世界线里两人的感情，而在这个世界线里他们又将要如何面对彼此？</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>横行跋扈的漫游廦</title>
+  <originaltitle>横行跋扈のポリオマニア</originaltitle>
+  <director>Hiroshi Hamazaki</director>
+  <director>Takuya Sato</director>
+  <writer>Jukki Hanada</writer>
+  <credits>Jukki Hanada</credits>
+  <rating>8.5</rating>
+  <year>2012</year>
+  <imdbid>tt2525960</imdbid>
+  <tvdbid>4122943</tvdbid>
+  <runtime>25</runtime>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 (2011)/Specials/命运石之门 - S00E01 - 横行跋扈的漫游廦-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Ruka Urushibara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Itaru Hashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Faris Nyannyan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruko Momoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <episode>1</episode>
+  <season>0</season>
+  <aired>2012-02-22</aired>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_season>1</airsbefore_season>
+  <displayseason>1</displayseason>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1397921</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1480</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>316916</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门-S00E01-横行跋扈的漫游廦</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门</showtitle>
+  <uniqueid default="false" type="tmdb">880882</uniqueid>
+  <uniqueid default="true" type="imdb">tt2525960</uniqueid>
+  <uniqueid default="false" type="tvdb">4122943</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.5</value>
+      <votes>4</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.6</value>
+      <votes>906</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/2si6zsW1PxvPDOiygOwHQDRl34c.jpg</thumb>
+  <epbookmark />
+  <code />
+  <bangumiid>438788</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 - S00E01 - 横行跋扈的漫游廦.mkv</original_filename>
+  <user_note />
+</episodedetails>

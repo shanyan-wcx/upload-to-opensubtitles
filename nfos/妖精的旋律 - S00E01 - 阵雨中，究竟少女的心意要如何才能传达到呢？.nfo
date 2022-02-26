@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在耕太家的几人，日子也算过的快乐，娜娜一直想为家里出一份力但老是帮倒忙，和妮悠之间也有点隔阂，两人出去时，娜娜决定暗杀露西，因妮悠摔倒，唤醒了露西曾经的记忆，被带到研究所的由来，以及露西最初的第一个朋友，也是露西和藏间之间结下仇恨的导火索。露西醒来，这一份记忆再次被掩盖，娜娜也终与妮悠和好，一家人继续和睦相处。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>阵雨中，究竟少女的心意要如何才能传达到呢？</title>
+  <originaltitle>通り雨にて 或いは、少女はいかにしてその心情に至ったか?</originaltitle>
+  <director>Mamoru Kanbe</director>
+  <writer>Takao Yoshioka</writer>
+  <credits>Takao Yoshioka</credits>
+  <rating>10</rating>
+  <year>2005</year>
+  <imdbid>tt6281686</imdbid>
+  <runtime>25</runtime>
+  <studio>ARMS</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/妖精的旋律 (2004)/Specials/妖精的旋律 - S00E01 - 阵雨中，究竟少女的心意要如何才能传达到呢？-thumb.jpg</poster>
+  </art>
+  <episode>1</episode>
+  <season>0</season>
+  <aired>2005-04-21</aired>
+  <airsbefore_episode>14</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <displayepisode>14</displayepisode>
+  <displayseason>1</displayseason>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3620097</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1512</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1485582</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>妖精的旋律-S00E01-阵雨中，究竟少女的心意要如何才能传达到呢？</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>妖精的旋律</showtitle>
+  <uniqueid default="false" type="tmdb">882103</uniqueid>
+  <uniqueid default="true" type="imdb">tt6281686</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>10.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.1</value>
+      <votes>170</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/nkeierW8SVcf5MpzfP6QAJzYUmP.jpg</thumb>
+  <epbookmark />
+  <code />
+  <bangumiid>543</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:18:37Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>妖精的旋律 - S00E01 - 阵雨中，究竟少女的心意要如何才能传达到呢？.mkv</original_filename>
+  <user_note />
+</episodedetails>

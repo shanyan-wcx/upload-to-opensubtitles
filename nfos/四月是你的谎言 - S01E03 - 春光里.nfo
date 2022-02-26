@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>公生无法听到自己所弹奏的曲调，因此放弃了钢琴演奏。薰鼓励公生不要放弃对音乐的热爱，邀请公生在比赛时担任她的伴奏者。公生觉得自己无法胜任，四处躲着薰。小椿希望公生振作起来，于是和薰联合起来，对公生采取疯狂的洗脑计划。薰在天台上找到公生，并成功说服他一起演奏，可比赛早已开始，他们能赶到么？</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>春光里</title>
+  <originaltitle>春の中</originaltitle>
+  <writer>Naoshi Arakawa</writer>
+  <writer>Takao Yoshioka</writer>
+  <credits>Naoshi Arakawa</credits>
+  <credits>Takao Yoshioka</credits>
+  <rating>6</rating>
+  <year>2014</year>
+  <imdbid>tt4138154</imdbid>
+  <tvdbid>5013327</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Music</genre>
+  <studio>A-1 Pictures</studio>
+  <tvrageid>1065684390</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/四月是你的谎言 (2014)/Season 1/四月是你的谎言 - S01E03 - 春光里-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Igawa Emi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Saori Hayami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Aiza Nagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Kaori Miyazono (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Tsubaki Sawabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Natsuki Hanae</name>
+    <role>Kousei Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Natsuki Hanae/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryota Osaka</name>
+    <role>Ryouta Watari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryota Osaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Aiza Takeshi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Inori Minase</name>
+    <role>Megu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Inori Minase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Saki Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2014-10-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6570306</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1431041</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1368407</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>四月是你的谎言-S01E03-春光里</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>四月是你的谎言</showtitle>
+  <uniqueid default="false" type="tmdb">1021696</uniqueid>
+  <uniqueid default="false" type="tvrage">1065684390</uniqueid>
+  <uniqueid default="true" type="imdb">tt4138154</uniqueid>
+  <uniqueid default="false" type="tvdb">5013327</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>6.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.2</value>
+      <votes>515</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/5jayyH4WigCrBCUFZWzqF4QmVtl.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>390088</tvmazeid>
+  <bangumiid>386538</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>四月是你的谎言 - S01E03 - 春光里.mkv</original_filename>
+  <user_note />
+</episodedetails>

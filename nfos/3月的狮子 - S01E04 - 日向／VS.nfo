@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>日向为了自己心仪的男生正在准备明天的便当，力求完美的日向打算做的很丰盛，为了此事她和明里姐有了分歧，而一旁的桐山显得非常尴尬。在校园外面桐山看到了正在给棒球队加油的日向，日向眼里闪烁的光芒让他嗅到了恋爱的气息，但日向最终还是没有办法将便当送出去，失落的她打算扔掉便当时桐山及时出现阻止了她。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>日向／VS</title>
+  <originaltitle>Chapter.7 ひな / Chapter.8 ブイエス</originaltitle>
+  <director>Tomoyuki Itamura</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <rating>0</rating>
+  <year>2016</year>
+  <imdbid>tt6379224</imdbid>
+  <tvdbid>5753711</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E04 - 日向／VS-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto / Tora-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Grandmother (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shun Horie</name>
+    <role>Baseball club member (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shun Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kitada</name>
+    <role>Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kitada/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Youji Ueda</name>
+    <role>Hanaoka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Youji Ueda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto / Kuro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto / Shiro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshimasa Hosoya</name>
+    <role>Yuusuke Takahashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshimasa Hosoya/folder.jpg</thumb>
+  </actor>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2016-10-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5856930</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1393327</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192485</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E04-日向／VS</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1228375</uniqueid>
+  <uniqueid default="true" type="imdb">tt6379224</uniqueid>
+  <uniqueid default="false" type="tvdb">5753711</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>7.9</value>
+      <votes>125</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/AoKQwCImOdbFmfTjvH9ceSIk63j.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>932991</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E04 - 日向／VS.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>由津岛信太郎担任中间人，浅井惠和浦地正宗直接进行对话。由于遭到绑架，浦地无可奈何之下只好听听惠的意见。另一方面，惠的同伴们各自摸索逃走路线。春埼美空信赖惠独自一人在等待，索引小姐和加贺谷却逼得她无路可逃。惠尝试说服浦地，然而－－</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>男孩，女孩以及咲良田（神圣）的故事 4/5</title>
+  <originaltitle>BOY, GIRL and the STORY of SAGRADA 4/5</originaltitle>
+  <director>Shinya Kawatsura</director>
+  <writer>Yutaka Kono</writer>
+  <credits>Yutaka Kono</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt12564686</imdbid>
+  <tvdbid>6023506</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>David Production</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/重启咲良田 (2017)/Season 1/重启咲良田 - S01E23 - 男孩，女孩以及咲良田（神圣）的故事 4 5-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kaito Ishikawa</name>
+    <role>Kei Asai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kaito Ishikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Misora Haruki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Sumire Sōma</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ami Koshimizu</name>
+    <role>Sasane Ukawa</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ami Koshimizu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sachika Misawa</name>
+    <role>Nonoo Seika</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sachika Misawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yui Makino</name>
+    <role>Murase Youka</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yui Makino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuya Eguchi</name>
+    <role>Nakano Tomoki</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuya Eguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <role>Hiroyuki Sasano</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuka Aisaka</name>
+    <role>Oka Eri</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuuka Aisaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Uetake</name>
+    <role>Sakuin-san</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Uetake/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Youji Ueda</name>
+    <role>Tsushima Shintarou</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Youji Ueda/folder.jpg</thumb>
+  </actor>
+  <episode>23</episode>
+  <season>1</season>
+  <aired>2017-09-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7154813</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>653196</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>重启咲良田-S01E23-男孩，女孩以及咲良田（神圣）的故事45</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>重启咲良田</showtitle>
+  <uniqueid default="false" type="tmdb">1320416</uniqueid>
+  <uniqueid default="true" type="imdb">tt12564686</uniqueid>
+  <uniqueid default="false" type="tvdb">6023506</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/hvoC9UnvTrjUjF4kO502ELXm6rf.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1114062</tvmazeid>
+  <bangumiid>705181</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>重启咲良田 - S01E23 - 男孩，女孩以及咲良田（神圣）的故事 4 5.mkv</original_filename>
+  <user_note />
+</episodedetails>

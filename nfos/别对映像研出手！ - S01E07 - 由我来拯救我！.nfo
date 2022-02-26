@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>要在文化节上映的机甲动画片，制作并未如意进行。由于作画进度滞后，音响社的百目鬼也无法开始准备音效。主动要求担任配音的机研社的小野等人演技失控，令人非常不安。再加上，美术社的艺术细胞爆炸，导致大量背景需要重做，浅草重新负责。金森对这样的状况十分火大，然而负责作画的水崎，却无论如何也不愿在动作的细节上让步。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-18 16:07:30</dateadded>
+  <title>由我来拯救我！</title>
+  <originaltitle>私は私を救うんだ！</originaltitle>
+  <director>Oyunam</director>
+  <writer>Sumito Oowara</writer>
+  <writer>Masaaki Yuasa</writer>
+  <writer>Yuichiro Kido</writer>
+  <credits>Sumito Oowara</credits>
+  <credits>Masaaki Yuasa</credits>
+  <credits>Yuichiro Kido</credits>
+  <rating>6</rating>
+  <year>2020</year>
+  <imdbid>tt11634908</imdbid>
+  <tvdbid>7571087</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>NHK G</studio>
+  <studio>Science SARU</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/别对映像研出手！ (2020)/Season 1/metadata/别对映像研出手！ - S01E07 - 由我来拯救我！.jpg</poster>
+  </art>
+  <actor>
+    <name>Sairi Ito</name>
+    <role>Midori Asakusa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sairi Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mutsumi Tamura</name>
+    <role>Sayaka Kanamori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mutsumi Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misato Matsuoka</name>
+    <role>Tsubame Mizusaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misato Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yumiri Hanamori</name>
+    <role>Doumeki (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2020-02-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6837064</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1501</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1437620</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>别对映像研出手！</showtitle>
+  <uniqueid default="false" type="tmdb">2040213</uniqueid>
+  <uniqueid default="true" type="imdb">tt11634908</uniqueid>
+  <uniqueid default="false" type="tvdb">7571087</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>6.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.1</value>
+      <votes>68</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/lwTKuzbg3unM9KpybespNAW8hx0.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>[Nekomoe kissaten&amp;VCB-Studio] Eizouken ni wa Te o Dasu na! [S01E07][Ma10p_1080p][x265_flac].mkv</original_filename>
+  <user_note />
+</episodedetails>

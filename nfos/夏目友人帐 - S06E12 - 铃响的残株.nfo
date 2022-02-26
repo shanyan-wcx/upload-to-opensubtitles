@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>要去七辻屋买东西的夏目和猫咪老师，中途帮忙背一位倒在路旁的老人家回去，老人家表示自己是妖怪，住在隔壁村神社参道旁的银杏树根上，前阵子因为雷击被劈断，还说再不久就会回归尘土，但因为想起曾和人类做过约定，在回想起来之前，希望夏目能天天帮他浇水……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 19:00:10</dateadded>
+  <title>铃响的残株</title>
+  <writer>Yuki Midorikawa</writer>
+  <credits>Yuki Midorikawa</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <runtime>24</runtime>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 6/metadata/夏目友人帐 - S06E12 - 铃响的残株.jpg</poster>
+  </art>
+  <actor>
+    <name>Higuchi Akari</name>
+    <role>Urihime (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Higuchi Akari/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Sasada Jun (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kyoko Chikiri</name>
+    <role>Kappa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kyoko Chikiri/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuma Horie</name>
+    <role>Tanuma Kaname (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuma Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Shimozaki</name>
+    <role>Ushikao no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Shimozaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <role>Hiiragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satsuki Yukino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akemi Okamura</name>
+    <role>Hinoe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akemi Okamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takaya Kuroda</name>
+    <role>Misuzu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takaya Kuroda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayako Kawasumi</name>
+    <role>Sasago (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayako Kawasumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ako Mayama</name>
+    <role>Ginro (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Cho</name>
+    <role>Chobi-hige (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Cho/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Seto</name>
+    <role>Tsukiko (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kazutomi Yamamoto</name>
+    <role>Azuma (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yukiko Morishita</name>
+    <role>Benihimo (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Mikako Komatsu</name>
+    <role>Sonokawa Kaoru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mikako Komatsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Soichiro Hoshi</name>
+    <role>Gomochi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Soichiro Hoshi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinya Takahashi</name>
+    <role>Rat-faced Youkai (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yukimasa Natori</name>
+    <role>Nanamaki (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Noriaki Sugiyama</name>
+    <role>Jinbe (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rina Sato</name>
+    <role>Taki Tooru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rina Sato/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshimasa Hosoya</name>
+    <role>Shibata Katsumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshimasa Hosoya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiro Yamaji</name>
+    <role>Takuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiro Yamaji/folder.jpg</thumb>
+  </actor>
+  <episode>12</episode>
+  <season>6</season>
+  <aired>2017-06-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4561899</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1416</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>669907</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S06E12-铃响的残株</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="true" type="tmdb">3287142</uniqueid>
+  <ratings />
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帐（2008） - S06E12 - 夏目友人帐 铃响的残株.mkv</original_filename>
+  <user_note />
+</episodedetails>

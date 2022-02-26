@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>天马递过来的名片上有狐狸的标志和梓泽广一的名字。为了与一系前任监视官·来良会面而造访了潜在犯隔离设施的炯，听说还有一个前任监视官·伏濑的事故死与“狐狸”有关。公安局也有保持色调进行犯罪的组织‘狐狸’——灼和炯开始调查与‘狐狸’相连的梓泽这个男人。日后，东京·三乡新城。入境者的宗教活动全面解禁的信仰特区诞生了。特区举行了宗教相关人员的宣传活动，以那个会场为目标，腹中埋入炸弹的男人发生了自杀性恐怖袭击。根据状况，推测事件是信仰特区纠绕主谋者另外存在的一系，从特区反对派的重要人物开始调查。对象是难民律师驾驭特雷泽陵、饰演新城工厂工人的约瑟夫·奥马上人、以及自爆犯也是信徒的公认宗教团体“天堂之旅”教祖代理托里·阿辛巴赫。虽然各有挂钩的地方，但色调清晰，到事件干预的证据为止不能得到。另一方面，在出席活动的特别赞成派唯一幸存下来的入国管理局观察员，久利须=矜冶·奥布赖恩的病房，第二次发生爆炸事件。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>阿伽门农的庆典</title>
+  <originaltitle>アガメムノンの燔祭</originaltitle>
+  <rating>7.2</rating>
+  <year>2019</year>
+  <imdbid>tt11027042</imdbid>
+  <tvdbid>7376524</tvdbid>
+  <runtime>46</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 3/心理测量者 - S03E05 - 阿伽门农的庆典-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Shindou Arata</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Kei Mikhail Ignatov</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2019-11-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7203526</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2746</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1298850</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S03E05-阿伽门农的庆典</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1964640</uniqueid>
+  <uniqueid default="true" type="imdb">tt11027042</uniqueid>
+  <uniqueid default="false" type="tvdb">7376524</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>4.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.6</value>
+      <votes>78</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/vFRmyQoj4claBwHrT30NpXZohsf.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1723028</tvmazeid>
+  <bangumiid>196928</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S03E05 - 阿伽门农的庆典.mkv</original_filename>
+  <user_note />
+</episodedetails>

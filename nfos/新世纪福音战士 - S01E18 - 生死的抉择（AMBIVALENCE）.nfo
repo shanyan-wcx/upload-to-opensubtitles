@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>三号机运到后，美里也前往松代指挥启动实验，但她没告诉真嗣有关东治的事。实验中，三号机失控，原因是被第十三使徒寄生。EVA 三机出动拦截使徒，零号机与二号机相继被击败。真嗣得知三号机内有驾驶员后拒绝执行任务。于是源度命令打开初号机的 Dummy 系统，将三号机撕成了碎片。当得知三号机驾驶员仍生存而稍得安慰的真嗣看到工作人员抬出了奄奄一息的东治时，他发出了绝望的悲鸣。
+
+（本剧本开始后，就没有从东治的视角来描写，直至最后一个画面受伤的东治被抬出，没有一个他出现的场面。这样做的目的是为了与前一话对应。但虽然如此，观众仍然能感受到三号机中的东治以及他的不安感，这感觉贯穿着本话的始终。可以说，这是本话最成功的地方。源度开启了 Dummy 系统，即让初号机以暴走的状态去攻击，或者说，就是使用类似使徒的攻击方式。其残酷的一面，不仅使真嗣的心灵深受打击，也给观者带来很大的冲击感。副标题 AMBIVALENCE 的意思是同时持有两种相互矛盾的思想的状态。攻击使徒却又不能伤着人，大概就是这样的矛盾吧。）</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>生死的抉择（AMBIVALENCE）</title>
+  <originaltitle>第拾八話 命の選択を</originaltitle>
+  <director>Tensai Okamura</director>
+  <writer>Hideaki Anno</writer>
+  <writer>Shinji Higuchi</writer>
+  <credits>Hideaki Anno</credits>
+  <credits>Shinji Higuchi</credits>
+  <rating>9</rating>
+  <year>1996</year>
+  <imdbid>tt0781961</imdbid>
+  <tvdbid>3902</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>GAINAX</studio>
+  <tvrageid>125430</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/新世纪福音战士 (1995)/Season 1/新世纪福音战士 - S01E18 - 生死的抉择（AMBIVALENCE）-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Megumi Ogata</name>
+    <role>Shinji Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Ogata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotono Mitsuishi</name>
+    <role>Misato Katsuragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kotono Mitsuishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Rei Ayanami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Hayashibara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Miyamura</name>
+    <role>Asuka Langley Soryu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Miyamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuriko Yamaguchi</name>
+    <role>Dr. Ritsuko Akagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuriko Yamaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Gendo Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Motomu Kiyokawa</name>
+    <role>Kozo Fuyutsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Motomu Kiyokawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Nagasawa</name>
+    <role>Maya Ibuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Nagasawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junko Iwao</name>
+    <role>Hikari Horaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Junko Iwao/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Touji Suzuhara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tetsuya Iwanaga</name>
+    <role>Kensuke Aida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tetsuya Iwanaga/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takehito Koyasu</name>
+    <role>Shigeru Aoba (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takehito Koyasu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiro Yuuki</name>
+    <role>Makoto Hyuuga (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiro Yuuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Koichi Yamadera</name>
+    <role>Ryouji Kaji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Koichi Yamadera/folder.jpg</thumb>
+  </actor>
+  <episode>18</episode>
+  <season>1</season>
+  <aired>1996-01-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1408560</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1401</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>305627</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>103142</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>新世纪福音战士</showtitle>
+  <uniqueid default="false" type="tmdb">949399</uniqueid>
+  <uniqueid default="false" type="tvrage">125430</uniqueid>
+  <uniqueid default="true" type="imdb">tt0781961</uniqueid>
+  <uniqueid default="false" type="tvdb">3902</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.6</value>
+      <votes>5</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>9.0</value>
+      <votes>1454</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/aBmOYvPgQysCxm3qvjoPBxNpurW.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159393</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>新世纪福音战士 - S01E18 - 生死的抉择（AMBIVALENCE）.mkv</original_filename>
+  <user_note />
+</episodedetails>

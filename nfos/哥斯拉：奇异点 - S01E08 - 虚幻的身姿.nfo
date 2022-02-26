@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>Ground forces under the command of Matsubara respond to Godzilla's attack on Tokyo. Now in London, Mei attempts to decipher Ashihara's research.</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>虚幻的身姿</title>
+  <originaltitle>まぼろしのすがた</originaltitle>
+  <director>Noriyuki Nomata</director>
+  <director>Takuma Suzuki</director>
+  <director>Shuji Miyahara</director>
+  <writer>Toh EnJoe</writer>
+  <writer>Goro Matsui</writer>
+  <writer>Keigo Koyanagi</writer>
+  <credits>Toh EnJoe</credits>
+  <credits>Goro Matsui</credits>
+  <credits>Keigo Koyanagi</credits>
+  <rating>5</rating>
+  <year>2021</year>
+  <imdbid>tt13640522</imdbid>
+  <tvdbid>8230821</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <studio>BONES</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/哥斯拉：奇异点 (2021)/Season 1/哥斯拉：奇异点 - S01E08 - 虚幻的身姿-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yume Miyamoto</name>
+    <role>Mei Kamino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yume Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shoya Ishige</name>
+    <role>Yun Arikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shoya Ishige/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Wataru Takagi</name>
+    <role>Goro Otaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/W/Wataru Takagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Taro Kiuchi</name>
+    <role>Haberu 'Barbell' Kato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Taro Kiuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Pelops II (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yohei Azakami</name>
+    <role>Shunya Sato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yohei Azakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jin Urayama</name>
+    <role>Tsunetomo Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jin Urayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryosuke Hara</name>
+    <role>Announcer (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rika Abe</name>
+    <role>Reporter A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Genki Yoshimoto</name>
+    <role>Reporter B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shunichi Maki</name>
+    <role>Newscaster (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Arisa Sakuraba</name>
+    <role>Old woman (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Naho Oketani</name>
+    <role>Child A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Miyu Komaki</name>
+    <role>Child B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Eriko Matsui</name>
+    <role>Child C (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kaho Kouda</name>
+    <role>Li Guiying (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Jet Jaguar Jung (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiromi Yoshiyama</name>
+    <role>Yoshikiyo Fujiwara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenta Miyake</name>
+    <role>Michael Steven (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenta Miyake/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiromichi Tezuka</name>
+    <role>Makita K. Nakagawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Junichi Yanagita</name>
+    <role>Directorate for Joint Intelligence member (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryotaro Okiayu</name>
+    <role>Bearach 'BB' Byrne (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryotaro Okiayu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masako Isobe</name>
+    <role>Tilda Miller (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Tomoyuki Shimura</name>
+    <role>Yoshiyasu Matsubara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomoyuki Shimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Runa Onodera</name>
+    <role>Lina Byrne (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2021-05-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7249523</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1470396</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>618216</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>哥斯拉：奇异点</showtitle>
+  <uniqueid default="false" type="tmdb">2820894</uniqueid>
+  <uniqueid default="true" type="imdb">tt13640522</uniqueid>
+  <uniqueid default="false" type="tvdb">8230821</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>4.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.1</value>
+      <votes>81</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/qF8kyrqp8B614spdbmYnvZ7ue3m.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>2090123</tvmazeid>
+  <bangumiid>1017503</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>哥斯拉：奇异点 - S01E08 - 虚幻的身姿.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>刚刚从化鼠手中逃脱的小伙伴们，就碰到了另一波化鼠的攻击，失去了咒力的孩子们为了不被化鼠一网打尽，决定分头行动。落单的觉和早季被化鼠抓住并囚禁。觉将准备好的伪巢蛇的假蛋诱骗化鼠看守吃下，趁化鼠爆炸的时候，觉带着早季逃走了。可是逃跑了没多远，就被外来化鼠追上了，在这千钧一发的时刻，一个神秘的声音出现了。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>逃亡的热带夜</title>
+  <originaltitle>逃亡の熱帯夜</originaltitle>
+  <director>Shigeyasu Yamauchi</director>
+  <writer>Masashi Sogo</writer>
+  <writer>Yuusuke Kishi</writer>
+  <writer>Shigeyasu Yamauchi</writer>
+  <writer>Kouhei Urasawa</writer>
+  <credits>Masashi Sogo</credits>
+  <credits>Yuusuke Kishi</credits>
+  <credits>Shigeyasu Yamauchi</credits>
+  <credits>Kouhei Urasawa</credits>
+  <rating>0</rating>
+  <year>2012</year>
+  <imdbid>tt2669214</imdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/来自新世界 (2012)/Season 1/来自新世界 - S01E05 - 逃亡的热带夜-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Saki Watanabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Satoru Asahina (age 14-26) (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Endo</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Endo/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Maria Akizuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Toudou</name>
+    <role>Shun Aonuma (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Haruka Kudou</name>
+    <role>Mamoru Itou (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Squealer / Yakomaru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Namikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kanako Toujou</name>
+    <role>Satoru Asahina (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2012-10-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5979448</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1361</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1437014</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>来自新世界</showtitle>
+  <uniqueid default="true" type="tmdb">922819</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/9Q2EjzV9cAQX4OY0WGziEEi0BbB.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>388416</tvmazeid>
+  <bangumiid>198797</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>来自新世界 - S01E05 - 逃亡的热带夜.mkv</original_filename>
+  <user_note />
+</episodedetails>

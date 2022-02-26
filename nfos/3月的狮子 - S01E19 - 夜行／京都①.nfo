@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>很小就有着不错才能的岛田被一步步推向了东京的奖励会，不管被困在三段赛内多久，乡下的乡亲们还是一如既往的支持着他，岛田一直前进的原因就是不想辜负父老乡亲们的期望。岛田胃疼的老毛病又犯了，但他还是执着的要桐山陪他下棋，岛田直言桐山的风格与宗谷很像，与桐山对弈或许会受到一些启发</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>夜行／京都①</title>
+  <originaltitle>Chapter.39 夜を往く / Chapter.40 京都①</originaltitle>
+  <director>Hajime Ohtani</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Hajime Ohtani</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Hajime Ohtani</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt7726110</imdbid>
+  <tvdbid>5784152</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E19 - 夜行／京都①-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Elderly (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinya Takahashi</name>
+    <role>Elderly (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Katsuyuki Miura</name>
+    <role>Classmate (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Announcement (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomisaburō Horikoshi</name>
+    <role>Shimada's grandfather (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Tomokazu Sugita</name>
+    <role>Tatsuyuki 'Smith' Misumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Sugita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Touji Souya (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tesshou Genda</name>
+    <role>Takanori Jinguuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shin-ichiro Miki</name>
+    <role>Kai Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shin-ichiro Miki/folder.jpg</thumb>
+  </actor>
+  <episode>19</episode>
+  <season>1</season>
+  <aired>2017-02-25</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5581464</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1387238</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E19-夜行／京都①</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1273116</uniqueid>
+  <uniqueid default="true" type="imdb">tt7726110</uniqueid>
+  <uniqueid default="false" type="tvdb">5784152</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.7</value>
+      <votes>108</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/nx5OEPAYDx7lbzJoGNenJbaNqEx.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1037455</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E19 - 夜行／京都①.mkv</original_filename>
+  <user_note />
+</episodedetails>

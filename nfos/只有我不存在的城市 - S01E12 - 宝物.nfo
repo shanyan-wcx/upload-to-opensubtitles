@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在下着小雨的医院屋顶上，悟与八代对峙着。虽然说“我的记忆已经恢复了”，但是，八代完全不动摇。并且全部都说了出来，给悟所设立的陷阱。八代的剧本，是在悟的新的朋友・久美的点滴中混入了肌肉松弛剂将其杀害，将悟作为杀人的实行者。终于将要死了吗？但是，静静地宣告胜利的是悟。然后他很突然地，用自己的手将轮椅推向屋顶的边缘。千钧一发之际，帮助抓住它的是八代而不是其他的。他坦白，正因为有悟，自己才能有活着的实感。既然承认了它，八代放开了悟让他从屋顶坠落，自己也打算跳下去。但是，在他俯瞰时出现在视野中的是，救援垫子上微笑的悟和他的伙伴的身影。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>宝物</title>
+  <originaltitle>宝物</originaltitle>
+  <director>Tomohiko Ito</director>
+  <director>Toshimasa Ishii</director>
+  <writer>Taku Kishimoto</writer>
+  <writer>Kei Sanbe</writer>
+  <credits>Taku Kishimoto</credits>
+  <credits>Kei Sanbe</credits>
+  <rating>8.8</rating>
+  <year>2016</year>
+  <imdbid>tt5360118</imdbid>
+  <tvdbid>5468811</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/只有我不存在的城市 (2016)/Season 1/只有我不存在的城市 - S01E12 - 宝物-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Shinnosuke Mitsushima</name>
+    <role>29-year-old Satoru Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Mitsushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tao Tsuchiya</name>
+    <role>10-year-old Satoru Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tao Tsuchiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Minami Takayama</name>
+    <role>Sachiko Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Minami Takayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Airi Katagiri (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Kayo Hinazuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Kenya Kobayashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayaka Nanase</name>
+    <role>Osamu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayaka Nanase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukitoshi Kikuchi</name>
+    <role>Kazu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukitoshi Kikuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Mizushima</name>
+    <role>Jun "Yuuki" Shiratori</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Mizushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mitsuru Miyamoto</name>
+    <role>Gaku Yashiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mitsuru Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akari Kito</name>
+    <role>Hiromi Sugati (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akari Kito/folder.jpg</thumb>
+  </actor>
+  <episode>12</episode>
+  <season>1</season>
+  <aired>2016-03-25</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4537077</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1411203</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>jpn(default)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>只有我不存在的城市</showtitle>
+  <uniqueid default="false" type="tmdb">1160307</uniqueid>
+  <uniqueid default="true" type="imdb">tt5360118</uniqueid>
+  <uniqueid default="false" type="tvdb">5468811</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.6</value>
+      <votes>5</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.8</value>
+      <votes>917</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/3niedt2snGE71gkFZHueW8aT0aI.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>569183</tvmazeid>
+  <bangumiid>596827</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>只有我不存在的城市 - S01E12 - 宝物.mkv</original_filename>
+  <user_note />
+</episodedetails>

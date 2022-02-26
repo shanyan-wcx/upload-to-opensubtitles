@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>夏目被妖怪威胁，幸好名取先生及时出现他才得以解救。但是妖怪威胁夏目交出友人帐的事情被名取先生听见，无奈之下夏目只好向名取另约时间说明这件事。箱崎先生的宅邸被蜂拥而至的除妖人弄得凌乱不堪，但是丝毫没有找到书斋的踪影。在名取和熟人交谈时夏目得到了启发，他想起红子小姐说过箱崎先生曾经为她种下过一棵枫树，这或许是找到书斋的重要线索。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 13:14:58</dateadded>
+  <title>重要之物</title>
+  <originaltitle>大切なモノ</originaltitle>
+  <director>Kotomi Deai</director>
+  <writer>Yuki Midorikawa</writer>
+  <credits>Yuki Midorikawa</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt8193456</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 6/metadata/夏目友人帐 - S06E11 - 重要之物.jpg</poster>
+  </art>
+  <actor>
+    <name>Higuchi Akari</name>
+    <role>Urihime (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Higuchi Akari/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Sasada Jun (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kyoko Chikiri</name>
+    <role>Kappa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kyoko Chikiri/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuma Horie</name>
+    <role>Tanuma Kaname (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuma Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Shimozaki</name>
+    <role>Ushikao no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Shimozaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satsuki Yukino</name>
+    <role>Hiiragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satsuki Yukino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akemi Okamura</name>
+    <role>Hinoe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akemi Okamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takaya Kuroda</name>
+    <role>Misuzu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takaya Kuroda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayako Kawasumi</name>
+    <role>Sasago (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayako Kawasumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ako Mayama</name>
+    <role>Ginro (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Cho</name>
+    <role>Chobi-hige (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Cho/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Seto</name>
+    <role>Tsukiko (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kazutomi Yamamoto</name>
+    <role>Azuma (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yukiko Morishita</name>
+    <role>Benihimo (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Mikako Komatsu</name>
+    <role>Sonokawa Kaoru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mikako Komatsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Soichiro Hoshi</name>
+    <role>Gomochi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Soichiro Hoshi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinya Takahashi</name>
+    <role>Rat-faced Youkai (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yukimasa Natori</name>
+    <role>Nanamaki (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Noriaki Sugiyama</name>
+    <role>Jinbe (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rina Sato</name>
+    <role>Taki Tooru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rina Sato/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshimasa Hosoya</name>
+    <role>Shibata Katsumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshimasa Hosoya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiro Yamaji</name>
+    <role>Takuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiro Yamaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mika Doi</name>
+    <role>Nanase (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>11</episode>
+  <season>6</season>
+  <aired>2017-06-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3688992</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1416</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>618101</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S06E11-重要之物</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="false" type="tmdb">1417119</uniqueid>
+  <uniqueid default="true" type="imdb">tt8193456</uniqueid>
+  <uniqueid default="false" type="tvdb">6115800</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>3.7</value>
+      <votes>48</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/nhs57tOxqrN7yoe7nQfgSRggpg8.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帐 - S06E11 - 重要之物.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>这一天有一个叫露神的妖怪来找夏目归还名字，可是因为自己的名字在友人帐上与另外一个妖怪的名字粘到一起，强行撕开会伤害到自己。露神只好和夏目去找另一个妖怪，并且成功的把名字归还了给它们。露神长期被一个叫做花子的老奶奶信奉参拜者，这也是露神最后一位信奉者。前些日子花子老奶奶去世了，这样露神的妖力也越来越弱。等到夏目再来看露神的时候，露神已经快要消失了……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-29 13:02:03</dateadded>
+  <title>露神的祠堂</title>
+  <originaltitle>露神の祠</originaltitle>
+  <rating>8</rating>
+  <year>2008</year>
+  <imdbid>tt1480264</imdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>TV Tokyo</studio>
+  <studio>Brain's Base</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/夏目友人帐 (2008)/Season 1/metadata/夏目友人帐 - S01E02 - 露神的祠堂.jpg</poster>
+  </art>
+  <actor>
+    <name>Higuchi Akari</name>
+    <role>Urihime (voice)</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Higuchi Akari/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Takashi Natsume (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Kamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Madara (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satoshi Tsuruoka</name>
+    <role>Enkou (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satoshi Tsuruoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiji Itou</name>
+    <role>Fujiwara Shigeru (voice)</role>
+    <type>Actor</type>
+    <sortorder>8</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eiji Itou/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Ito</name>
+    <role>Fujiwara, Touko (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Ito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Matsuyama</name>
+    <role>Hitotsume no Chuukyuu Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takashi Matsuyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kyoko Chikiri</name>
+    <role>Kappa</role>
+    <type>Actor</type>
+    <sortorder>7</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kyoko Chikiri/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kunihiro Kawamoto</name>
+    <role>Karikage (voice)</role>
+    <type>Actor</type>
+    <sortorder>8</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kunihiro Kawamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisayoshi Suganuma</name>
+    <role>Kitamoto Atsushi (voice)</role>
+    <type>Actor</type>
+    <sortorder>19</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hisayoshi Suganuma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akiko Yajima</name>
+    <role>Kogitsune (voice)</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akiko Yajima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tadashi Miyazawa</name>
+    <role>Mark-Ironer Youkai (voice)</role>
+    <type>Actor</type>
+    <sortorder>11</sortorder>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Natori Shuuichi (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Natsume Reiko (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Nishimura Satoru (voice)</role>
+    <type>Actor</type>
+    <sortorder>20</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Michie Kita</name>
+    <role>Hana (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+  </actor>
+  <actor>
+    <name>Takeshi Aono</name>
+    <role>Tsuyukami (voice)</role>
+    <type>Actor</type>
+    <sortorder>7</sortorder>
+  </actor>
+  <actor>
+    <name>Hiroki Yasumoto</name>
+    <role>Susugi (voice)</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroki Yasumoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Jun Sasada (voice)</role>
+    <type>Actor</type>
+    <sortorder>16</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2008-07-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3479734</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1432</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>668481</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>夏目友人帐-S01E02-露神的祠堂</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>夏目友人帐</showtitle>
+  <uniqueid default="false" type="tmdb">1254312</uniqueid>
+  <uniqueid default="true" type="imdb">tt1480264</uniqueid>
+  <uniqueid default="false" type="tvdb">382779</uniqueid>
+  <ratings>
+    <rating default="true" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>5.6</value>
+      <votes>83</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/l3oxmhdK0lQnWgUgtSNLaTweZvE.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>夏目友人帳 第02話 「露神の祠」.mkv</original_filename>
+  <user_note />
+</episodedetails>

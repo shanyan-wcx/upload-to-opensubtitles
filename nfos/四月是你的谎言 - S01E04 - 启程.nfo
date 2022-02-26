@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在小椿和阿渡的帮助下，公生和薰及时赶到比赛会场。公生对自己很没信心，赛前一直拼命练习，薰的鼓励给了他力量，两人登台表演的时刻到了。一开始他们俩配合的十分默契，但公生始终被心魔困扰，他突然无法听到弹奏的钢琴声，无奈下只好放弃伴奏，剩下薰一个人演奏着小提琴……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>启程</title>
+  <originaltitle>旅立ち</originaltitle>
+  <director>Kyohei Ishiguro</director>
+  <director>Ayako Kono</director>
+  <writer>Naoshi Arakawa</writer>
+  <writer>Takao Yoshioka</writer>
+  <credits>Naoshi Arakawa</credits>
+  <credits>Takao Yoshioka</credits>
+  <rating>7.5</rating>
+  <year>2014</year>
+  <imdbid>tt4162578</imdbid>
+  <tvdbid>5013328</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Music</genre>
+  <studio>A-1 Pictures</studio>
+  <tvrageid>1065692826</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/四月是你的谎言 (2014)/Season 1/四月是你的谎言 - S01E04 - 启程-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Igawa Emi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Saori Hayami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Aiza Nagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Kaori Miyazono (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Tsubaki Sawabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Natsuki Hanae</name>
+    <role>Kousei Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Natsuki Hanae/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryota Osaka</name>
+    <role>Ryouta Watari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryota Osaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Aiza Takeshi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuo Tobita</name>
+    <role>Mr. Kazama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuo Tobita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Saki Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2014-10-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7703023</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1446282</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1378095</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>四月是你的谎言-S01E04-启程</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>四月是你的谎言</showtitle>
+  <uniqueid default="false" type="tmdb">1021697</uniqueid>
+  <uniqueid default="false" type="tvrage">1065692826</uniqueid>
+  <uniqueid default="true" type="imdb">tt4162578</uniqueid>
+  <uniqueid default="false" type="tvdb">5013328</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>9.1</value>
+      <votes>655</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/qjCu9WHgohh06qpj2D0L48wikib.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>390089</tvmazeid>
+  <bangumiid>386539</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>四月是你的谎言 - S01E04 - 启程.mkv</original_filename>
+  <user_note />
+</episodedetails>

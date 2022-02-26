@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>零与当代最强棋士—宗谷名人的纪念对局开始了。虽然实力的差距一目了然，对手是名人，节节败退的零，却引起了相关人士的讨论。不过在中盘时，零却不小心走错了步，导致后来的失败。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>白色暴风雨②／白色暴风雨③／白色暴风雨④</title>
+  <originaltitle>Chapter.74 白い嵐② / Chapter.75 白い嵐③ / Chapter.76 白い嵐④</originaltitle>
+  <director>Yoshiko Mikami</director>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Shouji Saeki</writer>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Shouji Saeki</credits>
+  <rating>0</rating>
+  <year>2018</year>
+  <imdbid>tt8792836</imdbid>
+  <tvdbid>6362656</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 2/3月的狮子 - S02E15 - 白色暴风雨②／白色暴风雨③／白色暴风雨④-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Motomu Kiyokawa</name>
+    <role>Tohno (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Motomu Kiyokawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Authorized person 1 (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinya Takahashi</name>
+    <role>Authorized person 2 (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Tadanori Date</name>
+    <role>Authorized person 3 (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kosuke Kobayashi</name>
+    <role>Authorized person 4 (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chitose Morinaga</name>
+    <role>Clerk (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Touji Souya (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tesshou Genda</name>
+    <role>Takanori Jinguuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shin-ichiro Miki</name>
+    <role>Kai Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shin-ichiro Miki/folder.jpg</thumb>
+  </actor>
+  <episode>15</episode>
+  <season>2</season>
+  <aired>2018-01-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5853385</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1361393</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S02E15-白色暴风雨②／白色暴风雨③／白色暴风雨④</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1380038</uniqueid>
+  <uniqueid default="true" type="imdb">tt8792836</uniqueid>
+  <uniqueid default="false" type="tvdb">6362656</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>9.1</value>
+      <votes>102</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/zMENNtcXx6aqWgNhN1SgEiURvZ5.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1393693</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S02E15 - 白色暴风雨②／白色暴风雨③／白色暴风雨④.mkv</original_filename>
+  <user_note />
+</episodedetails>

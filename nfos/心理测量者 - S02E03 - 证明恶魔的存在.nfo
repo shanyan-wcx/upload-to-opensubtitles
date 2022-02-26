@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>逃亡的潜在犯在被消除模式执行前不停念着的人物的名字是鹿矛围。这个人物骗过了扫描系统，似乎还能够让他人的心理指数变得清澈。追寻真相的监视官·常守朱前往潜在犯隔离设施，并与某个男人见面了。朱坚持追寻本不应该存在的存在·鹿矛围，第一分队的刑警因为她的决定而陷入混乱。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>证明恶魔的存在</title>
+  <originaltitle>悪魔の証明</originaltitle>
+  <director>Naoyoshi Shiotani</director>
+  <director>Kaoru Suzuki</director>
+  <writer>Tow Ubukata</writer>
+  <writer>Jun Kumagai</writer>
+  <writer>Kaoru Suzuki</writer>
+  <credits>Tow Ubukata</credits>
+  <credits>Jun Kumagai</credits>
+  <credits>Kaoru Suzuki</credits>
+  <rating>0</rating>
+  <year>2014</year>
+  <imdbid>tt4145344</imdbid>
+  <tvdbid>4917244</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 2/心理测量者 - S02E03 - 证明恶魔的存在-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Kirito Kamui (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Keiji Fujiwara</name>
+    <role>Sakuya Tougane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Keiji Fujiwara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masumi Asano</name>
+    <role>Risa Aoyanagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Masumi Asano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Marina Inoue</name>
+    <role>Mizue Shisui (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Marina Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Noriko Hidaka</name>
+    <role>Dominator/Sibyl System (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Noriko Hidaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenji Nojima</name>
+    <role>Nobuchika Ginoza (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenji Nojima/folder.jpg</thumb>
+  </actor>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2014-10-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6340014</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1341</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>650192</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S02E03-证明恶魔的存在</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1014349</uniqueid>
+  <uniqueid default="true" type="tvdb">4917244</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/tWd3I4QCtk9Lz56fXCc7uG1pf45.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159877</tvmazeid>
+  <bangumiid>196926</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S02E03 - 证明恶魔的存在.mkv</original_filename>
+  <user_note />
+</episodedetails>

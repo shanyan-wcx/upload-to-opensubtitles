@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>Salunga emerges from the depths of the Upala research station shrouded in red dust. Meanwhile, Yun observes Anguirus exhibiting an uncanny ability.</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>迅疾如风</title>
+  <originaltitle>はやきことかぜの</originaltitle>
+  <director>Takuma Suzuki</director>
+  <director>Satoshi Nakagawa</director>
+  <writer>Toh EnJoe</writer>
+  <writer>Goro Matsui</writer>
+  <writer>Keigo Koyanagi</writer>
+  <credits>Toh EnJoe</credits>
+  <credits>Goro Matsui</credits>
+  <credits>Keigo Koyanagi</credits>
+  <rating>5.333</rating>
+  <year>2021</year>
+  <imdbid>tt13640120</imdbid>
+  <tvdbid>8230818</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <studio>BONES</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/哥斯拉：奇异点 (2021)/Season 1/哥斯拉：奇异点 - S01E05 - 迅疾如风-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yume Miyamoto</name>
+    <role>Mei Kamino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yume Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shoya Ishige</name>
+    <role>Yun Arikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shoya Ishige/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Wataru Takagi</name>
+    <role>Goro Otaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/W/Wataru Takagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Taro Kiuchi</name>
+    <role>Haberu 'Barbell' Kato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Taro Kiuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Pelops II (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yohei Azakami</name>
+    <role>Shunya Sato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yohei Azakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jin Urayama</name>
+    <role>Tsunetomo Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jin Urayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuyoshi Hayashi</name>
+    <role>Pilot (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Genki Yoshimoto</name>
+    <role>Copilot (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Teruyuki Tanzawa</name>
+    <role>Ship's captain (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenta Sasa</name>
+    <role>Sailor A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryosuke Hara</name>
+    <role>Sailor B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takuya Nakashima</name>
+    <role>Rescue team member (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hiromichi Tezuka</name>
+    <role>Hunter A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shunichi Maki</name>
+    <role>Hunter B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Motoi Koyanagi</name>
+    <role>Genzo Kojima (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ayako Takeuchi</name>
+    <role>President of neighborhood association (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kaho Kouda</name>
+    <role>Li Guiying (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Arisa Sakuraba</name>
+    <role>Newscaster (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hiromi Yoshiyama</name>
+    <role>Yoshikiyo Fujiwara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenichi Suzumura</name>
+    <role>Takehiro Kai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenichi Suzumura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenta Miyake</name>
+    <role>Michael Steven (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenta Miyake/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotori Koiwai</name>
+    <role>Yukie Kanoko (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryotaro Okiayu</name>
+    <role>Bearach 'BB' Byrne (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryotaro Okiayu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masako Isobe</name>
+    <role>Tilda Miller (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2021-04-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7235096</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1472610</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>624241</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>哥斯拉：奇异点</showtitle>
+  <uniqueid default="false" type="tmdb">2820891</uniqueid>
+  <uniqueid default="true" type="imdb">tt13640120</uniqueid>
+  <uniqueid default="false" type="tvdb">8230818</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>4.5</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.2</value>
+      <votes>89</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/1mrgLF4Qqq6glUGsEyC1XBktJ09.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>2076426</tvmazeid>
+  <bangumiid>1017500</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>哥斯拉：奇异点 - S01E05 - 迅疾如风.mkv</original_filename>
+  <user_note />
+</episodedetails>

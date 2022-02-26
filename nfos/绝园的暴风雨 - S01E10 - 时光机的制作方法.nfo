@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>吉野宣言将证明能让两年前的叶风活着回到现在，并且对真广开出了让左门意想不到的条件，就是告诉真广“爱花的男朋友是谁”，而真广光是听到“男朋友”这个字眼便答应了，左门与叶风皆对情势的颠覆惊讶不已。但是左门仍然断言时之牢笼绝无法打破，于是吉野开始展开证论。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>时光机的制作方法</title>
+  <originaltitle>タイムマシンのつくり方</originaltitle>
+  <writer>Mari Okada</writer>
+  <credits>Mari Okada</credits>
+  <rating>8</rating>
+  <year>2012</year>
+  <imdbid>tt3552558</imdbid>
+  <tvdbid>4411182</tvdbid>
+  <runtime>25</runtime>
+  <studio>Aniplex</studio>
+  <tvrageid>1065250468</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/绝园的暴风雨 (2012)/Season 1/绝园的暴风雨 - S01E10 - 时光机的制作方法-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Hanemura Megumu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Fuwa Aika (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Koki Uchiyama</name>
+    <role>Takigawa Yoshino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Koki Uchiyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rikiya Koyama</name>
+    <role>Kusaribe Samon (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rikiya Koyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshiyuki Toyonaga</name>
+    <role>Fuwa Mahiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toshiyuki Toyonaga/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Hoshimura Jun`ichirou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nana Mizuki</name>
+    <role>Evangeline Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nana Mizuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kusaribe Hakaze (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shintaro Asanuma</name>
+    <role>Hayakawa Takumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shintaro Asanuma/folder.jpg</thumb>
+  </actor>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2012-12-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8576634</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1476</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1483295</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>654549</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>绝园的暴风雨-S01E10-时光机的制作方法</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>绝园的暴风雨</showtitle>
+  <uniqueid default="false" type="tmdb">908581</uniqueid>
+  <uniqueid default="false" type="tvrage">1065250468</uniqueid>
+  <uniqueid default="true" type="imdb">tt3552558</uniqueid>
+  <uniqueid default="false" type="tvdb">4411182</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.6</value>
+      <votes>15</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/6HyM0SdyA2Zm3e4z1TEHdX2NxCh.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>455803</tvmazeid>
+  <bangumiid>199010</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>绝园的暴风雨 - S01E10 - 时光机的制作方法.mkv</original_filename>
+  <user_note />
+</episodedetails>

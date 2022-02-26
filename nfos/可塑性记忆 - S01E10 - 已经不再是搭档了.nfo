@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在香月的指示下，司与艾拉解除了搭档关系。面对询问理由的司，香月回答“公司内禁止恋爱”，但终端服务的其他人员却说不知道这规矩。另一方面，香月时隔三年再次与艾拉组队。艾拉“为了双方”而与司保持距离的样子，让人感觉透着一种焦躁——！？</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>已经不再是搭档了</title>
+  <originaltitle>もう、パートナーじゃない</originaltitle>
+  <director>Tatsuya Nokimori</director>
+  <director>Yoshiyuki Fujiwara</director>
+  <writer>Naotaka Hayashi</writer>
+  <writer>Michio Fukuda</writer>
+  <credits>Naotaka Hayashi</credits>
+  <credits>Michio Fukuda</credits>
+  <rating>8</rating>
+  <year>2015</year>
+  <imdbid>tt4816090</imdbid>
+  <tvdbid>5215892</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Doga Kobo</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/可塑性记忆 (2015)/Season 1/可塑性记忆 - S01E10 - 已经不再是搭档了-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yasuaki Takumi</name>
+    <role>Mizugaki Tsukasa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yasuaki Takumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sora Amamiya</name>
+    <role>Isla (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sora Amamiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Michiru Kinushima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayuri Yahagi</name>
+    <role>Zack (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayuri Yahagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Toyoguchi</name>
+    <role>Kazuki Kuwanomi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Toyoguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satoshi Hino</name>
+    <role>Constance (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Satoshi Hino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aimi</name>
+    <role>Sherry (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aimi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumire Uesaka</name>
+    <role>Eru Miru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sumire Uesaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuo Tobita</name>
+    <role>Takao Yamanobe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuo Tobita/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenjiro Tsuda</name>
+    <role>Yasutaka Hanada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenjiro Tsuda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinnosuke Ogami</name>
+    <role>Ren Kawarake (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Ogami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <role>Antonio Horizon (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruno Inoue</name>
+    <role>Lewis (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ayahi Takagaki</name>
+    <role>Sarah (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2015-06-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4088135</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1441</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1346003</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>可塑性记忆-S01E10-已经不再是搭档了</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>可塑性记忆</showtitle>
+  <uniqueid default="false" type="tmdb">1058662</uniqueid>
+  <uniqueid default="true" type="imdb">tt4816090</uniqueid>
+  <uniqueid default="false" type="tvdb">5215892</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.8</value>
+      <votes>31</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/bk3FOK5vICUnHdID3XhZxpm5bVW.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>382451</tvmazeid>
+  <bangumiid>512769</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>可塑性记忆 - S01E10 - 已经不再是搭档了.mkv</original_filename>
+  <user_note />
+</episodedetails>

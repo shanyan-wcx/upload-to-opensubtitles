@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>田宫良子向新一提出人与寄生兽可以和平相处的想法，之后为了保护自己的孩子而被警察射杀，受到触动的新一终于流下了眼泪。然而，新一屡次出现在寄生兽杀人现场的经历也引发了警方的怀疑，拥有鉴别寄生兽能力的杀人犯被派来鉴定新一的身份。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>「人类以上」</title>
+  <originaltitle>人間以上</originaltitle>
+  <director>Kenichi Shimizu</director>
+  <director>Chie Yamashiro</director>
+  <writer>Shoji Yonemura</writer>
+  <writer>Hitoshi Iwaaki</writer>
+  <credits>Shoji Yonemura</credits>
+  <credits>Hitoshi Iwaaki</credits>
+  <rating>9.2</rating>
+  <year>2015</year>
+  <imdbid>tt4384870</imdbid>
+  <tvdbid>5037904</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>Madhouse</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/寄生兽：生命的准则 (2014)/Season 1/寄生兽：生命的准则 - S01E18 - 「人类以上」-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Nobunaga Shimazaki</name>
+    <role>Shinichi Izumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobunaga Shimazaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Hirano</name>
+    <role>Migi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Hirano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Satomi Murano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kana Kimishima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Tamiya Ryoko (voice) / Tamura Reiko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Atsuko Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takaya Aoyagi</name>
+    <role>Kusano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takaya Aoyagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Miki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Namikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Hideo Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayumu Murase</name>
+    <role>Jaw (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayumu Murase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Uragami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Issei Futamata</name>
+    <role>Shirou Kuramori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Issei Futamata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Gotou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyono Yasuno</name>
+    <role>Yuko Tachikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kiyono Yasuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rena Maeda</name>
+    <role>Akiho Suzuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rena Maeda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuma Suzuki</name>
+    <role>Mamoru Uda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuma Suzuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuu Mizushima</name>
+    <role>Takeshi Hirokawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>18</episode>
+  <season>1</season>
+  <aired>2015-02-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5753884</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1382531</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>寄生兽：生命的准则-S01E18-「人类以上」</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>寄生兽：生命的准则</showtitle>
+  <uniqueid default="false" type="tmdb">1029895</uniqueid>
+  <uniqueid default="true" type="imdb">tt4384870</uniqueid>
+  <uniqueid default="false" type="tvdb">5037904</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>9.2</value>
+      <votes>658</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/xsmBLZvLpFeLF2tP3pufNPDytqQ.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>160573</tvmazeid>
+  <bangumiid>427793</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>寄生兽：生命的准则 - S01E18 - 「人类以上」.mkv</original_filename>
+  <user_note />
+</episodedetails>

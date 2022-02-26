@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>Seele 绑架了冬月，力图从他那儿了解 NERV 的真实情况。面对质问，冬月回忆起许多往事。1999 年任大学讲师时初次见到碇源度、2000 年的“第二次冲击”、人口进化研究所、以前的学生、后成为源度妻子的碇唯之死、赤木直子博士的死亡与 NERV 的诞生。不久，冬月被加持救出，但加持却被不明的人枪杀。
+
+（叙述 NERV 的一些往事的这一剧本，看似为观众解答有关 NERV 的问题，但实质上却是设下了更多的谜团。在这一话中，真嗣的母亲碇唯与律子的母亲直子有出场，而且大家也可以看到源度及冬月他们年轻时的样子。至此，除了剩下的三个使徒，EVA 的相关人物已经全部出场过了。碇源度之所以靠近碇唯，据说是因为唯的才能以及她身后的神秘组织 SEELE。此外，原先讨厌源度的冬月后来为何究竟会为何成为源度的得力助手呢。副标题是他被告知他仍是一个孩子。在这一话的最后，面对听了加持电话留言而痛苦不已的美里，真嗣感到他自己“什么也做不了，什么也说不出，自己还只是个孩子”。）</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>NERV、诞生（He was aware that he was still a child.）</title>
+  <originaltitle>第弐拾壱話 ネルフ、誕生</originaltitle>
+  <director>Hiroyuki Ishido</director>
+  <writer>Hideaki Anno</writer>
+  <credits>Hideaki Anno</credits>
+  <rating>7.5</rating>
+  <year>1996</year>
+  <imdbid>tt0785996</imdbid>
+  <tvdbid>3905</tvdbid>
+  <runtime>29</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>GAINAX</studio>
+  <tvrageid>125433</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/新世纪福音战士 (1995)/Season 1/新世纪福音战士 - S01E21 - NERV、诞生（He was aware that he was still a child.）-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Megumi Ogata</name>
+    <role>Shinji Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Ogata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotono Mitsuishi</name>
+    <role>Misato Katsuragi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kotono Mitsuishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Rei Ayanami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Hayashibara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Miyamura</name>
+    <role>Asuka Langley Soryu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Miyamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuriko Yamaguchi</name>
+    <role>Dr. Ritsuko Akagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuriko Yamaguchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Gendo Ikari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Motomu Kiyokawa</name>
+    <role>Kozo Fuyutsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Motomu Kiyokawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miki Nagasawa</name>
+    <role>Maya Ibuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miki Nagasawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Koichi Yamadera</name>
+    <role>Ryouji Kaji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Koichi Yamadera/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mika Doi</name>
+    <role>Naoko Akagi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>21</episode>
+  <season>1</season>
+  <aired>1996-02-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2022506</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1761</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>297053</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>108986</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>新世纪福音战士</showtitle>
+  <uniqueid default="false" type="tmdb">949401</uniqueid>
+  <uniqueid default="false" type="tvrage">125433</uniqueid>
+  <uniqueid default="true" type="imdb">tt0785996</uniqueid>
+  <uniqueid default="false" type="tvdb">3905</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.4</value>
+      <votes>5</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.7</value>
+      <votes>1258</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/hJOiMDJYyEPk4hp2qIuaAM3Ixgt.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159396</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>新世纪福音战士 - S01E21 - NERV、诞生（He was aware that he was still a child.）.mkv</original_filename>
+  <user_note />
+</episodedetails>

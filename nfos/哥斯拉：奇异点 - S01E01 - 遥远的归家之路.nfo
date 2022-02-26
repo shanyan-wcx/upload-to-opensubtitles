@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>Jack-of-all-trades Yun and Haberu investigate sound emanating from an empty mansion. They locate the source nearby, while Mei hears the same tune.</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>遥远的归家之路</title>
+  <originaltitle>はるかなるいえじ</originaltitle>
+  <director>Noriyuki Nomata</director>
+  <director>Takuma Suzuki</director>
+  <writer>Toh EnJoe</writer>
+  <writer>Goro Matsui</writer>
+  <writer>Keigo Koyanagi</writer>
+  <credits>Toh EnJoe</credits>
+  <credits>Goro Matsui</credits>
+  <credits>Keigo Koyanagi</credits>
+  <rating>6.75</rating>
+  <year>2021</year>
+  <imdbid>tt13623784</imdbid>
+  <tvdbid>8230814</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <studio>BONES</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/哥斯拉：奇异点 (2021)/Season 1/哥斯拉：奇异点 - S01E01 - 遥远的归家之路-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yume Miyamoto</name>
+    <role>Mei Kamino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yume Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shoya Ishige</name>
+    <role>Yun Arikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shoya Ishige/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Wataru Takagi</name>
+    <role>Goro Otaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/W/Wataru Takagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Taro Kiuchi</name>
+    <role>Haberu 'Barbell' Kato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Taro Kiuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Pelops II (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yohei Azakami</name>
+    <role>Shunya Sato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yohei Azakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jin Urayama</name>
+    <role>Tsunetomo Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jin Urayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <role>Chief (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Genki Yoshimoto</name>
+    <role>Police officer (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hiromichi Tezuka</name>
+    <role>Driver (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Miyu Komaki</name>
+    <role>Announcement (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryosuke Hara</name>
+    <role>Car radio (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Naho Oketani</name>
+    <role>Child (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Jung (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiromi Yoshiyama</name>
+    <role>Yoshikiyo Fujiwara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2021-04-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4321037</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1407302</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>584376</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>哥斯拉：奇异点</showtitle>
+  <uniqueid default="false" type="tmdb">2455923</uniqueid>
+  <uniqueid default="true" type="imdb">tt13623784</uniqueid>
+  <uniqueid default="false" type="tvdb">8230814</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>6.7</value>
+      <votes>3</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>6.6</value>
+      <votes>122</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/9xoTUioqUESxSYG7mfkfnX4P3Io.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>2045875</tvmazeid>
+  <bangumiid>1016270</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>哥斯拉：奇异点 - S01E01 - 遥远的归家之路.mkv</original_filename>
+  <user_note />
+</episodedetails>

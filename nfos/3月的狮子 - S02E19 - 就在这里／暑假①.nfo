@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>三日月堂在三月町的祭典中摆摊，贩卖明和日向构思出来的冰糖水白玉汤圆。在菜单里，有一道使用了梅子露，那是遭受霸凌而被迫转学的千穗，亲手做给日向的，而日向将它加入了甜品中。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>就在这里／暑假①</title>
+  <originaltitle>Chapter.83 ここにいること / Chapter.84 夏休み①</originaltitle>
+  <director>Noriko Hashimoto</director>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Shouji Saeki</writer>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Shouji Saeki</credits>
+  <rating>0</rating>
+  <year>2018</year>
+  <imdbid>tt8792864</imdbid>
+  <tvdbid>6362662</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 2/3月的狮子 - S02E19 - 就在这里／暑假①-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshimitsu Shimoyama</name>
+    <role>Komigawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Asuka Nishi</name>
+    <role>Chiho Sakura (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Megumi Takagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Kokubu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/F/Fumihiko Tachiki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satomi Arai</name>
+    <role>Takagi's mother (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Sai Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mikako Takahashi</name>
+    <role>Mikako Kawamoto (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshimasa Hosoya</name>
+    <role>Yuusuke Takahashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yoshimasa Hosoya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shigeru Chiba</name>
+    <role>Someji Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shigeru Chiba/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <episode>19</episode>
+  <season>2</season>
+  <aired>2018-03-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5053896</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1437106</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S02E19-就在这里／暑假①</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1380042</uniqueid>
+  <uniqueid default="true" type="imdb">tt8792864</uniqueid>
+  <uniqueid default="false" type="tvdb">6362662</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.8</value>
+      <votes>88</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/87Kl7wYUS3JKggpgcJQD0eq8VXf.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1423370</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S02E19 - 就在这里／暑假①.mkv</original_filename>
+  <user_note />
+</episodedetails>

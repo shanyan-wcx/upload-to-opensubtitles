@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>TOKYO MX重播的TV动画《命运石之门》（2015年）12月3日凌晨播出的第23话中改变情节，进入β世界线，凶真最终没能救活红莉栖，剧情进入了《命运石之门0》篇章。片尾彩蛋有《0》的主要角色、使用红莉栖头像的人工智能“阿玛迪斯”登场。  　　新旧两版23集并非平行故事。新版是发生在旧版前夕的故事。 而《命运石之门0》和广播剧《无限远点的弧光灯β》是串连起这两集的关键作品。  　　新版23集是《命运石之门0》的序曲，而《0》的结局是凶真给过去（2010年）的自己发短信、劝说当时的自己再次拯救红莉栖（这段内容在旧23集中也有提到），这才有了第24集第二次营救红莉栖的行动。  　　《无限远点的弧光灯β》则解释了为什么在新23集中真由理阻止铃羽抽凶真一巴掌，却在旧23集中亲自抽了凶真。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 20:37:08</dateadded>
+  <title>境界面上的缺失之环（β线）</title>
+  <originaltitle>境界面上のミッシングリンク-Divide By Zero-（β）</originaltitle>
+  <writer>Jukki Hanada</writer>
+  <credits>Jukki Hanada</credits>
+  <rating>8.667</rating>
+  <year>2015</year>
+  <imdbid>tt6174054</imdbid>
+  <tvdbid>5429783</tvdbid>
+  <runtime>24</runtime>
+  <studio>White Fox</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 (2011)/Specials/命运石之门 - S00E06 - 境界面上的缺失之环（β线）-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Ruka Urushibara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Itaru Hashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Faris Nyannyan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruko Momoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <episode>6</episode>
+  <season>0</season>
+  <aired>2015-12-03</aired>
+  <airsbefore_season>0</airsbefore_season>
+  <displayseason>0</displayseason>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2807492</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1422</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>309089</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门-S00E06-境界面上的缺失之环（β线）</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门</showtitle>
+  <uniqueid default="false" type="tmdb">1165934</uniqueid>
+  <uniqueid default="true" type="imdb">tt6174054</uniqueid>
+  <uniqueid default="false" type="tvdb">5429783</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.667</value>
+      <votes>3</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.4</value>
+      <votes>480</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/5RqPvJeBkhS9EbDagdnKTUEB16w.jpg</thumb>
+  <epbookmark />
+  <code />
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 - S00E06 - 境界面上的缺失之环（β线）.mkv</original_filename>
+  <user_note />
+</episodedetails>

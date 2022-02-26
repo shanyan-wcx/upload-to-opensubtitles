@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在帮摔倒的小桃清理伤口时桐山突然哭了起来，因为他想起了自己的妹妹。家人卷入车祸去世后桐山变成了无家可归的孤儿，参加丧礼的都是和自己有血缘关系的亲戚，但唯一打算收养自己的却是父亲的好友，也正是桐山现在的义父幸田。桐山的将棋天赋带给他的却是烦恼，因为他的出现让幸田家发生了改变，有时候他甚至会觉得自己像杜鹃鸟一样会把这个家啃噬殆尽。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>契约／杜鹃鸟的巢上</title>
+  <originaltitle>Chapter.9 契約 / Chapter.10 カッコーの巣の上で</originaltitle>
+  <director>Takashi Kawabata</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <rating>8.8</rating>
+  <year>2016</year>
+  <imdbid>tt7674710</imdbid>
+  <tvdbid>5753712</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E05 - 契约／杜鹃鸟的巢上-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yumiko Ōfuku</name>
+    <role>Kouda's wife (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Rei's father (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Naka</name>
+    <role>Rei's grandfather (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroshi Naka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Dog (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kitada</name>
+    <role>Kiwako's husband (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kitada/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chie Arikawa</name>
+    <role>Relative (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chie Arikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto / Kuro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto / Shiro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Michiko Neya</name>
+    <role>Misaki Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Michiko Neya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toru Okawa</name>
+    <role>Masachika Kouda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toru Okawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Marina Inoue</name>
+    <role>Kyouko Kouda / Ayumu Kouda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Marina Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yumi Uchiyama</name>
+    <role>Rei Kiriyama (young) (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto / Mike-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2016-11-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5697482</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1322862</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E05-契约／杜鹃鸟的巢上</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1228376</uniqueid>
+  <uniqueid default="true" type="imdb">tt7674710</uniqueid>
+  <uniqueid default="false" type="tvdb">5753712</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.9</value>
+      <votes>141</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/rw4DinXoMEtck2wjCONMJAhbIJV.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>932992</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E05 - 契约／杜鹃鸟的巢上.mkv</original_filename>
+  <user_note />
+</episodedetails>

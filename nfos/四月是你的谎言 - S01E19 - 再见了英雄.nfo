@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>听到公生和凪的连弹后，薰为了再一次和公生合奏而决定接受手术。薰激励着以音乐会为目标而开始练习的公生，自己也以再次登上舞台为目标进行着康复训练。小椿为了追随公生而拼命学习，看着同样拼命的公生，小椿感到心疼。音乐会当天，公生在后台遇到了武士和井川，原本十分紧张的武士在闲聊后完全放松下来，他满怀着对公生的憧憬弹出了让人叫绝的曲子。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>再见了英雄</title>
+  <originaltitle>さよならヒーロー</originaltitle>
+  <writer>Naoshi Arakawa</writer>
+  <writer>Takao Yoshioka</writer>
+  <credits>Naoshi Arakawa</credits>
+  <credits>Takao Yoshioka</credits>
+  <rating>2</rating>
+  <year>2015</year>
+  <imdbid>tt4792750</imdbid>
+  <tvdbid>5013607</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Music</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/四月是你的谎言 (2014)/Season 1/四月是你的谎言 - S01E19 - 再见了英雄-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Igawa Emi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Saori Hayami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Aiza Nagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Risa Taneda</name>
+    <role>Kaori Miyazono (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Risa Taneda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Tsubaki Sawabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Natsuki Hanae</name>
+    <role>Kousei Arima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Natsuki Hanae/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryota Osaka</name>
+    <role>Ryouta Watari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryota Osaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Aiza Takeshi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Yuriko Ochiai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Atsuko Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mie Sonozaki</name>
+    <role>Hiroko Seto (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Toru Okawa</name>
+    <role>Yoshiyuki Miyazono (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toru Okawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Naomi Shindo</name>
+    <role>Suzuko Miyazono (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ben Hiura</name>
+    <role>Junzou Ibata (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takanori Ooyama</name>
+    <role>Akira Takayanagi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Minako Kotobuki</name>
+    <role>Izumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Minako Kotobuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shizuka Ishigami</name>
+    <role>Nao Kashiwagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shizuka Ishigami/folder.jpg</thumb>
+  </actor>
+  <episode>19</episode>
+  <season>1</season>
+  <aired>2015-02-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6254614</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1378379</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1351964</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>四月是你的谎言-S01E19-再见了英雄</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>四月是你的谎言</showtitle>
+  <uniqueid default="false" type="tmdb">1029351</uniqueid>
+  <uniqueid default="true" type="imdb">tt4792750</uniqueid>
+  <uniqueid default="false" type="tvdb">5013607</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>2.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.4</value>
+      <votes>468</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/qQ3Bp7s4wd2E7hoRe9iOeca8oMD.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>390100</tvmazeid>
+  <bangumiid>386554</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>四月是你的谎言 - S01E19 - 再见了英雄.mkv</original_filename>
+  <user_note />
+</episodedetails>

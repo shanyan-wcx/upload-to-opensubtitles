@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>被真理子制服的娜娜身体被撕开，前来寻找娜娜的耕太与妮悠目睹了这一场景，研究所藏间的秘书白川以为妮悠是露西前来救耕太，而真理子也因对方是妮悠不是露西迟迟不肯动手，最终妮悠唤醒了记忆变成了露西，在耕太面前大开杀戒，耕太也因此想起了小时的记忆…</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-02 12:50:31</dateadded>
+  <title>泥泞</title>
+  <rating>8.6</rating>
+  <year>2004</year>
+  <imdbid>tt0909540</imdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/妖精的旋律 (2004)/Season 1/妖精的旋律 - S01E12 - 泥泞-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Chihiro Suzuki</name>
+    <role>Kouta (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chihiro Suzuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Lucy / Nyuu (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sanae Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Emiko Hagiwara</name>
+    <role>Mayu (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Emiko Hagiwara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroaki Hirata</name>
+    <role>Professor Kakuzawa Yu (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroaki Hirata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hitomi Nabatame</name>
+    <role>Kouta (child) / Shirakawa (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hitomi Nabatame/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jouji Nakata</name>
+    <role>Bandou (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jouji Nakata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kinryuu Arimoto</name>
+    <role>Chief Kakuzawa (voice)</role>
+    <type>Actor</type>
+    <sortorder>7</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kinryuu Arimoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Maria Yamamoto</name>
+    <role>Kanae (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Maria Yamamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Osamu Hosoi</name>
+    <role>Kurama (voice)</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/O/Osamu Hosoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomoko Kawakami</name>
+    <role>Mariko (voice)</role>
+    <type>Actor</type>
+    <sortorder>11</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomoko Kawakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Matsuoka</name>
+    <role>Nana (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Matsuoka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eriko Ishihara</name>
+    <role>Arakawa (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eriko Ishihara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Yuka (voice)</role>
+    <type>Actor</type>
+    <sortorder>500</sortorder>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamiko Noto/folder.jpg</thumb>
+  </actor>
+  <episode>12</episode>
+  <season>1</season>
+  <aired>2004-10-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3731538</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1512</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1565905</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>妖精的旋律-S01E12-泥泞</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

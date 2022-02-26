@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>第二分队的监视官失踪，同时也有一把 Dominator 去向不明。唯一的线索只有残留在现场的神秘信息“WC？”。如果真有能够在西比拉系统的运用下还能隐藏一切痕迹行动的人物，那只有可能是透明人。此时，拘留中的连续爆炸犯的犯罪系数居然下降到了执行对象外的水准。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>隐匿渐近的虚实</title>
+  <originaltitle>忍び寄る虚実</originaltitle>
+  <director>Naoyoshi Shiotani</director>
+  <writer>Tow Ubukata</writer>
+  <writer>Jun Kumagai</writer>
+  <credits>Tow Ubukata</credits>
+  <credits>Jun Kumagai</credits>
+  <rating>0</rating>
+  <year>2014</year>
+  <imdbid>tt4123986</imdbid>
+  <tvdbid>4917243</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 2/心理测量者 - S02E02 - 隐匿渐近的虚实-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryohei Kimura</name>
+    <role>Kirito Kamui (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryohei Kimura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Keiji Fujiwara</name>
+    <role>Sakuya Tougane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Keiji Fujiwara/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masumi Asano</name>
+    <role>Risa Aoyanagi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Masumi Asano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Marina Inoue</name>
+    <role>Mizue Shisui (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Marina Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Noriko Hidaka</name>
+    <role>Dominator/Sibyl System (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Noriko Hidaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenji Nojima</name>
+    <role>Nobuchika Ginoza (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenji Nojima/folder.jpg</thumb>
+  </actor>
+  <episode>2</episode>
+  <season>2</season>
+  <aired>2014-10-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7503272</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1341</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>691953</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S02E02-隐匿渐近的虚实</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1012600</uniqueid>
+  <uniqueid default="true" type="tvdb">4917243</uniqueid>
+  <ratings />
+  <thumb>https://image.tmdb.org/t/p/original/4lgOsQurpOvjETwpbOHqMLyrM0F.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>159876</tvmazeid>
+  <bangumiid>196925</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S02E02 - 隐匿渐近的虚实.mkv</original_filename>
+  <user_note />
+</episodedetails>

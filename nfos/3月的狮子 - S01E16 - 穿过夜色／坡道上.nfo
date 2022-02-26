@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>为了让桐山能达到出席标准不被留级，老师费尽了心思，看到桐山能够和社团的同学们融洽相处后老师也放下心来。后藤和岛田的最后决战已经结束了，赶到会场后桐山看到了精神依旧紧绷的岛田，这种对决中胜者往往会显得更加疲惫，认识到自己与岛田的差距后桐山突然感到心潮澎湃，他决定加入岛田的研究会。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>穿过夜色／坡道上</title>
+  <originaltitle>Chapter.32 夜を駆ける / Chapter.33 坂の途中</originaltitle>
+  <director>Sayaka Iwai</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Hiroko Kazui</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Hiroko Kazui</credits>
+  <rating>0</rating>
+  <year>2017</year>
+  <imdbid>tt7726098</imdbid>
+  <tvdbid>5784149</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E16 - 穿过夜色／坡道上-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tadanori Date</name>
+    <role>Science club member (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Mutsuki Iwanaka</name>
+    <role>Science club member (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Science club member (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Binbin Takaoka</name>
+    <role>Izumida (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenjiro Tsuda</name>
+    <role>Morio Shigeta (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenjiro Tsuda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuhiko Okamoto</name>
+    <role>Harunobu Nikaidou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuhiko Okamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shin-ichiro Miki</name>
+    <role>Kai Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shin-ichiro Miki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuji Ueda</name>
+    <role>Eisaku Noguchi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Takashi Hayashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Momo Kawamoto / Shiro-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shigeru Chiba</name>
+    <role>Someji Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shigeru Chiba/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Hinata Kawamoto / Mike-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Akari Kawamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Kayano/folder.jpg</thumb>
+  </actor>
+  <episode>16</episode>
+  <season>1</season>
+  <aired>2017-02-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5959650</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1408361</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>191835</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E16-穿过夜色／坡道上</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1262099</uniqueid>
+  <uniqueid default="true" type="imdb">tt7726098</uniqueid>
+  <uniqueid default="false" type="tvdb">5784149</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.2</value>
+      <votes>107</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/j7BIjgN61k5xh261bsAMj7HLXOx.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>989879</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E16 - 穿过夜色／坡道上.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>Yun and Haberu deduce that Misakioku may be linked to the Rodan incursion. Mei attends Li's lecture in Dubai, where the professor reveals new material.</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>还未见的未来</title>
+  <originaltitle>まだみぬみらいは</originaltitle>
+  <director>Takuma Suzuki</director>
+  <director>Tsuyoshi Tobita</director>
+  <writer>Toh EnJoe</writer>
+  <writer>Goro Matsui</writer>
+  <writer>Keigo Koyanagi</writer>
+  <credits>Toh EnJoe</credits>
+  <credits>Goro Matsui</credits>
+  <credits>Keigo Koyanagi</credits>
+  <rating>6.333</rating>
+  <year>2021</year>
+  <imdbid>tt13640118</imdbid>
+  <tvdbid>8230817</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <studio>BONES</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/哥斯拉：奇异点 (2021)/Season 1/哥斯拉：奇异点 - S01E04 - 还未见的未来-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yume Miyamoto</name>
+    <role>Mei Kamino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yume Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shoya Ishige</name>
+    <role>Yun Arikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shoya Ishige/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Wataru Takagi</name>
+    <role>Goro Otaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/W/Wataru Takagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Taro Kiuchi</name>
+    <role>Haberu 'Barbell' Kato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Taro Kiuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Pelops II (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yohei Azakami</name>
+    <role>Shunya Sato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yohei Azakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jin Urayama</name>
+    <role>Tsunetomo Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jin Urayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shunichi Maki</name>
+    <role>Commentator (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Arisa Sakuraba</name>
+    <role>Announcer (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kazuyoshi Hayashi</name>
+    <role>Moderator (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Genki Yoshimoto</name>
+    <role>Squad leader (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenta Sasa</name>
+    <role>Sailor A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryosuke Hara</name>
+    <role>Sailor B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Eriko Matsui</name>
+    <role>Newscaster (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kaho Kouda</name>
+    <role>Li Guiying (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenichi Suzumura</name>
+    <role>Takehiro Kai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenichi Suzumura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenta Miyake</name>
+    <role>Michael Steven (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenta Miyake/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotori Koiwai</name>
+    <role>Yukie Kanoko (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hiromichi Tezuka</name>
+    <role>Makita K. Nakagawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takuya Nakashima</name>
+    <role>Reporter (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryotaro Okiayu</name>
+    <role>Bearach 'BB' Byrne (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryotaro Okiayu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masako Isobe</name>
+    <role>Tilda Miller (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2021-04-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6332406</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1441895</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>609655</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>哥斯拉：奇异点</showtitle>
+  <uniqueid default="false" type="tmdb">2820889</uniqueid>
+  <uniqueid default="true" type="imdb">tt13640118</uniqueid>
+  <uniqueid default="false" type="tvdb">8230817</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>6.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>6.8</value>
+      <votes>90</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/mTK1jEjvNbIBDuvQnLDsKts1TfP.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>2076425</tvmazeid>
+  <bangumiid>1017499</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>哥斯拉：奇异点 - S01E04 - 还未见的未来.mkv</original_filename>
+  <user_note />
+</episodedetails>

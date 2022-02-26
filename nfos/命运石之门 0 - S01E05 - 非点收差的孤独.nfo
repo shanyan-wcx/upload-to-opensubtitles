@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>冈部开始寻找和铃羽一起从未来过来的椎名篝。在桶子的协助下一个找人专家来了，她就是几次在别的世界线杀害真由理的“ROUNDER”成员桐生萌郁。这个时候，冈部对眼前再次出现的萌郁抱有强烈的不安和悬念。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>非点收差的孤独</title>
+  <originaltitle>非点収差のソリチュード</originaltitle>
+  <rating>8.5</rating>
+  <year>2018</year>
+  <imdbid>tt8392564</imdbid>
+  <tvdbid>6647540</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <studio>Nitroplus</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 0 (2018)/Season 1/命运石之门 0 - S01E05 - 非点收差的孤独-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mamoru Miyano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Asami Imai</name>
+    <role>Kurisu Makise (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Asami Imai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane / Yuki Amane (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukari Tamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Hashida Itaru (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tomokazu Seki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayuri Yahagi</name>
+    <role>Hiyajou Maho (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayuri Yahagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Akiha Rumiho (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Haruko Momoi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yu Kobayashi</name>
+    <role>Urushibara Ruka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yu Kobayashi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Han</name>
+    <role>Shiina Kagari (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Megumi Han/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hina Kino</name>
+    <role>Kurushima Kaede (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hina Kino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mariko Honda</name>
+    <role>Nakase Katsumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mariko Honda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Masaki Terasoma</name>
+    <role>Tennouji Yuugo (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Masaki Terasoma/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Youji Ueda</name>
+    <role>Alexis Leskinen (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Youji Ueda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Saori Goto</name>
+    <role>Kiryuu Moeka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Saori Goto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayano Yamamoto</name>
+    <role>Tennouji Nae (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayano Yamamoto/folder.jpg</thumb>
+  </actor>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2018-05-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2239756</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1436</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>319003</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门0-S01E05-非点收差的孤独</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门 0</showtitle>
+  <uniqueid default="false" type="tmdb">1483572</uniqueid>
+  <uniqueid default="true" type="tvdb">6647540</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>9.0</value>
+      <votes>1</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/foAx1isxo9puGjknujypr2HGgtC.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1446075</tvmazeid>
+  <bangumiid>783052</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 0 - S01E05 - 非点收差的孤独.mkv</original_filename>
+  <user_note />
+</episodedetails>

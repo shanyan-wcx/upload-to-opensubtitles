@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>情人节即将来临，Labmen的各位女孩子都各自有各自的想法。于是菲利斯主导的，大家亲手制作巧克力的“第36届圆桌巧克力会”召开。她们想把什么样的巧克力赠给谁呢？</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>24 OVA结晶多形的情人节</title>
+  <originaltitle>結晶多形のヴァレンティヌス</originaltitle>
+  <rating>7</rating>
+  <year>2018</year>
+  <imdbid>tt9484656</imdbid>
+  <tvdbid>6947967</tvdbid>
+  <runtime>24</runtime>
+  <studio>Nitroplus</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/命运石之门 0 (2018)/Specials/命运石之门 0 - S00E01 - 24 OVA结晶多形的情人节-thumb.jpg</poster>
+  </art>
+  <episode>1</episode>
+  <season>0</season>
+  <aired>2018-12-21</aired>
+  <airsbefore_episode>24</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <displayepisode>24</displayepisode>
+  <displayseason>1</displayseason>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1884225</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>opus</codec>
+        <micodec>opus</micodec>
+        <bitrate>319312</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>命运石之门0-S00E01-24OVA结晶多形的情人节</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>命运石之门 0</showtitle>
+  <uniqueid default="false" type="tmdb">1649075</uniqueid>
+  <uniqueid default="true" type="imdb">tt9484656</uniqueid>
+  <uniqueid default="false" type="tvdb">6947967</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>6.7</value>
+      <votes>166</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/fh0ApRipDgq51oDxkrshxm9f7IS.jpg</thumb>
+  <epbookmark />
+  <code />
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>命运石之门 0 - S00E01 - 24 OVA结晶多形的情人节.mkv</original_filename>
+  <user_note />
+</episodedetails>

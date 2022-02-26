@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>为了不让下一个被害者中西彩孤独一人，悟等人向她打招呼。最初小彩并没有理会，但和的一句话成为契机，在悟他们的基地露面。包括广美在内，三人应该偏离了犯人所要被杀的目标。但是，悟也在意“犯人要瞄准谁来做代替目标”。最近在班里美里经常显现出一个人孤独的样子，悟想要防止这一情况。跟踪到曲棍冰球比赛会场里，她的身影突然消失了。慌张的悟碰到了班主任八代并拜托他一起去追逐前面那辆可疑的卡车。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:41</dateadded>
+  <title>欢喜</title>
+  <originaltitle>歓喜</originaltitle>
+  <director>Tomohiko Ito</director>
+  <writer>Taku Kishimoto</writer>
+  <writer>Kei Sanbe</writer>
+  <credits>Taku Kishimoto</credits>
+  <credits>Kei Sanbe</credits>
+  <rating>8</rating>
+  <year>2016</year>
+  <imdbid>tt5360112</imdbid>
+  <tvdbid>5468809</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>A-1 Pictures</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/只有我不存在的城市 (2016)/Season 1/只有我不存在的城市 - S01E10 - 欢喜-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Shinnosuke Mitsushima</name>
+    <role>29-year-old Satoru Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shinnosuke Mitsushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tao Tsuchiya</name>
+    <role>10-year-old Satoru Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Tao Tsuchiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Minami Takayama</name>
+    <role>Sachiko Fujinuma (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Minami Takayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chinatsu Akasaki</name>
+    <role>Airi Katagiri (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/C/Chinatsu Akasaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuki</name>
+    <role>Kayo Hinazuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aoi Yuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>You Taichi</name>
+    <role>Kenya Kobayashi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/You Taichi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayaka Nanase</name>
+    <role>Osamu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayaka Nanase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukitoshi Kikuchi</name>
+    <role>Kazu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yukitoshi Kikuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Mizushima</name>
+    <role>Jun "Yuuki" Shiratori</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Mizushima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mitsuru Miyamoto</name>
+    <role>Gaku Yashiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Mitsuru Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akari Kito</name>
+    <role>Hiromi Sugati (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akari Kito/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hina Kino</name>
+    <role>Misato Yanagihara (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hina Kino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayaka Kaneko</name>
+    <role>Aya Nakanishi (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2016-03-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4395184</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1372</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1375824</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>jpn(default)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>只有我不存在的城市</showtitle>
+  <uniqueid default="false" type="tmdb">1160304</uniqueid>
+  <uniqueid default="true" type="imdb">tt5360112</uniqueid>
+  <uniqueid default="false" type="tvdb">5468809</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>5</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.8</value>
+      <votes>788</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/lwxy5UW6VeKrTkfohC1YpVrGglX.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>569181</tvmazeid>
+  <bangumiid>596613</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>只有我不存在的城市 - S01E10 - 欢喜.mkv</original_filename>
+  <user_note />
+</episodedetails>

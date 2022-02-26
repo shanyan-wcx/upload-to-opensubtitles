@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>刚力士男人，教练，狐狸。以三层构造开始抓住作为shibura系统的盲点的存在的bifurost——多米诺骨牌推倒一样地发生的事件的整体像的一系，与外务省行动课联合搜查合作继续调查。事件中，行动科正在追查的Peacebraiker的残党、Pasufainder也参与其中。行动科追赶着他们，灼他们又将担任东京都知事的护卫任务。另一方面，以如月为诱饵饲料也有反应。为了见到一直咬住对方的目光来到了指定场所，但出现在那里的不是狐狸，而是协力赛人之一的法斑静火。说着被瞄准生命的静火，对炯炯提出了交易。那个时候，从都知事周边的doron的分析信息搜索clacker的灼们与小畑接触，以任意同行进行调查…。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>立体主义</title>
+  <originaltitle>Cubism</originaltitle>
+  <director>Fumiaki Kataoka</director>
+  <director>Kazuya Aiura</director>
+  <director>Tomoko Hiramuki</director>
+  <rating>2</rating>
+  <year>2019</year>
+  <imdbid>tt11033956</imdbid>
+  <tvdbid>7376528</tvdbid>
+  <runtime>46</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 3/心理测量者 - S03E08 - 立体主义-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Shindou Arata</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Kei Mikhail Ignatov</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <episode>8</episode>
+  <season>3</season>
+  <aired>2019-12-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7478684</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2747</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1242581</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>164621</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S03E08-立体主义</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1964643</uniqueid>
+  <uniqueid default="true" type="imdb">tt11033956</uniqueid>
+  <uniqueid default="false" type="tvdb">7376528</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>2.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.7</value>
+      <votes>79</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/nRhXupvNZSnEXGlIZdemwzG2M0D.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1723031</tvmazeid>
+  <bangumiid>196931</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S03E08 - 立体主义.mkv</original_filename>
+  <user_note />
+</episodedetails>

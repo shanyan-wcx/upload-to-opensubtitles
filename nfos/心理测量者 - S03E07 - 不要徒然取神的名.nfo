@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>怀疑外务省潜入搜查的故事为了引出情报而拷问了炯，并且还拘留了舞子，动摇了舞子。另一方面，根据查明应该死亡了的久利须的生存的灼，追寻连续爆炸恐怖活动的真相。久利须、凌驾、奥马、仁世四人一起制定了“终末救济计划”，但久利须把自己的儿子变成植物状态，而不是救济，而是向产生歧视的社会复仇，然后被“Vifrost”所利用——发现了计划发表的一系人员，最后的目标是小宫知道是加利那都知事。久利须企图将先前的灼烧们卷入其中进行自爆，但因病未能达成计划而死亡。就在这之前，如庇护久利须般站在雏河终结者面前的灼之犯罪系数眼看着下降，变成了零。另一方面，决心强制搜查“天堂之谜”的霜月带着二系目光展开了搜索。被逼得走投无路的故事将舞子作为人质与炯炯对峙，但却被一瞬间的间隙刺中，舞子放出的子弹使她绝命。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>不要徒然取神的名</title>
+  <originaltitle>Don’t take God’s name in vain</originaltitle>
+  <director>Akie Ishii</director>
+  <rating>7.8</rating>
+  <year>2019</year>
+  <imdbid>tt11033954</imdbid>
+  <tvdbid>7376526</tvdbid>
+  <runtime>46</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Production I.G</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/心理测量者 (2012)/Season 3/心理测量者 - S03E07 - 不要徒然取神的名-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Akane Tsunemori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Shion Karanomori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Mika Shimotsuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayane Sakura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Sho Hinakawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Shindou Arata</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuichi Nakamura</name>
+    <role>Kei Mikhail Ignatov</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuichi Nakamura/folder.jpg</thumb>
+  </actor>
+  <episode>7</episode>
+  <season>3</season>
+  <aired>2019-12-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8026687</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2746</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1396004</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>心理测量者-S03E07-不要徒然取神的名</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>心理测量者</showtitle>
+  <uniqueid default="false" type="tmdb">1964642</uniqueid>
+  <uniqueid default="true" type="imdb">tt11033954</uniqueid>
+  <uniqueid default="false" type="tvdb">7376526</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>4.0</value>
+      <votes>1</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.0</value>
+      <votes>72</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/qcq5bF5QWPzXun3GpcPl3AXr6Pg.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1723030</tvmazeid>
+  <bangumiid>196930</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>心理测量者 - S03E07 - 不要徒然取神的名.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>毕业志愿调查表的提交期限就快到了，龙儿为了减轻泰子的负担，因此希望毕业后能够去就职；而另一方面，泰子却一心只希望成绩好的龙儿可以继续念大学，母子俩为了这件事起了争执……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>有你的光景</title>
+  <originaltitle>君のいる景色</originaltitle>
+  <director>Tatsuyuki Nagai</director>
+  <writer>Yuyuko Takemiya</writer>
+  <writer>Yasu</writer>
+  <credits>Yuyuko Takemiya</credits>
+  <credits>Yasu</credits>
+  <rating>8</rating>
+  <year>2009</year>
+  <imdbid>tt1390351</imdbid>
+  <tvdbid>440749</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>J.C.Staff</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/龙与虎 (2008)/Season 1/龙与虎 - S01E22 - 有你的光景-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Taiga Aisaka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yui Horie</name>
+    <role>Kushieda Minori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yui Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Haruta Kouji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eri Kitamura</name>
+    <role>Ami Kawashima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eri Kitamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Kitamura Yuusaku (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Kihara Maya (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuyuki Okitsu</name>
+    <role>Noto Hisamitsu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuyuki Okitsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junji Majima</name>
+    <role>Takasu Ryuuji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Junji Majima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Asumi</name>
+    <role>Kanou Sakura (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Asumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Kaida</name>
+    <role>Kanou Sumire (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Kaida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Tanaka</name>
+    <role>Yuri Koigakubo (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayaka Ohara</name>
+    <role>Yasuko Takasu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayaka Ohara/folder.jpg</thumb>
+  </actor>
+  <episode>22</episode>
+  <season>1</season>
+  <aired>2009-03-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4224954</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1415</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>960000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>龙与虎-S01E22-有你的光景</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>龙与虎</showtitle>
+  <uniqueid default="false" type="tmdb">883635</uniqueid>
+  <uniqueid default="true" type="imdb">tt1390351</uniqueid>
+  <uniqueid default="false" type="tvdb">440749</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.4</value>
+      <votes>158</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/7QsBPf0IIGp0ECrpKAcLYOM8pw8.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>426827</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>龙与虎 - S01E22 - 有你的光景.mkv</original_filename>
+  <user_note />
+</episodedetails>

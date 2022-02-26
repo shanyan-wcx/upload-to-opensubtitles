@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>叶风在两年前就已经死了──左门所宣布的事实太过令人难以理解。叶风原来是超越时空与他们连系，吉野对此感到困惑，但对照之下真广却似乎全然无所谓，拿着手中的魔具逼进左门。正当吉野打算放弃一切，此时却想起了爱花曾经说过的故事，名字就叫做“暴风雨”。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>男朋友</title>
+  <originaltitle>彼氏</originaltitle>
+  <writer>Mari Okada</writer>
+  <credits>Mari Okada</credits>
+  <rating>8</rating>
+  <year>2012</year>
+  <imdbid>tt3552448</imdbid>
+  <tvdbid>4411181</tvdbid>
+  <runtime>24</runtime>
+  <studio>Aniplex</studio>
+  <tvrageid>1065242719</tvrageid>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/绝园的暴风雨 (2012)/Season 1/绝园的暴风雨 - S01E09 - 男朋友-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Hanemura Megumu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuki Kaji/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Fuwa Aika (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Koki Uchiyama</name>
+    <role>Takigawa Yoshino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Koki Uchiyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rikiya Koyama</name>
+    <role>Kusaribe Samon (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rikiya Koyama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshiyuki Toyonaga</name>
+    <role>Fuwa Mahiro (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toshiyuki Toyonaga/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Hoshimura Jun`ichirou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nana Mizuki</name>
+    <role>Evangeline Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nana Mizuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kusaribe Hakaze (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shintaro Asanuma</name>
+    <role>Hayakawa Takumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shintaro Asanuma/folder.jpg</thumb>
+  </actor>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2012-11-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9457241</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1469</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1505183</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>754404</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>绝园的暴风雨-S01E09-男朋友</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>绝园的暴风雨</showtitle>
+  <uniqueid default="false" type="tmdb">908593</uniqueid>
+  <uniqueid default="false" type="tvrage">1065242719</uniqueid>
+  <uniqueid default="true" type="imdb">tt3552448</uniqueid>
+  <uniqueid default="false" type="tvdb">4411181</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>8.7</value>
+      <votes>16</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/b28qK0UzPrgPGkPdAWt2gzKhbx7.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>455802</tvmazeid>
+  <bangumiid>199009</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>绝园的暴风雨 - S01E09 - 男朋友.mkv</original_filename>
+  <user_note />
+</episodedetails>

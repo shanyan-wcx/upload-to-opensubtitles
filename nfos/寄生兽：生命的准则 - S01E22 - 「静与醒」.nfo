@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>在女朋友里美的安慰下鼓起勇气的新一被后藤追杀，而右也偷了一辆汽车向对自己有利的深山里逃去，新一和右制作了各种战斗计划，但都没有成功，失去了右的新一悲伤的往村子里逃去，并遇见了一位和蔼的老奶奶，暂时住了下来。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>「静与醒」</title>
+  <originaltitle>静と醒</originaltitle>
+  <director>Kenichi Shimizu</director>
+  <director>Naoyuki Kuzuya</director>
+  <writer>Shoji Yonemura</writer>
+  <writer>Hitoshi Iwaaki</writer>
+  <credits>Shoji Yonemura</credits>
+  <credits>Hitoshi Iwaaki</credits>
+  <rating>8.8</rating>
+  <year>2015</year>
+  <imdbid>tt4503624</imdbid>
+  <tvdbid>5037908</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <studio>Madhouse</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/寄生兽：生命的准则 (2014)/Season 1/寄生兽：生命的准则 - S01E22 - 「静与醒」-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Nobunaga Shimazaki</name>
+    <role>Shinichi Izumi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobunaga Shimazaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Hirano</name>
+    <role>Migi (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Aya Hirano/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Satomi Murano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Hanazawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Kana Kimishima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Miyuki Sawashiro/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Tamiya Ryoko (voice) / Tamura Reiko (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Atsuko Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takaya Aoyagi</name>
+    <role>Kusano (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takaya Aoyagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Miki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/D/Daisuke Namikawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akira Ishida</name>
+    <role>Hideo Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Akira Ishida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayumu Murase</name>
+    <role>Jaw (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ayumu Murase/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Uragami (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Issei Futamata</name>
+    <role>Shirou Kuramori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/I/Issei Futamata/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Gotou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuhiko Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyono Yasuno</name>
+    <role>Yuko Tachikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kiyono Yasuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rena Maeda</name>
+    <role>Akiho Suzuki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rena Maeda/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuma Suzuki</name>
+    <role>Mamoru Uda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takuma Suzuki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuu Mizushima</name>
+    <role>Takeshi Hirokawa (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>22</episode>
+  <season>1</season>
+  <aired>2015-03-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7123626</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1420212</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>寄生兽：生命的准则-S01E22-「静与醒」</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>寄生兽：生命的准则</showtitle>
+  <uniqueid default="false" type="tmdb">1029899</uniqueid>
+  <uniqueid default="true" type="imdb">tt4503624</uniqueid>
+  <uniqueid default="false" type="tvdb">5037908</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.5</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>8.8</value>
+      <votes>512</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/jy0phUX4i6ptjFxwlrVPsChNiWC.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>160577</tvmazeid>
+  <bangumiid>427797</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>寄生兽：生命的准则 - S01E22 - 「静与醒」.mkv</original_filename>
+  <user_note />
+</episodedetails>

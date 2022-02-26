@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>12月，圣诞节将至之时，香子姐又给桐山打来电话，说自己的手表忘在他那里了。找到手表的桐山和香子在湖边相会，香子的恶毒话语打击着桐山，桐山想起了养父送给自己的圣诞礼物，那是一副将棋。桐山就连结业式都要对局，结业式后班里会有圣诞聚会，然而圣诞节对桐山来说是痛苦的节日……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>受赠的礼物①／受赠的礼物②</title>
+  <originaltitle>Chapter.20 贈られたもの① / Chapter.21 贈られたもの②</originaltitle>
+  <director>Yukihiro Miyamoto</director>
+  <writer>Akiyuki Simbo</writer>
+  <writer>Fuyashi Tou</writer>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Mamoru Kurosawa</writer>
+  <credits>Akiyuki Simbo</credits>
+  <credits>Fuyashi Tou</credits>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Mamoru Kurosawa</credits>
+  <rating>9.1</rating>
+  <year>2016</year>
+  <imdbid>tt7674742</imdbid>
+  <tvdbid>5784143</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 1/3月的狮子 - S01E10 - 受赠的礼物①／受赠的礼物②-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mitsuo Iwata</name>
+    <role>Yasui Manabu (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryuichi Kijima</name>
+    <role>Shogi player (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryuichi Kijima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshiaki Hasegawa</name>
+    <role>Shogi player (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Takahiro Sakurai</name>
+    <role>Takashi Hayashida (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Takahiro Sakurai/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toru Okawa</name>
+    <role>Masachika Kouda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Toru Okawa/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Marina Inoue</name>
+    <role>Kyouko Kouda / Ayumu Kouda (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Marina Inoue/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yumi Uchiyama</name>
+    <role>Rei Kiriyama (young) (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2016-12-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6391277</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1374686</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>196024</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S01E10-受赠的礼物①／受赠的礼物②</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1228381</uniqueid>
+  <uniqueid default="true" type="imdb">tt7674742</uniqueid>
+  <uniqueid default="false" type="tvdb">5784143</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>9.1</value>
+      <votes>140</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/7iED3btnuDARKdTIVIHsoLqb8Ep.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>947442</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S01E10 - 受赠的礼物①／受赠的礼物②.mkv</original_filename>
+  <user_note />
+</episodedetails>

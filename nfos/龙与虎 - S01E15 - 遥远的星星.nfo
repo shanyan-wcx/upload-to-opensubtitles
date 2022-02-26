@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>即将要进行学生会长的选举了，北村原本是众所瞩目的候选人，没想到他却表示说不但不想竞选下任的学生会长，而且还要退出学生会！隔天上学时，北村更是顶着一头金发现身，吓坏了所有的人……</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:43</dateadded>
+  <title>遥远的星星</title>
+  <originaltitle>星は、遠く</originaltitle>
+  <director>Tatsuyuki Nagai</director>
+  <writer>Yuyuko Takemiya</writer>
+  <writer>Yasu</writer>
+  <credits>Yuyuko Takemiya</credits>
+  <credits>Yasu</credits>
+  <rating>8</rating>
+  <year>2009</year>
+  <imdbid>tt1356238</imdbid>
+  <tvdbid>424920</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>J.C.Staff</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/龙与虎 (2008)/Season 1/龙与虎 - S01E15 - 遥远的星星-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Taiga Aisaka (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yui Horie</name>
+    <role>Kushieda Minori (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yui Horie/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Haruta Kouji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hiroyuki Yoshino/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eri Kitamura</name>
+    <role>Ami Kawashima (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/E/Eri Kitamura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Kitamura Yuusaku (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/H/Hirofumi Nojima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Nonaka</name>
+    <role>Kihara Maya (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/A/Ai Nonaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuyuki Okitsu</name>
+    <role>Noto Hisamitsu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kazuyuki Okitsu/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junji Majima</name>
+    <role>Takasu Ryuuji (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Junji Majima/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Asumi</name>
+    <role>Kanou Sakura (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kana Asumi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuko Kaida</name>
+    <role>Kanou Sumire (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yuko Kaida/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Tanaka</name>
+    <role>Yuri Koigakubo (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Tanaka/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayaka Ohara</name>
+    <role>Yasuko Takasu (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Sayaka Ohara/folder.jpg</thumb>
+  </actor>
+  <episode>15</episode>
+  <season>1</season>
+  <aired>2009-01-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4436267</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1415</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>960000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>龙与虎-S01E15-遥远的星星</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>龙与虎</showtitle>
+  <uniqueid default="false" type="tmdb">883628</uniqueid>
+  <uniqueid default="true" type="imdb">tt1356238</uniqueid>
+  <uniqueid default="false" type="tvdb">424920</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>8.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.8</value>
+      <votes>153</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/tGEgIxxnhixZ70gGEvYt9LgkCl0.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>426820</tvmazeid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:42Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>龙与虎 - S01E15 - 遥远的星星.mkv</original_filename>
+  <user_note />
+</episodedetails>

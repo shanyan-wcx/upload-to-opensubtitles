@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>A legion of Rodan swarm towards Nigashio. The Otaki Factory crew scramble to lure them away from the city, but soon find themselves surrounded.</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-03 16:09:42</dateadded>
+  <title>野蝇般的恐惧</title>
+  <originaltitle>のばえのきょうふ</originaltitle>
+  <director>Noriyuki Nomata</director>
+  <director>Takuma Suzuki</director>
+  <writer>Toh EnJoe</writer>
+  <writer>Goro Matsui</writer>
+  <writer>Keigo Koyanagi</writer>
+  <credits>Toh EnJoe</credits>
+  <credits>Goro Matsui</credits>
+  <credits>Keigo Koyanagi</credits>
+  <rating>7</rating>
+  <year>2021</year>
+  <imdbid>tt13640110</imdbid>
+  <tvdbid>8230816</tvdbid>
+  <runtime>24</runtime>
+  <genre>Animation</genre>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <studio>BONES</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/哥斯拉：奇异点 (2021)/Season 1/哥斯拉：奇异点 - S01E03 - 野蝇般的恐惧-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Yume Miyamoto</name>
+    <role>Mei Kamino (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yume Miyamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shoya Ishige</name>
+    <role>Yun Arikawa (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shoya Ishige/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Wataru Takagi</name>
+    <role>Goro Otaki (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/W/Wataru Takagi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Taro Kiuchi</name>
+    <role>Haberu 'Barbell' Kato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/T/Taro Kiuchi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Pelops II (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/M/Misaki Kuno/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yohei Azakami</name>
+    <role>Shunya Sato (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/Y/Yohei Azakami/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jin Urayama</name>
+    <role>Tsunetomo Yamamoto (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/J/Jin Urayama/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryosuke Hara</name>
+    <role>Air traffic controller (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hiromichi Tezuka</name>
+    <role>Senior air traffic controller (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shunichi Maki</name>
+    <role>Police officer (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kazuyoshi Hayashi</name>
+    <role>Town hall official (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenta Sasa</name>
+    <role>Commentator (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Teruyuki Tanzawa</name>
+    <role>Expert (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Genki Yoshimoto</name>
+    <role>Passenger A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Arisa Sakuraba</name>
+    <role>Passenger B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Riho Kuma</name>
+    <role>High school girl A (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shiori Hashimoto</name>
+    <role>High school girl B (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Jung (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Rie Kugimiya/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eriko Matsui</name>
+    <role>Newscaster (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ayako Takeuchi</name>
+    <role>Satomi Kanahara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kenichi Suzumura</name>
+    <role>Takehiro Kai (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kenichi Suzumura/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuya Nakashima</name>
+    <role>Reporter (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2021-04-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7195052</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1421</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1502928</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>627672</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>srd</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>哥斯拉：奇异点</showtitle>
+  <uniqueid default="false" type="tmdb">2820888</uniqueid>
+  <uniqueid default="true" type="imdb">tt13640110</uniqueid>
+  <uniqueid default="false" type="tvdb">8230816</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.0</value>
+      <votes>2</votes>
+    </rating>
+    <rating default="false" max="10" name="imdb">
+      <value>7.2</value>
+      <votes>96</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/2ZzO1y4UlTIe0nLJUFqHEzFUMrR.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>2070341</tvmazeid>
+  <bangumiid>1017498</bangumiid>
+  <generator>
+    <appname>MediaElch</appname>
+    <appversion>2.8.12</appversion>
+    <kodiversion>19</kodiversion>
+    <datetime>2021-12-03T06:16:41Z</datetime>
+  </generator>
+  <source>UNKNOWN</source>
+  <original_filename>哥斯拉：奇异点 - S01E03 - 野蝇般的恐惧.mkv</original_filename>
+  <user_note />
+</episodedetails>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>零和二海堂受托为柳原和岛田的棋匠战决赛，进行大盘解说。因为长久以来，都是柳原君临棋匠王座。出席会前晚会的记者以及相关人士，也几乎都是柳原的老朋友。虽然岛田身处于这种强大的排他感，却也燃起了想要拿到第一个头衔的斗志。</plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-04 19:49:02</dateadded>
+  <title>被烧光的原野①／被烧光的原野②</title>
+  <originaltitle>Chapter.79 焼野が原① / Chapter.80 焼野が原②</originaltitle>
+  <director>Takudai Kakuchi</director>
+  <writer>Chica Umino</writer>
+  <writer>Yukito Kizawa</writer>
+  <writer>Mie Oishi</writer>
+  <credits>Chica Umino</credits>
+  <credits>Yukito Kizawa</credits>
+  <credits>Mie Oishi</credits>
+  <rating>0</rating>
+  <year>2018</year>
+  <imdbid>tt8792850</imdbid>
+  <tvdbid>6362659</tvdbid>
+  <runtime>25</runtime>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>SHAFT</studio>
+  <studio>Aniplex</studio>
+  <studio>Asmik Ace</studio>
+  <studio>DENTSU</studio>
+  <studio>Hakusensha</studio>
+  <studio>NHK Enterprises</studio>
+  <studio>TOY'S FACTORY</studio>
+  <art>
+    <poster>/volume2/jellyfin/视频/动漫/3月的狮子 (2016)/Season 2/3月的狮子 - S02E17 - 被烧光的原野①／被烧光的原野②-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Rei Kiriyama (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kengo Kawanishi/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kentaro Tone</name>
+    <role>Nakamura (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/K/Kentaro Tone/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuhiko Okamoto</name>
+    <role>Harunobu Nikaidou (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/N/Nobuhiko Okamoto/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tesshou Genda</name>
+    <role>Takanori Jinguuji (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shin-ichiro Miki</name>
+    <role>Kai Shimada (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/S/Shin-ichiro Miki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hochu Otsuka</name>
+    <role>Sakutarou Yanagihara (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryo Sugisaki</name>
+    <role>Reporter (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryo Sugisaki/folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shinya Takahashi</name>
+    <role>Authorized person 1 (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kosuke Kobayashi</name>
+    <role>Authorized person 2 (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ryusei Nakao</name>
+    <role>Gan-chan (voice)</role>
+    <type>Actor</type>
+    <thumb>/var/packages/Jellyfin/target/data/metadata/People/R/Ryusei Nakao/folder.jpg</thumb>
+  </actor>
+  <episode>17</episode>
+  <season>2</season>
+  <aired>2018-03-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5679072</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>25</duration>
+        <durationinseconds>1502</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <bitrate>1370384</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>176675</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>3月的狮子-S02E17-被烧光的原野①／被烧光的原野②</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <showtitle>3月的狮子</showtitle>
+  <uniqueid default="false" type="tmdb">1380040</uniqueid>
+  <uniqueid default="true" type="imdb">tt8792850</uniqueid>
+  <uniqueid default="false" type="tvdb">6362659</uniqueid>
+  <ratings>
+    <rating default="false" max="10" name="imdb">
+      <value>9.0</value>
+      <votes>99</votes>
+    </rating>
+  </ratings>
+  <thumb>https://image.tmdb.org/t/p/original/rRvwCFSunzIZRSvk7ZcHFae8T3l.jpg</thumb>
+  <epbookmark />
+  <code />
+  <tvmazeid>1405035</tvmazeid>
+  <source>UNKNOWN</source>
+  <original_filename>3月的狮子 - S02E17 - 被烧光的原野①／被烧光的原野②.mkv</original_filename>
+  <user_note />
+</episodedetails>
